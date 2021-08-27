@@ -15,4 +15,3 @@ License
 MIT License
 © 2016 Michael Rose and released under the MIT License.
 See more info at https://academicpages.github.io/
-now is 8:29
