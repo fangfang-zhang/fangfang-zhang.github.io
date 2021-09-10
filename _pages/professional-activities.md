@@ -31,8 +31,9 @@ author_profile: true
 12. International Journal of Bio-inspired Computation
 13. CIRP Journal of Manufacturing Science and Technology
 14. International Journal of Intelligent Systems
-15. Journal of Scheduling
-16. Mathematics
+15. Journal of Computational Science
+16. Journal of Scheduling
+17. Mathematics
 
 **Program Committee Member for International Conferences**
 1. The Genetic and Evolutionary Computation Conference (GECCO), 2021
