@@ -20,21 +20,22 @@ author_profile: true
 1. IEEE Transactions on Evolutionary Computation
 2. IEEE Transactions on Cybernetics
 3. Swarm and Evolutionary Computation
-4. Applied Soft Computing
-5. Robotics and Computer-Integrated Manufacturing
-6. Knowledge-Based Systems
-7. Complex & Intelligent Systems
-8. Computers & Industrial Engineering
-9. Computers and Operations Research
-10. Journal of Process Control
-11. Neurocomputing
-12. Engineering Applications of Artificial Intelligence
-13. International Journal of Bio-inspired Computation
-14. CIRP Journal of Manufacturing Science and Technology
-15. International Journal of Intelligent Systems
-16. Journal of Computational Science
-17. Journal of Scheduling
-18. Mathematics
+4. Expert Systems With Applications
+5. Applied Soft Computing
+6. Robotics and Computer-Integrated Manufacturing
+7. Knowledge-Based Systems
+8. Complex & Intelligent Systems
+9. Computers & Industrial Engineering
+10. Computers and Operations Research
+11. Journal of Process Control
+12. Neurocomputing
+13. Engineering Applications of Artificial Intelligence
+14. International Journal of Bio-inspired Computation
+15. CIRP Journal of Manufacturing Science and Technology
+16. International Journal of Intelligent Systems
+17. Journal of Computational Science
+18. Journal of Scheduling
+19. Mathematics
 
 **Program Committee Member for International Conferences**
 1. The Genetic and Evolutionary Computation Conference (GECCO), 2021
