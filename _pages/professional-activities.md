@@ -3,7 +3,7 @@ layout: archive
 title: "Professional Activities"
 permalink: /professional-activities/
 author_profile: true
-ol.space_list li { margin-bottom: 1em; }
+ol.space_list li { margin-bottom: 0em; }
 ---
 **Professional Positions**
 <ol class=space_list>
