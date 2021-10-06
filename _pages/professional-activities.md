@@ -3,10 +3,10 @@ layout: archive
 title: "Professional Activities"
 permalink: /professional-activities/
 author_profile: true
-ol.space_list li { margin-bottom: 0em; }
+ul li { padding: 5px 0px; }
 ---
 **Professional Positions**
-<ol class=space_list>
+<ol>
 <li> Chair: Professional Activities Coordinator, IEEE New Zealand Central Section, 2021 - Present </li>
 <li> Chair: Student Branch (Victoria University of Wellington), IEEE New Zealand Central Section, 2020 – Present </li>
 <li> Treasurer: Young Professional Affinity Group, IEEE New Zealand Central Section, 2020 – Present </li>
