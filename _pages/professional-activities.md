@@ -13,7 +13,7 @@ author_profile: true
 
 **Tutorials**
 <ol>
-<li> Genetic Programming for Job Shop Scheduling at IEEE Symposium Series on Computational Intelligence </li> [(SSCI 2021)](https://attend.ieee.org/ssci-2021/).
+<li> <a href="https://attend.ieee.org/ssci-2021/"> Genetic Programming for Job Shop Scheduling at IEEE Symposium Series on Computational Intelligence(SSCI 2021) </a> </li> [(SSCI 2021)](https://attend.ieee.org/ssci-2021/).
 </ol>
 
 **Special Sessions**
