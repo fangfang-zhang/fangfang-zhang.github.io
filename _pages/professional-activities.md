@@ -39,12 +39,13 @@ author_profile: true
 20. Journal of Artificial Intelligence Research
 
 **Program Committee Member for International Conferences**
-1. The Genetic and Evolutionary Computation Conference (GECCO), 2021
-2. IEEE Congress on Evolutionary Computation (CEC), 2020, 2021
-3. IEEE Symposium Series on Computational Intelligence (SSCI), 2019, 2020, 2021
-4. The Australasian Joint Conference on Artificial Intelligence (AJCAI), 2018, 2021
-5. The International Conference on Machine Learning and Intelligent Systems (MLIS), 2021
-6. The International Symposium on Automation, Information and Computing (ISAIC), 2021
+1 The Genetic and Evolutionary Computation Conference (GECCO), 2021
+1 IEEE Congress on Evolutionary Computation (CEC), 2020, 2021
+1 The Leading European Event on Bio‑Inspired Computation (Evo*), 2022
+1 IEEE Symposium Series on Computational Intelligence (SSCI), 2019, 2020, 2021
+1 The Australasian Joint Conference on Artificial Intelligence (AJCAI), 2018, 2021
+1 The International Conference on Machine Learning and Intelligent Systems (MLIS), 2021
+1 The International Symposium on Automation, Information and Computing (ISAIC), 2021
 
 **Professional Membership**
 1. Graduate Student Member of IEEE, 2018 – Present
