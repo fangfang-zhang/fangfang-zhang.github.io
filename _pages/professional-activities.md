@@ -3,9 +3,10 @@ layout: archive
 title: "Professional Activities"
 permalink: /professional-activities/
 author_profile: true
+ol.space_list li { margin-bottom: 1em; }
 ---
 **Professional Positions**
-<ol>
+<ol class=space_list>
 <li> Chair: Professional Activities Coordinator, IEEE New Zealand Central Section, 2021 - Present </li>
 <li> Chair: Student Branch (Victoria University of Wellington), IEEE New Zealand Central Section, 2020 – Present </li>
 <li> Treasurer: Young Professional Affinity Group, IEEE New Zealand Central Section, 2020 – Present </li>
@@ -18,7 +19,7 @@ author_profile: true
 
 **Special Sessions**
 <ol>
-<li> <a href="https://attend.ieee.org/ssci-2021/special-session-genetic-programming-and-machine-learning-for-scheduling/"> Genetic Programming and Machine Learning for Scheduling at IEEE Symposium Series on Computational Intelligence </a> </li>
+<li> <a href="https://attend.ieee.org/ssci-2021/special-session-genetic-programming-and-machine-learning-for-scheduling/"> Genetic Programming and Machine Learning for Scheduling at IEEE Symposium Series on Computational Intelligence (SSCI 2021) </a> </li>
 </ol>
 
 
