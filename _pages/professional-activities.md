@@ -36,6 +36,7 @@ author_profile: true
 17. Journal of Computational Science
 18. Journal of Scheduling
 19. Mathematics
+20. Journal of Artificial Intelligence Research
 
 **Program Committee Member for International Conferences**
 1. The Genetic and Evolutionary Computation Conference (GECCO), 2021
