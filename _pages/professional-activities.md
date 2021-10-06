@@ -5,38 +5,46 @@ permalink: /professional-activities/
 author_profile: true
 ---
 **Professional Positions**
-1. Chair: Professional Activities Coordinator, IEEE New Zealand Central Section, 2021 - Present
-2. Chair: Student Branch (Victoria University of Wellington), IEEE New Zealand Central Section, 2020 – Present
-3. Treasurer: Young Professional Affinity Group, IEEE New Zealand Central Section, 2020 – Present
+<ol>
+<li> Chair: Professional Activities Coordinator, IEEE New Zealand Central Section, 2021 - Present </li>
+<li> Chair: Student Branch (Victoria University of Wellington), IEEE New Zealand Central Section, 2020 – Present </li>
+<li> Treasurer: Young Professional Affinity Group, IEEE New Zealand Central Section, 2020 – Present </li>
+</ol>
 
 **Tutorials**
-1. Genetic Programming for Job Shop Scheduling at IEEE Symposium Series on Computational Intelligence [(SSCI 2021)](https://attend.ieee.org/ssci-2021/).
+<ol>
+<li> Genetic Programming for Job Shop Scheduling at IEEE Symposium Series on Computational Intelligence [(SSCI 2021)](https://attend.ieee.org/ssci-2021/). </li>
+</ol>
 
 **Special Sessions**
-1. Genetic Programming and Machine Learning for Scheduling at IEEE Symposium Series on Computational Intelligence [(SSCI 2021)](https://attend.ieee.org/ssci-2021/). 
+<ol>
+<li> Genetic Programming and Machine Learning for Scheduling at IEEE Symposium Series on Computational Intelligence [(SSCI 2021)](https://attend.ieee.org/ssci-2021/). </li>
+</ol>
 
 
 **Peer Reviewer for International Journals**
-1. IEEE Transactions on Evolutionary Computation
-2. IEEE Transactions on Cybernetics
-3. Swarm and Evolutionary Computation
-4. Expert Systems With Applications
-5. Applied Soft Computing
-6. Robotics and Computer-Integrated Manufacturing
-7. Knowledge-Based Systems
-8. Complex & Intelligent Systems
-9. Computers & Industrial Engineering
-10. Computers and Operations Research
-11. Journal of Process Control
-12. Neurocomputing
-13. Engineering Applications of Artificial Intelligence
-14. International Journal of Bio-inspired Computation
-15. CIRP Journal of Manufacturing Science and Technology
-16. International Journal of Intelligent Systems
-17. Journal of Computational Science
-18. Journal of Scheduling
-19. Mathematics
-20. Journal of Artificial Intelligence Research
+<ol>
+<li> IEEE Transactions on Evolutionary Computation </li>
+<li> IEEE Transactions on Cybernetics </li>
+<li> Swarm and Evolutionary Computation </li>
+<li> Expert Systems With Applications </li>
+<li> Applied Soft Computing </li>
+<li> Robotics and Computer-Integrated Manufacturing </li>
+<li> Knowledge-Based Systems </li>
+<li> Complex & Intelligent Systems </li>
+<li> Computers & Industrial Engineering </li>
+<li> Computers and Operations Research </li>
+<li> Journal of Process Control </li>
+<li> Neurocomputing </li>
+<li> Engineering Applications of Artificial Intelligence </li>
+<li> International Journal of Bio-inspired Computation </li>
+<li> CIRP Journal of Manufacturing Science and Technology </li>
+<li> International Journal of Intelligent Systems </li>
+<li> Journal of Computational Science </li>
+<li> Journal of Scheduling </li>
+<li> Mathematics </li>
+<li> Journal of Artificial Intelligence Research </li>
+</ol>
 
 **Program Committee Member for International Conferences**
 <ol>
@@ -50,6 +58,8 @@ author_profile: true
 </ol>
 
 **Professional Membership**
-1. Graduate Student Member of IEEE, 2018 – Present
-2. Member of IEEE Computational Intelligence Society (CIS), 2018 – Present
-3. Member of ACM Special Interest Group on Genetic and Evolutionary Computation (SIGEVO), 2020 – Present
+<ol>
+<li> Graduate Student Member of IEEE, 2018 – Present </li>
+<li> Member of IEEE Computational Intelligence Society (CIS), 2018 – Present </li>
+<li> Member of ACM Special Interest Group on Genetic and Evolutionary Computation (SIGEVO), 2020 – Present </li>
+</ol>
