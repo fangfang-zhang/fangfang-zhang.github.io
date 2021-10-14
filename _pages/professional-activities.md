@@ -61,7 +61,7 @@ ul li { padding: 5px 0px; }
 
 **Professional Membership**
 <ol>
-<li> Member of ACM Special Interest Group on Genetic and Evolutionary Computation (SIGEVO), 2020 – Present </li>
+<li> ACM Special Interest Group on Genetic and Evolutionary Computation (SIGEVO) ACM Membership, 2019 – Present </li>
 <li> IEEE Women in Engineering Membership, 2020 - Present </li>
 <li> IEEE Young Professionals, 2019 - Present </li>
 <li> IEEE Membership, 2019 – Present </li>
