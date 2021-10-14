@@ -61,7 +61,9 @@ ul li { padding: 5px 0px; }
 
 **Professional Membership**
 <ol>
-<li> Graduate Student Member of IEEE, 2018 – Present </li>
-<li> Member of IEEE Computational Intelligence Society (CIS), 2018 – Present </li>
 <li> Member of ACM Special Interest Group on Genetic and Evolutionary Computation (SIGEVO), 2020 – Present </li>
+<li> IEEE Women in Engineering Membership, 2020 - Present </li>
+<li> IEEE Young Professionals, 2019 - Present </li>
+<li> IEEE Membership, 2019 – Present </li>
+<li> IEEE Computational Intelligence Society Membership, 2019 – Present </li>
 </ol>
