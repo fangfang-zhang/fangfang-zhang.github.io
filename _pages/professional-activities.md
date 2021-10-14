@@ -45,6 +45,7 @@ ul li { padding: 5px 0px; }
 <li> Journal of Scheduling </li>
 <li> Mathematics </li>
 <li> Journal of Artificial Intelligence Research </li>
+<li> Open Access (Electronics) </li>
 </ol>
 
 **Program Committee Member for International Conferences**
