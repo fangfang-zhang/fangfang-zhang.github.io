@@ -23,5 +23,5 @@ author_profile: true
 
 **Honour/Master/Summer Project**
 <ol>
-<li> Gaofeng Shi, “Genetic programming for Job Shop Scheduling”, Victoria University of Wellington, Nov. 2021 – Present (co-supervised with Dr <a href="https://meiyi1986.github.io/"> Yi Mei </a> and Prof <a href="https://homepages.ecs.vuw.ac.nz/~mengjie/"> Mengjie Zhang) </a> </li> 
+<li> Gaofeng Shi, “Genetic programming for Job Shop Scheduling”, Victoria University of Wellington, Nov. 2021 – Present </li> 
 </ol>
