@@ -16,12 +16,12 @@ author_profile: true
 
 **Thesis Supervision**
 <ol>
-<li> Meng Xu, “Genetic programming for Dynamic Flexible Job Shop Scheduling”, Victoria University of Wellington, Nov. 2020 – Present (PhD student, co-supervised with Dr <a href="https://meiyi1986.github.io/"> Yi Mei </a> and Prof <a href="https://homepages.ecs.vuw.ac.nz/~mengjie/"> Mengjie Zhang </a> </li> 
-<li> Zhixing Huang, “Linear Genetic programming for Dynamic Job Shop Scheduling”, Victoria University of Wellington, Nov. 2020 – Present (PhD student, co-supervised with Dr <a href="https://meiyi1986.github.io/"> Yi Mei </a> and Prof <a href="https://homepages.ecs.vuw.ac.nz/~mengjie/"> Mengjie Zhang </a> </li> 
+<li> Meng Xu, “Genetic programming for Dynamic Flexible Job Shop Scheduling”, Victoria University of Wellington, Nov. 2020 – Present (PhD student, co-supervised with Dr <a href="https://meiyi1986.github.io/"> Yi Mei </a> and Prof <a href="https://homepages.ecs.vuw.ac.nz/~mengjie/"> Mengjie Zhang) </a> </li> 
+<li> Zhixing Huang, “Linear Genetic programming for Dynamic Job Shop Scheduling”, Victoria University of Wellington, Nov. 2020 – Present (PhD student, co-supervised with Dr <a href="https://meiyi1986.github.io/"> Yi Mei </a> and Prof <a href="https://homepages.ecs.vuw.ac.nz/~mengjie/"> Mengjie Zhang) </a> </li> 
 </ol>
 
 
 **Honour/Master/Summer Project**
 <ol>
-<li> Gaofeng Shi, “Genetic programming for Job Shop Scheduling”, Victoria University of Wellington, Nov. 2021 – Present (PhD student, co-supervised with Dr <a href="https://meiyi1986.github.io/"> Yi Mei </a> and Prof <a href="https://homepages.ecs.vuw.ac.nz/~mengjie/"> Mengjie Zhang </a> </li> 
+<li> Gaofeng Shi, “Genetic programming for Job Shop Scheduling”, Victoria University of Wellington, Nov. 2021 – Present (co-supervised with Dr <a href="https://meiyi1986.github.io/"> Yi Mei </a> and Prof <a href="https://homepages.ecs.vuw.ac.nz/~mengjie/"> Mengjie Zhang) </a> </li> 
 </ol>
