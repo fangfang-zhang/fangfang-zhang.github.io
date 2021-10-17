@@ -29,8 +29,3 @@ ul li { padding: 5px 0px; }
 <li> Certificate of Completion for Professional Development Offered by Oracle Academy, 2011 </li>
 </ol>
 
-**Special Sessions**
-<ol>
-<li> <a href="https://attend.ieee.org/ssci-2021/special-session-genetic-programming-and-machine-learning-for-scheduling/"> Genetic Programming and Machine Learning for Scheduling at IEEE Symposium Series on Computational Intelligence (SSCI 2021) </a> </li>
-</ol>
-
