@@ -3,6 +3,7 @@ layout: archive
 title: "Honours/Awards"
 permalink: /honours-awards/
 author_profile: true
+ul li { padding: 5px 0px; }
 ---
 <ol>
 <li> Popular Paper Recognised, IEEE Transactions on Evolutionary Computation, 2021 (top 50 most frequently accessed papers in the journal) </li>
@@ -26,5 +27,10 @@ author_profile: true
 <li> Outstanding Worker of S.F. Express Company as Intern, 2014 </li>
 <li> Outstanding Youth Volunteer of the 26th Summer Universiade Shenzhen Event, 2011 </li>
 <li> Certificate of Completion for Professional Development Offered by Oracle Academy, 2011 </li>
+</ol>
+
+**Special Sessions**
+<ol>
+<li> <a href="https://attend.ieee.org/ssci-2021/special-session-genetic-programming-and-machine-learning-for-scheduling/"> Genetic Programming and Machine Learning for Scheduling at IEEE Symposium Series on Computational Intelligence (SSCI 2021) </a> </li>
 </ol>
 
