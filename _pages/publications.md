@@ -6,6 +6,9 @@ author_profile: true
 ---
 To get the BibTex of the full papers, please download from [here](https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/master/files/mybib.bib), or ask me via fangfang.zhang@ecs.vuw.ac.nz.
 
+**Authored Books**
+1. Fangfang Zhang, Su Nguyen, Yi Mei, and Mengjie Zhang. “Genetic Programming for Production Scheduling: An Evolutionary Learning Approach”. Springer Book Series on Machine Learning: Foundations, Methodologies, and Applications. (Scheduled to publish in October 2021 by Springer, 356 pages, the first book on hyper-heuristic for production scheduling)
+
 **Refereed Journal Articles**
 <ol>
 <li> Fangfang Zhang, Yi Mei, Su Nguyen, and Mengjie Zhang. "Correlation Coefficient Based Recombinative Guidance for Genetic Programming Hyper-heuristics in Dynamic Flexible Job Shop Scheduling". <i>IEEE Transactions on Evolutionary Computation</i>, vol. 25, no. 3, pp. 552-566, 2021. <a target="_blank" href="https://ieeexplore.ieee.org/document/9344816">[http]</a><a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/master/files/2021-TEVC-Crossover.pdf">[pdf]</a> (<span style="color: #0000a0">Selected as a Popular Paper</span>)</li>
@@ -43,13 +46,13 @@ To get the BibTex of the full papers, please download from [here](https://github
 <li> Ben Niu, Ying Bi, Fangfang Zhang, Jing Liu. “Optimization of Production Scheduling in Injection Workshop with Machine and Mold Consideration”. <i>Chinese journal of Management Science</i>, 2015, pp. 7 (In Chinese) <a target="_blank" href="https://www.cnki.com.cn/Article/CJFDTotal-ZGGK2015S1034.htm">[http]</a><a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/master/files/%5B2015%5D%20%E8%80%83%E8%99%91%E4%BA%86%E6%9C%BA%E5%99%A8%E5%92%8C%E6%A8%A1%E5%85%B7%E7%BB%B4%E6%8A%A4%E7%9A%84%E6%B3%A8%E5%A1%91%E8%BD%A6%E9%97%B4%E7%94%9F%E4%BA%A7%E8%B0%83%E5%BA%A6%E6%99%BA%E8%83%BD%E4%BC%98%E5%8C%96_%E7%89%9B%E5%A5%94.pdf">[pdf]</a></li>   
 </ol>
 
-**Thesis**
+**Theses**
 <ol>
 <li> PhD thesis, Fangfang Zhang. "Genetic Programming Hyper-heuristics for Dynamic Flexible Job Shop Scheduling". 2021, 300 pages, DOI: https://doi.org/10.26686/wgtn.16528677 <a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/main/files/2021-thesis_access.pdf">[pdf]</a></li>   
 <li> Master thesis, Fangfang Zhang. "Optimization Research for Yard Truck Scheduling in Container Terminal". 2017, 56 pages (In Chinese) <a target="_blank" href="https://cdmd.cnki.com.cn/Article/CDMD-10590-1017812977.htm">[http]</a><a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/master/files/%5B2017%5D%20%E9%9B%86%E8%A3%85%E7%AE%B1%E7%A0%81%E5%A4%B4%E9%9B%86%E5%8D%A1%E8%B0%83%E5%BA%A6%E4%BC%98%E5%8C%96%E7%A0%94%E7%A9%B6_%E5%BC%A0%E8%8A%B3%E8%8A%B3.caj">[caj]</a></li> 
 </ol>
 
-**Patent**
+**Patents**
 1. Intelligent anti-drowning device, Utility Model Patent, 2018-2028
 
 
