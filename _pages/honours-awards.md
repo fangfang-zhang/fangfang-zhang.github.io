@@ -4,7 +4,6 @@ title: "Honours/Awards"
 permalink: /honours-awards/
 author_profile: true
 ---
-<ol>
 <li> Popular Paper Recognised, IEEE Transactions on Evolutionary Computation, 2021 (top 50 most frequently accessed papers in the journal) </li>
 <li> Popular Paper Recognised, IEEE Transactions on Cybernetics, 2021 (top 50 most frequently accessed papers in the journal) </li>
 <li> Best Paper Runner-Up Award, Australasian Joint Conference on Artificial Intelligence, 2018 (Prize: $200 NZD) </li>
@@ -26,4 +25,4 @@ author_profile: true
 <li> Outstanding Worker of S.F. Express Company as Intern, 2014 </li>
 <li> Outstanding Youth Volunteer of the 26th Summer Universiade Shenzhen Event, 2011 </li>
 <li> Certificate of Completion for Professional Development Offered by Oracle Academy, 2011 </li>
-</ol>
+
