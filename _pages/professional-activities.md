@@ -25,8 +25,8 @@ ul li { padding: 5px 0px; }
 
 **Peer Reviewer for International Journals**
 <ol>
-<li> IEEE Transactions on Evolutionary Computation </li>
-<li> IEEE Transactions on Cybernetics </li>
+<li> IEEE Transactions on Evolutionary Computation (Top Q1, ARC/ERA Tier A<sup>*</sup>, impact factor = 11.554) </li>
+<li> IEEE Transactions on Cybernetics (Top Q1, ARC/ERA Tier A, impact factor = 11.448)</li>
 <li> Swarm and Evolutionary Computation </li>
 <li> Expert Systems With Applications </li>
 <li> Applied Soft Computing </li>
