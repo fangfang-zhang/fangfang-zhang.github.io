@@ -5,7 +5,6 @@ permalink: /honours-awards/
 author_profile: true
 ul li { padding: 5px 0px; }
 ---
-**Honours**
 <ol>
 <li> Popular Paper Recognised, IEEE Transactions on Evolutionary Computation, 2021 (top 50 most frequently accessed papers in the journal) </li>
 <li> Popular Paper Recognised, IEEE Transactions on Cybernetics, 2021 (top 50 most frequently accessed papers in the journal) </li>
@@ -24,7 +23,7 @@ ul li { padding: 5px 0px; }
 <li> Third Prize of the 4th Li Yan Management sub-forum Competition, Shenzhen University, 2016 </li>
 <li> Excellent Graduate of Shenzhen University, 2014 </li>
 <li> Bronze Award of China (Ningbo) College Students Entrepreneurship Competition, South China (Shenzhen) Division, 2016 </li>
-<li> Outstanding Volunteer of Shenzhen Public Welfare Undertakings, 2016
+<li> Outstanding Volunteer of Shenzhen Public Welfare Undertakings, 2016 </li>
 <li> Outstanding Worker of S.F. Express Company as Intern, 2014 </li>
 <li> Outstanding Youth Volunteer of the 26th Summer Universiade Shenzhen Event, 2011 </li>
 <li> Certificate of Completion for Professional Development Offered by Oracle Academy, 2011 </li>
