@@ -46,6 +46,7 @@ ul li { padding: 5px 0px; }
 <li> Journal of Artificial Intelligence Research (ARC/ERA Tier A) </li>
 <li> Complex & Intelligent Systems (impact factor = 5.277) </li>
 <li> International Journal of Bio-inspired Computation (Top Q2, impact factor = 3.977) </li>
+<li> Operational Research </li>
 <li> Mathematics </li>
 <li> Electronics </li>
 </ol>
