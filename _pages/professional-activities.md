@@ -26,28 +26,30 @@ ul li { padding: 5px 0px; }
 
 **Peer Reviewer for International Journals**
 <ol>
-<li> IEEE Transactions on Evolutionary Computation (Top Q1, ARC/ERA Tier A<sup>*</sup>, impact factor = 11.554) </li>
-<li> IEEE Transactions on Cybernetics (Top Q1, ARC/ERA Tier A, impact factor = 11.448)</li>
-<li> Swarm and Evolutionary Computation </li>
-<li> Expert Systems With Applications </li>
-<li> Applied Soft Computing </li>
-<li> Robotics and Computer-Integrated Manufacturing </li>
-<li> Knowledge-Based Systems </li>
-<li> Complex & Intelligent Systems </li>
-<li> Computers & Industrial Engineering </li>
-<li> Computers and Operations Research </li>
-<li> Journal of Process Control </li>
-<li> Neurocomputing </li>
-<li> Engineering Applications of Artificial Intelligence </li>
-<li> International Journal of Bio-inspired Computation </li>
-<li> CIRP Journal of Manufacturing Science and Technology </li>
-<li> International Journal of Intelligent Systems </li>
-<li> Journal of Computational Science </li>
-<li> Journal of Scheduling </li>
+<li> IEEE Transactions on Evolutionary Computation (Top Q1, ARC/ERA Tier A*, impact factor = 11.554) </li>
+<li> IEEE Transactions on Cybernetics (Top Q1, ARC/ERA Tier A, impact factor = 11.448) </li>
+<li> Evolutionary Computation (ARC/ERA Tier A) </li>
+<li> Robotics and Computer Integrated Manufacturing (Top Q1, ARC/ERA Tier A, impact factor = 5.666) </li>
+<li> International Journal of Intelligent Systems (Top Q1, impact factor = 8.709) </li>
+<li> Knowledge-Based Systems (Top Q1, impact factor = 8.038) </li>
+<li> Swarm and Evolutionary Computation (Top Q1, impact factor = 7.177) </li>
+<li> Expert Systems With Applications (Top Q1, impact factor = 6.954) </li>
+<li> Applied Soft Computing (Top Q1, impact factor = 6.725) </li>
+<li> Engineering Applications of Artificial Intelligence (Top Q1, impact factor = 6.212) </li>
+<li> Neurocomputing (Top Q1, impact factor = 5.719) </li>  
+<li> Computers & Industrial Engineering (Top Q1, impact factor = 5.431) </li> 
+<li> Computers and Operations Research (Top Q1, impact factor = 4.008) </li>
+<li> Journal of Computational Science (Top Q1, impact factor = 3.976) </li> 
+<li> Journal of Process Control (Top Q1, impact factor = 3.666) </li>  
+<li> CIRP Journal of Manufacturing Science and Technology (Top Q1, impact factor = 3.602) </li> 
+<li> Journal of Scheduling (Top Q1, impact factor = 2.097) </li>
+<li> Journal of Artificial Intelligence Research (ARC/ERA Tier A) </li>
+<li> Complex & Intelligent Systems (impact factor = 5.277) </li>
+<li> International Journal of Bio-inspired Computation (Top Q2, impact factor = 3.977) </li>
 <li> Mathematics </li>
-<li> Journal of Artificial Intelligence Research </li>
-<li> Open Access (Electronics) </li>
+<li> Electronics </li>
 </ol>
+
 
 **Program Committee Member for International Conferences**
 <ol>
