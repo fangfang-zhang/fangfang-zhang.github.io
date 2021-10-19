@@ -10,7 +10,7 @@ ul li { padding: 5px 0px; }
 <li> Chair: Professional Activities Coordinator, IEEE New Zealand Central Section, 2021 - Present </li>
 <li> Chair: Student Branch (Victoria University of Wellington), IEEE New Zealand Central Section, 2020 – Present </li>
 <li> Treasurer: Young Professional Affinity Group, IEEE New Zealand Central Section, 2020 – Present </li>
-<li> Chair: Wellington student representative of the New Zealand Chinese Students Association, 2018 - Present </li>
+<li> Chair: Wellington Student Representative of the New Zealand Chinese Students Association, 2018 - Present </li>
 </ol>
 
 **Tutorials**
