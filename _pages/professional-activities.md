@@ -7,20 +7,20 @@ ul li { padding: 5px 0px; }
 ---
 **Professional Positions**
 <ol>
-<li> Professional Activities Coordinator, IEEE New Zealand Central Section, 2021 - Present </li>
-<li> Chair: Student Branch (Victoria University of Wellington), IEEE New Zealand Central Section, 2020 – Present </li>
-<li> Treasurer: Young Professional Affinity Group, IEEE New Zealand Central Section, 2020 – Present </li>
-<li> Chair: New Zealand Chinese Students Association (wellington), 2018 - Present </li>
+<li> <b> Professional Activities Coordinator </b>, IEEE New Zealand Central Section, 2021 - Present </li>
+<li> <b> Chair </b>: Student Branch (Victoria University of Wellington), IEEE New Zealand Central Section, 2020 – Present </li>
+<li> <b> Treasurer </b>: Young Professional Affinity Group, IEEE New Zealand Central Section, 2020 – Present </li>
+<li> <b> Chair </b>: New Zealand Chinese Students Association (wellington), 2018 - Present </li>
 </ol>
 
 **Tutorials**
 <ol>
-<li> <a href="https://attend.ieee.org/ssci-2021/tutorial-genetic-programming-for-job-shop-scheduling/"> Genetic Programming for Job Shop Scheduling at IEEE Symposium Series on Computational Intelligence (SSCI 2021) </a> </li> 
+<li> <a href="https://attend.ieee.org/ssci-2021/tutorial-genetic-programming-for-job-shop-scheduling/"> Speaker of "Genetic Programming for Job Shop Scheduling" at IEEE Symposium Series on Computational Intelligence (SSCI 2021) </a> </li> 
 </ol>
 
 **Special Sessions**
 <ol>
-<li> <a href="https://attend.ieee.org/ssci-2021/special-session-genetic-programming-and-machine-learning-for-scheduling/"> Genetic Programming and Machine Learning for Scheduling at IEEE Symposium Series on Computational Intelligence (SSCI 2021) </a> </li>
+<li> <a href="https://attend.ieee.org/ssci-2021/special-session-genetic-programming-and-machine-learning-for-scheduling/"> Chair of "Genetic Programming and Machine Learning for Scheduling" at IEEE Symposium Series on Computational Intelligence (SSCI 2021) </a> </li>
 </ol>
 
 
