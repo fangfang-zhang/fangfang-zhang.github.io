@@ -7,7 +7,7 @@ author_profile: true
 
 **Teaching and Work Experience**
 <ol>
-<li> <b>Head</b> Tutor for COMP307 (Introduction to Artificial Intelligence), Mar.-Jun. 2021, School of Engineering and Computer Science, VUW (Victoria University of Wellington) </li>
+<li> <b>Head Tutor</b> for COMP307 (Introduction to Artificial Intelligence), Mar.-Jun. 2021, School of Engineering and Computer Science, VUW (Victoria University of Wellington) </li>
 <li> <b>Tutor</b> for ECEN321 (Engineering Statistics), Sep.-Nov. 2020, School of Engineering and Computer Science, VUW </li>
 <li> <b>Tutor</b> for COMP132 (Programming for the Natural and Social Sciences), Jul.-Nov. 2020, School of Engineering and Computer Science, VUW </li>
 <li> <b>Research Assistant</b> for Marsden Fund, Jul.-Dec. 2020, VUW </li>
