@@ -16,8 +16,8 @@ author_profile: true
 <li> Tutor for COMP361 (Design and Analysis of Algorithms), Jul.-Nov. 2019, School of Engineering and Computer Science, VUW </li>
 <li> Research Assistant for Marsden Fund, Jan.-Mar. 2019, VUW </li>
 <li> Tutor for COMP307 (Introduction to Artificial Intelligence), Mar.-Jun. 2018, School of Engineering and Computer Science, VUW </li>
-<li> Course Coordinator for “Theory and Method of Social Survey”, Sep. 2016-Jan. 2017, Adult Education of Shenzhen University, VUW </li>
-<li> Course Coordinator for “Modern Marketing”, Sep. 2015-Jan. 2016, Adult Education of Shenzhen University, VUW </li>
+<li> Course Coordinator for “Theory and Method of Social Survey”, Sep. 2016-Jan. 2017, Adult Education of Shenzhen University, China </li>
+<li> Course Coordinator for “Modern Marketing”, Sep. 2015-Jan. 2016, Adult Education of Shenzhen University, China </li>
 </ol>
 
 **Thesis Supervision**
