@@ -10,6 +10,7 @@ ul li { padding: 5px 0px; }
 <li> <b> Professional Activities Coordinator: </b> IEEE New Zealand Central Section, 2021 - Present </li>
 <li> <b> Chair: </b> Student Branch (Victoria University of Wellington), IEEE New Zealand Central Section, 2020 – Present </li>
 <li> <b> Treasurer: </b> Young Professional Affinity Group, IEEE New Zealand Central Section, 2020 – Present </li>
+<li> <b> Post-Doc Rember representative: </b> AI Researchers Association, 2021 - Present </li>
 <li> <b> Chair: </b> New Zealand Chinese Students Association (wellington), 2018 - Present </li>
 </ol>
 
