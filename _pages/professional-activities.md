@@ -38,6 +38,7 @@ ul li { padding: 5px 0px; }
 <li> Expert Systems With Applications (Top Q1, impact factor = 6.954) </li>
 <li> Applied Soft Computing (Top Q1, impact factor = 6.725) </li>
 <li> Engineering Applications of Artificial Intelligence (Top Q1, impact factor = 6.212) </li>
+<li> Memetic Computing (Top Q1, impact factor = 5.900) </li>
 <li> Neurocomputing (Top Q1, impact factor = 5.719) </li>  
 <li> Computers & Industrial Engineering (Top Q1, impact factor = 5.431) </li> 
 <li> Computers and Operations Research (Top Q1, impact factor = 4.008) </li>
