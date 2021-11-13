@@ -7,7 +7,7 @@ author_profile: true
 To get the BibTex of the full papers, please download from [here](https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/master/files/mybib.bib), or ask me via fangfang.zhang@ecs.vuw.ac.nz.
 
 **Authored Books**
-1. <b><b>Fangfang Zhang</b></b>, Su Nguyen, Yi Mei, and Mengjie Zhang. "<a target="_blank" href="https://books.google.co.nz/books/about/Genetic_Programming_for_Production_Sched.html?id=ZzuEzgEACAAJ&source=kp_book_description&redir_esc=y">Genetic Programming for Production Scheduling: An Evolutionary Learning Approach</a>". Springer Book Series on Machine Learning: Foundations, Methodologies, and Applications，DOI: 10.1007/978-981-16-4859-5, eBook ISBN
+1. <b><b>Fangfang Zhang</b></b>, Su Nguyen, Yi Mei, and Mengjie Zhang. "<a target="_blank" href="https://link.springer.com/book/10.1007/978-981-16-4859-5">Genetic Programming for Production Scheduling: An Evolutionary Learning Approach</a>". Springer Book Series on Machine Learning: Foundations, Methodologies, and Applications，DOI: 10.1007/978-981-16-4859-5, eBook ISBN
 978-981-16-4859-5 (XXXIII+338 pages, <span style="color: #0000a0">the first book on hyper-heuristic for production scheduling</span>)
 
 **Refereed Journal Articles**
