@@ -7,7 +7,7 @@ ul li { padding: 5px 0px; }
 ---
 **Professional Leadership**
 <ol>
-<li> <b> Coordinator: </b> the Division Digital Intelligence Hub, VUW, 2021-Present </li>
+<li> <b> Taurua Lead: </b> the Division Digital Intelligence Taurua Hub, VUW, 2021-Present </li>
 <li> <b> Professional Activities Coordinator: </b> IEEE New Zealand Central Section, 2021 - Present </li>
 <li> <b> Chair: </b> Student Branch (Victoria University of Wellington), IEEE New Zealand Central Section, 2020 – Present </li>
 <li> <b> Treasurer: </b> Young Professional Affinity Group, IEEE New Zealand Central Section, 2020 – Present </li>
@@ -31,6 +31,7 @@ ul li { padding: 5px 0px; }
 <li> IEEE Transactions on Evolutionary Computation (Top Q1, ARC/ERA Tier A*, impact factor = 11.554) </li>
 <li> IEEE Transactions on Cybernetics (Top Q1, ARC/ERA Tier A, impact factor = 11.448) </li>
 <li> Evolutionary Computation (ARC/ERA Tier A) </li>
+<li> IEEE Transactions on Emerging Topics in Computational Intelligence (Top Q1, impact factor = 8.28) </li>
 <li> Robotics and Computer Integrated Manufacturing (Top Q1, ARC/ERA Tier A, impact factor = 5.666) </li>
 <li> International Journal of Intelligent Systems (Top Q1, impact factor = 8.709) </li>
 <li> Knowledge-Based Systems (Top Q1, impact factor = 8.038) </li>
