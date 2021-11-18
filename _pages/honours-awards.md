@@ -7,8 +7,8 @@ ul li { padding: 5px 0px; }
 ---
 <ol>
 <li> Victorias Award for Research Excellence, 2021 (Prize: $1500 NZD) </li>
-<li> Popular Paper Recognised (2 papers), IEEE Transactions on Evolutionary Computation, 2021 (top 50 most frequently accessed papers in the journal) </li>
-<li> Popular Paper Recognised (1 paper), IEEE Transactions on Cybernetics, 2021 (top 50 most frequently accessed papers in the journal) </li>
+<li> Popular Paper Recognition (2 papers), IEEE Transactions on Evolutionary Computation, 2021 (top 50 most frequently accessed papers in the journal) </li>
+<li> Popular Paper Recognition (1 paper), IEEE Transactions on Cybernetics, 2021 (top 50 most frequently accessed papers in the journal) </li>
 <li> Best Paper Runner-Up Award, Australasian Joint Conference on Artificial Intelligence, 2018 (Prize: $200 NZD) </li>
 <li> Recognition of Organising the IEEE Postgraduate Symposium, IEEE New Zealand Central Section, 2020 </li>
 <li> Faculty Strategic Research Grant ($3000 NZD), Victoria University of Wellington, 2019 </li>
