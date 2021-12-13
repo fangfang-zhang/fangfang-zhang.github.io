@@ -1,13 +1,14 @@
 ---
 layout: archive
-title: "Special Session"
-permalink: /CEC2022SS/
+title: "Special Session on "Evolutionary Machine Learning for Planning and Scheduling""
+permalink: /CEC2022EMLPS/
 author_profile: true
 ---
 
-**Special Session on Evolutionary Machine Learning for Planning and Scheduling**
+The IEEE World Congress on Computational Intelligence 2022, 18 July - 23 July 2022, Padua, Italy
 
-**The IEEE World Congress on Computational Intelligence 2022, 18 July - 23 July 2022, Padua, Italy**
+**Overview**
+
 
 Planning and scheduling are important optimisation problems that reflect the practical and challenging issues in real-world applications such as order picking in warehouses, the manufacturing industry, robotics and grid/cloud computing. However, it is non-trivial to find good solutions for planning and scheduling problems efficiently, especially for large scale and dynamic planning and scheduling problems. Evolutionary machine learning such as genetic algorithms, genetic programming, artificial immune systems, particle swarm optimisation, differential evolution, neural network, and evolutionary reinforcement learning has been successfully and widely used to learn/select/construct solutions/heuristics for the planning and scheduling problems. In addition, a number of machine learning techniques such as surrogate, feature selection, and multitask learning have been successfully used to improve the quality of learned heuristics/solutions efficiently. With the growth of high-tech and high-value manufacturing, cloud computing facilities, and robotics industry, researchers in this field have to continuously face new challenges, which requires innovative approaches for planning and scheduling.
 
@@ -17,6 +18,7 @@ We welcome the submissions of high-quality papers that effectively use evolution
 
 
 **Topics of interest include, but not limited to:**
+
 **Application tasks:**
 <ol>
 <li> Production scheduling including job shop scheduling, open shop scheduling, flow shop scheduling </li>
@@ -51,20 +53,21 @@ We welcome the submissions of high-quality papers that effectively use evolution
 </ol>
 
 **Submission Guideline**
-Please follow the submission guideline from the IEEE WCCI 2022 Submission Website. Special session papers are treated the same as regular conference papers. Please specify that your paper is for the Special Session on Evolutionary Scheduling and Combinatorial Optimisation. All papers accepted and presented at WCCI 2022 will be included in the conference proceedings published by IEEE Explore, which are typically indexed by EI.
+
+Please follow the submission guideline from the [IEEE WCCI 2022](https://wcci2022.org/) Submission Website. Special session papers are treated the same as regular conference papers. Please specify that your paper is for the Special Session on Evolutionary Scheduling and Combinatorial Optimisation. All papers accepted and presented at WCCI 2022 will be included in the conference proceedings published by IEEE Explore, which are typically indexed by EI.
 
 **Important Dates:**
 <ol>
-<li> 31 Jan 2022: Paper Submission Deadline </li> 
-<li> E26 Apr 2022: Paper Acceptance Notification </li> 
+<li> <br>31 Jan 2022: Paper Submission Deadline</br> </li> 
+<li> 26 Apr 2022: Paper Acceptance Notification </li> 
 <li> 23 May 2022: Final Paper Submission & Early Registration Deadline </li> 
 <li> 18-23 July 2022: Conference Date </li> 
 </ol>
 
 **Organisers:**
 <ol>
-<li> ([Dr. Fangfang Zhang](https://fangfang-zhang.github.io/)), fangfang.zhang@ecs.vuw.ac.nz </li> 
-<li> ([Prof. Mengjie Zhang](https://homepages.ecs.vuw.ac.nz/~mengjie/)), mengjie.zhang@ecs.vuw.ac.nz </li> 
-<li> ([Dr. Yi Mei](https://meiyi1986.github.io/)), yi.mei@ecs.vuw.ac.nz</li> 
-<li> ([Dr. Su Nguyen](https://scholars.latrobe.edu.au/snguyen)), p.nguyen4@latrobe.edu.au </li> 
+<li> [Dr. Fangfang Zhang](https://fangfang-zhang.github.io/), fangfang.zhang@ecs.vuw.ac.nz </li> 
+<li> [Prof. Mengjie Zhang](https://homepages.ecs.vuw.ac.nz/~mengjie/), mengjie.zhang@ecs.vuw.ac.nz </li> 
+<li> [Dr. Yi Mei](https://meiyi1986.github.io/), yi.mei@ecs.vuw.ac.nz</li> 
+<li> [Dr. Su Nguyen](https://scholars.latrobe.edu.au/snguyen), p.nguyen4@latrobe.edu.au </li> 
 </ol>

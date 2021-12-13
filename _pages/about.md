@@ -15,7 +15,7 @@ Victoria University of Wellington
 
 News
 ======
-1. <span style="color: #FF0000">Call for papers:</span> We are organising special session of <span style="color: #0000a0"> [Evolutionary Machine Learning for Planning and Scheduling](https://fangfang-zhang.github.io/CEC2022SS)</span> at [IEEE World Congress on Computational Intelligence 2022 (WCCI 2022)](https://wcci2022.org/). Submission due date: <span style="color: #FF0000"><i> 31th January 2022</i></span>.
+1. <span style="color: #FF0000">Call for papers:</span> We are organising special session of <span style="color: #0000a0"> [Evolutionary Machine Learning for Planning and Scheduling](https://fangfang-zhang.github.io/CEC2022EMLPS)</span> at [IEEE World Congress on Computational Intelligence 2022 (WCCI 2022)](https://wcci2022.org/). Submission due date: <span style="color: #FF0000"><i> 31th January 2022</i></span>.
 
 Research Interests
 ======
