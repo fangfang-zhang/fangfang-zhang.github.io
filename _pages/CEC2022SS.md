@@ -59,7 +59,7 @@ Please follow the submission guideline from the [IEEE WCCI 2022](https://wcci202
 
 **Important Dates:**
 <ol>
-<li> <span style="color: #0000a0">31 Jan 2022: Paper Submission Deadline</span> </li> 
+<li> <span style="color: #FF0000">31 Jan 2022: Paper Submission Deadline</span> </li> 
 <li> 26 Apr 2022: Paper Acceptance Notification </li> 
 <li> 23 May 2022: Final Paper Submission & Early Registration Deadline </li> 
 <li> 18-23 July 2022: Conference Date </li> 
