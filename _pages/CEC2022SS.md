@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "Special Session on "Evolutionary Machine Learning for Planning and Scheduling""
+title: "Special Session"
 permalink: /CEC2022EMLPS/
 author_profile: true
 ---
+
+**Evolutionary Machine Learning for Planning and Scheduling**
 
 The IEEE World Congress on Computational Intelligence 2022, 18 July - 23 July 2022, Padua, Italy
 
