@@ -56,20 +56,18 @@ We welcome the submissions of high-quality papers that effectively use evolution
 
 **Submission Guideline**
 
-Please follow the submission guideline from the [IEEE WCCI 2022](https://wcci2022.org/) Submission Website. Special session papers are treated the same as regular conference papers. Please specify that your paper is for the Special Session on Evolutionary Scheduling and Combinatorial Optimisation. All papers accepted and presented at WCCI 2022 will be included in the conference proceedings published by IEEE Explore, which are typically indexed by EI.
+Please follow the submission guideline from the [IEEE WCCI 2022](https://wcci2022.org/) Submission Website. Special session papers are treated the same as regular conference papers. Please specify that your paper is for the Special Session on <span style="color: #0000a0">Evolutionary Machine Learning for Planning</span> and Scheduling. All papers accepted and presented at WCCI 2022 will be included in the conference proceedings published by IEEE Explore, which are typically indexed by EI.
 
 **Important Dates:**
 <ol>
-<li> <br>31 Jan 2022: Paper Submission Deadline</br> </li> 
+<li> <span style="color: #0000a0">31 Jan 2022: Paper Submission Deadline</span> </li> 
 <li> 26 Apr 2022: Paper Acceptance Notification </li> 
 <li> 23 May 2022: Final Paper Submission & Early Registration Deadline </li> 
 <li> 18-23 July 2022: Conference Date </li> 
 </ol>
 
 **Organisers:**
-<ol>
-<li> [Dr. Fangfang Zhang](https://fangfang-zhang.github.io/), fangfang.zhang@ecs.vuw.ac.nz </li> 
-<li> [Prof. Mengjie Zhang](https://homepages.ecs.vuw.ac.nz/~mengjie/), mengjie.zhang@ecs.vuw.ac.nz </li> 
-<li> [Dr. Yi Mei](https://meiyi1986.github.io/), yi.mei@ecs.vuw.ac.nz</li> 
-<li> [Dr. Su Nguyen](https://scholars.latrobe.edu.au/snguyen), p.nguyen4@latrobe.edu.au </li> 
-</ol>
+Dr. [Fangfang Zhang](https://fangfang-zhang.github.io/), Victoria Univeristy of Wellington\\
+Prof. [Mengjie Zhang](https://scholar.google.co.nz/citations?user=hLvGrrkAAAAJ&hl=en), Victoria Univeristy of Wellington\\
+Dr. [Yi Mei](https://scholar.google.co.nz/citations?user=vTC_7_wAAAAJ&hl=en), Victoria Universty of Wellington\\
+Dr. [Su Nguyen](https://scholar.google.co.nz/citations?user=PQYVtl4AAAAJ&hl=en), La Trobe University\\

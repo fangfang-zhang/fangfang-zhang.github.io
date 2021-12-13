@@ -22,6 +22,7 @@ ul li { padding: 5px 0px; }
 
 **Organised Special Sessions**
 <ol>
+<li> <a href="https://fangfang-zhang.github.io/CEC2022EMLPS/"> Chair of "Evolutionary Machine Learning for Planning and Scheduling" at IEEE World Congress on Computational Intelligence (WCCI 2022) </a> </li>
 <li> <a href="https://attend.ieee.org/ssci-2021/special-session-genetic-programming-and-machine-learning-for-scheduling/"> Chair of "Genetic Programming and Machine Learning for Scheduling" at IEEE Symposium Series on Computational Intelligence (SSCI 2021) </a> </li>
 </ol>
 
