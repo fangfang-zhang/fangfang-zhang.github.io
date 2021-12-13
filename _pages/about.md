@@ -15,8 +15,7 @@ Victoria University of Wellington
 
 News
 ======
-1. I will give a tutorial: <span style="color: #0000a0">Genetic Programming for Job Shop Scheduling</span> at [IEEE Symposium Series on Computational Intelligence (SSCI 2021)](https://attend.ieee.org/ssci-2021/).
-2. <span style="color: #FF0000">Call for papers:</span> We are organising special session of <span style="color: #0000a0"> [Genetic Programming and Machine Learning for Scheduling](https://attend.ieee.org/ssci-2021/special-session-genetic-programming-and-machine-learning-for-scheduling/)</span> at [IEEE Symposium Series on Computational Intelligence (SSCI 2021)](https://attend.ieee.org/ssci-2021/). Submission due date: <span style="color: #FF0000"><i>August 20th 2021 (11:59 pm, Hawaii time zone)</i></span>.
+1. <span style="color: #FF0000">Call for papers:</span> We are organising special session of <span style="color: #0000a0"> [Evolutionary Machine Learning for Planning and Scheduling](https://fangfang-zhang.github.io/CEC2022SS)</span> at [IEEE World Congress on Computational Intelligence 2022 (WCCI 2022)](https://wcci2022.org/). Submission due date: <span style="color: #FF0000"><i> 31th January 2022 </i></span>.
 
 Research Interests
 ======
