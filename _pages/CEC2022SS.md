@@ -55,7 +55,7 @@ We welcome the submissions of high-quality papers that effectively use evolution
 
 **Submission Guideline**
 
-Please follow the submission guideline from the [IEEE WCCI 2022](https://wcci2022.org/) Submission Website. Special session papers are treated the same as regular conference papers. Please specify that your paper is for the Special Session on <span style="color: #0000a0">"Evolutionary Machine Learning for Planning"</span> and Scheduling. All papers accepted and presented at WCCI 2022 will be included in the conference proceedings published by IEEE Explore, which are typically indexed by EI.
+Please follow the submission guideline from the [IEEE WCCI 2022](https://wcci2022.org/) Submission Website. Special session papers are treated the same as regular conference papers. Please specify that your paper is for the Special Session on <span style="color: #0000a0">"Evolutionary Machine Learning for Planning and Scheduling"</span>. All papers accepted and presented at WCCI 2022 will be included in the conference proceedings published by IEEE Explore, which are typically indexed by EI.
 
 **Important Dates:**
 <ol>
