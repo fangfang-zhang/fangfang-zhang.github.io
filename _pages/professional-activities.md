@@ -17,7 +17,7 @@ ul li { padding: 5px 0px; }
 
 **Task Force**
 <ol>
-<li> <b> Vice Chair </b>, Evolutionary Scheduling and Combinatorial Optimisation </li>
+<li> <b> Vice Chair, </b> Evolutionary Scheduling and Combinatorial Optimisation </li>
 </ol>
 
 **Organised Tutorials**
