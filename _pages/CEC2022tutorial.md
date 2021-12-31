@@ -7,7 +7,7 @@ author_profile: true
 
 **Evolutionary Machine Learning for Combinatorial Optimisation**
 
-The IEEE World Congress on Computational Intelligence 2022, 18 July - 23 July 2022, Padua, Italy
+The IEEE World Congress on Computational Intelligence (WCCI 2022)/IEEE Congress on Evolutionary Computation (CEC 2022), 18 July - 23 July 2022, Padua, Italy
 
 **Tutorial Abstract**
 
@@ -42,41 +42,66 @@ optimisation problems.
 This tutorial contains five parts:
 
 1. Evolutionary machine learning
+
    (1) Introduction of evolutionary machine learning approaches (e.g., evolutionary algorithms and hyper-heuristics)
+
    (2) Introduction of hyper-heuristics approaches (e.g., genetic programming)
+
    (3) The similarities between heuristics and hyper-heuristics approaches
+
    (4) The differences between heuristics and hyper-heuristics approaches
 
 2. Combinatorial optimisation problems
+
    (1) Job shop scheduling
+
    (2) Resource allocation in cloud computing
 
 3. Evolutionary machine learning approaches for combinatorial optimisation
+
    (1) How to generate scheduling heuristics for job shop scheduling
+
    (2) How to generate allocating rules for allocating resources in cloud computing
 
 4. Advanced machine learning techniques for job shop scheduling
+
    (1) Surrogate
+
        • Surrogate basic concepts
+
        • Phenotype VS Genotype of genetic programming individuals
+
        • K-nearest neighbour based surrogate for genetic programming
+
        • Simplified model based surrogate for genetic programming
+
        • Collaborative multi-fidelity based surrogates for genetic programming
+
    (2) Feature selection
+
        • Feature selection basic concepts
+
        • Feature frequency-based feature selection
+
        • Contribution-based feature selection
+
    (3) Multitask learning
+
        • Multitask basic concepts
+
        • Multitask genetic programming based generative hyper-heuristics
+
        • Surrogate-Assisted evolutionary multitask genetic programming
+
        • Adaptive multitask genetic programming
 
 5. Future directions
+
    (1) Limitations of existing studies in this field
+
    (2) Potential solutions to handle the limitations
 
-**Organisers:**
+**Organisers**
 
 Dr. [Fangfang Zhang](https://fangfang-zhang.github.io/), Victoria Univeristy of Wellington\\
 Prof. [Mengjie Zhang](https://scholar.google.co.nz/citations?user=hLvGrrkAAAAJ&hl=en), Victoria Univeristy of Wellington\\
