@@ -67,33 +67,33 @@ This tutorial contains five parts:
 
    1) Surrogate
 
-       (1) Surrogate basic concepts
+      (1) Surrogate basic concepts
 
-       (2) Phenotype VS Genotype of genetic programming individuals
+      (2) Phenotype VS Genotype of genetic programming individuals
 
-       (3) K-nearest neighbour based surrogate for genetic programming
+      (3) K-nearest neighbour based surrogate for genetic programming
 
-       (4) Simplified model based surrogate for genetic programming
+      (4) Simplified model based surrogate for genetic programming
 
-       (5) Collaborative multi-fidelity based surrogates for genetic programming
+      (5) Collaborative multi-fidelity based surrogates for genetic programming
 
    2) Feature selection
 
-       (1) Feature selection basic concepts
+      (1) Feature selection basic concepts
 
-       (2) Feature frequency-based feature selection
+      (2) Feature frequency-based feature selection
 
-       (3) Contribution-based feature selection
+      (3) Contribution-based feature selection
 
    3) Multitask learning
 
-       (1) Multitask basic concepts
+      (1) Multitask basic concepts
 
-       (2) Multitask genetic programming based generative hyper-heuristics
+      (2) Multitask genetic programming based generative hyper-heuristics
 
-       (3) Surrogate-Assisted evolutionary multitask genetic programming
+      (3) Surrogate-Assisted evolutionary multitask genetic programming
 
-       (4) Adaptive multitask genetic programming
+      (4) Adaptive multitask genetic programming
 
 5. Future directions
 
