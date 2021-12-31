@@ -43,63 +43,63 @@ This tutorial contains five parts:
 
 1. Evolutionary machine learning
 
-   (1) Introduction of evolutionary machine learning approaches (e.g., evolutionary algorithms and hyper-heuristics)
+   1) Introduction of evolutionary machine learning approaches (e.g., evolutionary algorithms and hyper-heuristics)
 
-   (2) Introduction of hyper-heuristics approaches (e.g., genetic programming)
+   2) Introduction of hyper-heuristics approaches (e.g., genetic programming)
 
-   (3) The similarities between heuristics and hyper-heuristics approaches
+   3) The similarities between heuristics and hyper-heuristics approaches
 
-   (4) The differences between heuristics and hyper-heuristics approaches
+   4) The differences between heuristics and hyper-heuristics approaches
 
 2. Combinatorial optimisation problems
 
-   (1) Job shop scheduling
+   1) Job shop scheduling
 
-   (2) Resource allocation in cloud computing
+   2) Resource allocation in cloud computing
 
 3. Evolutionary machine learning approaches for combinatorial optimisation
 
-   (1) How to generate scheduling heuristics for job shop scheduling
+   1) How to generate scheduling heuristics for job shop scheduling
 
-   (2) How to generate allocating rules for allocating resources in cloud computing
+   2) How to generate allocating rules for allocating resources in cloud computing
 
 4. Advanced machine learning techniques for job shop scheduling
 
-   (1) Surrogate
+   1) Surrogate
 
-       • Surrogate basic concepts
+      (1) Surrogate basic concepts
 
-       • Phenotype VS Genotype of genetic programming individuals
+      (2) Phenotype VS Genotype of genetic programming individuals
 
-       • K-nearest neighbour based surrogate for genetic programming
+      (3) K-nearest neighbour based surrogate for genetic programming
 
-       • Simplified model based surrogate for genetic programming
+      (4) Simplified model based surrogate for genetic programming
 
-       • Collaborative multi-fidelity based surrogates for genetic programming
+      (5) Collaborative multi-fidelity based surrogates for genetic programming
 
-   (2) Feature selection
+   2) Feature selection
 
-       • Feature selection basic concepts
+      (1) Feature selection basic concepts
 
-       • Feature frequency-based feature selection
+      (2) Feature frequency-based feature selection
 
-       • Contribution-based feature selection
+      (3) Contribution-based feature selection
 
-   (3) Multitask learning
+   3) Multitask learning
 
-       • Multitask basic concepts
+      (1) Multitask basic concepts
 
-       • Multitask genetic programming based generative hyper-heuristics
+      (2) Multitask genetic programming based generative hyper-heuristics
 
-       • Surrogate-Assisted evolutionary multitask genetic programming
+      (3) Surrogate-Assisted evolutionary multitask genetic programming
 
-       • Adaptive multitask genetic programming
+      (4) Adaptive multitask genetic programming
 
 5. Future directions
 
-   (1) Limitations of existing studies in this field
+   1) Limitations of existing studies in this field
 
-   (2) Potential solutions to handle the limitations
+   2) Potential solutions to handle the limitations
 
 **Organisers**
 
