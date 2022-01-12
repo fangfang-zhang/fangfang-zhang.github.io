@@ -15,21 +15,22 @@ ul li { padding: 5px 0px; }
 <li> <b> Chair: </b> New Zealand Chinese Students Association (Wellington), 2018 - Present </li>
 </ol>
 
-**Taskforce**
+**Organised Taskforce**
 <ol>
 <li> <b> Vice Chair, </b> <a href="https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/"> IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation</a> </li>
 </ol>
 
 **Organised Tutorials**
 <ol>
-<li> Speaker of <a href="https://fangfang-zhang.github.io/CEC2022Tutorial/"> "Evolutionary Machine Learning for Combinatorial Optimisation"</a>, IEEE World Congress on Computational Intelligence (WCCI 2022)/IEEE Congress on Evolutionary Computation (CEC 2022) </li>
-<li> Speaker of <a href="https://attend.ieee.org/ssci-2021/tutorial-genetic-programming-for-job-shop-scheduling/"> "Genetic Programming for Job Shop Scheduling"</a>, IEEE Symposium Series on Computational Intelligence (SSCI 2021) </li> 
+<li> <a href="https://fangfang-zhang.github.io/CEC2022Tutorial/"> "Evolutionary Machine Learning for Combinatorial Optimisation"</a>, IEEE World Congress on Computational Intelligence (WCCI 2022)/IEEE Congress on Evolutionary Computation (CEC 2022) </li>
+<li> <a href="https://attend.ieee.org/ssci-2021/tutorial-genetic-programming-for-job-shop-scheduling/"> "Genetic Programming for Job Shop Scheduling"</a>, IEEE Symposium Series on Computational Intelligence (SSCI 2021) </li> 
 </ol>
 
 **Organised Special Sessions**
 <ol>
-<li> Chair of <a href="https://fangfang-zhang.github.io/CEC2022EMLPS/"> "Evolutionary Machine Learning for Planning and Scheduling"</a>, IEEE World Congress on Computational Intelligence (WCCI 2022)/IEEE Congress on Evolutionary Computation (CEC 2022) </li>
-<li> Chair of <a href="https://attend.ieee.org/ssci-2021/special-session-genetic-programming-and-machine-learning-for-scheduling/"> "Genetic Programming and Machine Learning for Scheduling"</a>, IEEE Symposium Series on Computational Intelligence (SSCI 2021) </li>
+<li> Chair, <a href="https://fangfang-zhang.github.io/CEC2022EMLPS/"> "Evolutionary Machine Learning for Planning and Scheduling"</a>, IEEE World Congress on Computational Intelligence (WCCI 2022)/IEEE Congress on Evolutionary Computation (CEC 2022) </li>
+<li> Chair, <a href="https://meiyi1986.github.io/cec2022-esco/"> "Evolutionary Scheduling and Combinatorial Optimisation"</a>, IEEE World Congress on Computational Intelligence (WCCI 2022)/IEEE Congress on Evolutionary Computation (CEC 2022) </li>
+<li> Chair, <a href="https://attend.ieee.org/ssci-2021/special-session-genetic-programming-and-machine-learning-for-scheduling/"> "Genetic Programming and Machine Learning for Scheduling"</a>, IEEE Symposium Series on Computational Intelligence (SSCI 2021) </li>
 </ol>
 
 

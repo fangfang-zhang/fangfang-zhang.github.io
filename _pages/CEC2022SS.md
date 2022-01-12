@@ -57,7 +57,7 @@ We welcome the submissions of high-quality papers that effectively use evolution
 
 **Submission Guideline:**
 
-Please follow the submission guideline from the [IEEE WCCI 2022](https://wcci2022.org/) Submission Website. Special session papers are treated the same as regular conference papers. Please specify that your paper is for the Special Session on <span style="color: #0000a0">"Evolutionary Machine Learning for Planning and Scheduling"</span>. All papers accepted and presented at WCCI 2022 will be included in the conference proceedings published by IEEE Explore, which are typically indexed by EI.
+Please follow the submission guideline from the [IEEE WCCI 2022](https://wcci2022.org/) Submission Website. Special session papers are treated the same as regular conference papers. Please specify that your paper is for the Special Session on <span style="color: #0000a0">"CEC-SS-27: Evolutionary Machine Learning for Planning and Scheduling"</span>. All papers accepted and presented at WCCI 2022 will be included in the conference proceedings published by IEEE Explore, which are typically indexed by EI.
 
 **Important Dates:**
 <ol>
@@ -69,10 +69,10 @@ Please follow the submission guideline from the [IEEE WCCI 2022](https://wcci202
 
 **Organisers:**
 
-Dr. [Fangfang Zhang](https://fangfang-zhang.github.io/), Victoria Univeristy of Wellington\\
-Prof. [Mengjie Zhang](https://homepages.ecs.vuw.ac.nz/~mengjie/), Victoria Univeristy of Wellington\\
-Dr. [Yi Mei](https://meiyi1986.github.io/), Victoria Universty of Wellington\\
-Dr. [Su Nguyen](https://scholars.latrobe.edu.au/snguyen), La Trobe University
+Dr. [Fangfang Zhang](https://fangfang-zhang.github.io/), fangfang.zhang@ecs.vuw.ac.nz, Victoria Univeristy of Wellington\\
+Prof. [Mengjie Zhang](https://homepages.ecs.vuw.ac.nz/~mengjie/), mengjie.zhang@ecs.vuw.ac.nz, Victoria Univeristy of Wellington\\
+Dr. [Yi Mei](https://meiyi1986.github.io/), yi.mei@ecs.vuw.ac.nz, Victoria Universty of Wellington\\
+Dr. [Su Nguyen](https://scholars.latrobe.edu.au/snguyen), P.Nguyen4@latrobe.edu.au, La Trobe University
 
 **Biography of the Organizers:**
 
