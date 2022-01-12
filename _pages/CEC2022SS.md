@@ -1,15 +1,17 @@
 ---
 layout: archive
-title: "Special Session"
+title: "Call for Papers"
 permalink: /CEC2022EMLPS/
 author_profile: true
 ---
 
-**Evolutionary Machine Learning for Planning and Scheduling**
+**Special Session on Evolutionary Machine Learning for Planning and Scheduling**
 
-The IEEE World Congress on Computational Intelligence 2022, 18 July - 23 July 2022, Padua, Italy
+2022 IEEE World Congress on Computational Intelligence (WCCI)/ IEEE Congress on Evolutionary Computation (CEC)
 
-**Overview**
+18 - 23 July 2022, Padova, Italy
+
+**Aim and Scope:**
 
 Planning and scheduling are important optimisation problems that reflect the practical and challenging issues in real-world applications such as order picking in warehouses, the manufacturing industry, robotics and grid/cloud computing. However, it is non-trivial to find good solutions for planning and scheduling problems efficiently, especially for large scale and dynamic planning and scheduling problems. Evolutionary machine learning such as genetic algorithms, genetic programming, artificial immune systems, particle swarm optimisation, differential evolution, neural network, and evolutionary reinforcement learning has been successfully and widely used to learn/select/construct solutions/heuristics for the planning and scheduling problems. In addition, a number of machine learning techniques such as surrogate, feature selection, and multitask learning have been successfully used to improve the quality of learned heuristics/solutions efficiently. With the growth of high-tech and high-value manufacturing, cloud computing facilities, and robotics industry, researchers in this field have to continuously face new challenges, which requires innovative approaches for planning and scheduling.
 
@@ -68,6 +70,18 @@ Please follow the submission guideline from the [IEEE WCCI 2022](https://wcci202
 **Organisers:**
 
 Dr. [Fangfang Zhang](https://fangfang-zhang.github.io/), Victoria Univeristy of Wellington\\
-Prof. [Mengjie Zhang](https://scholar.google.co.nz/citations?user=hLvGrrkAAAAJ&hl=en), Victoria Univeristy of Wellington\\
-Dr. [Yi Mei](https://scholar.google.co.nz/citations?user=vTC_7_wAAAAJ&hl=en), Victoria Universty of Wellington\\
-Dr. [Su Nguyen](https://scholar.google.co.nz/citations?user=PQYVtl4AAAAJ&hl=en), La Trobe University
+Prof. [Mengjie Zhang](https://homepages.ecs.vuw.ac.nz/~mengjie/), Victoria Univeristy of Wellington\\
+Dr. [Yi Mei](https://meiyi1986.github.io/), Victoria Universty of Wellington\\
+Dr. [Su Nguyen](https://scholars.latrobe.edu.au/snguyen), La Trobe University
+
+**Biography of the Organizers:**
+
+Dr. Fangfang Zhang is currently a Postdoctoral Research Fellow in the School of Engineering and Computer Science at Victoria University of Wellington, New Zealand. She has 31 papers published in fully refereed international journals and conferences. She also published one authored book with Springer on Machine Learning: Foundations, Methodologies, and Applications. Her current research interests include evolutionary computation, hyper-heuristics learning/optimisation, job shop scheduling, and multitask learning. She is currently the Vice Chair of IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation. Dr. Zhang has organised several special sessions, symposiums, and tutorials in international conferences such as IEEE WCCI/CEC and IEEE SSCI. She has been serving as a reviewer for top international evolutionary computation journals such as the IEEE Transactions on Evolutionary Computation, and the IEEE Transactions on Cybernetics. 
+
+Prof. Mengjie Zhang is a Fellow of Royal Society of New Zealand, a Fellow of IEEE, and currently Professor of Computer Science at Victoria University of Wellington, where he heads the interdisciplinary Evolutionary Computation Research Group. He has been serving as an associated editor or editorial board member for over 10 international journals including IEEE Transactions on Evolutionary Computation, and IEEE Transactions on Cybernetics He is the Tutorial Chair for GECCO 2014, an AIS-BIO Track Chair for GECCO 2016, an EML Track Chair for GECCO 2017, and a GP Track Chair for GECCO 2020. Since 2012, he has been co-chairing several parts of IEEE CEC, SSCI, and EvoIASP/EvoApplications conference (he has been involving major EC conferences such as GECCO, CEC, EvoStar, SEAL). He has been co-organising and co-chairing many special sessions, and also delivered a keynote/plenary talk for IEEE CEC 2018, IEEE ICAVSS 2018, DOCSA 2019, IES 2017 and Chinese National Conference on AI in Law 2017.
+
+Yi Mei is a Senior Lecturer with the School of Engineering and Computer Science, Victoria University of Wellington, New Zealand. He has more than 100 fully referred publications, including the top journals in Evolutionary Computation and Operations Research, such as IEEE Transactions on Evolutionary Computation and IEEE Transactions on Cybernetics. His research interests include evolutionary scheduling and combinatorial optimization, machine learning, genetic programming, and hyper-heuristics. Dr. Mei was a Vice-Chair of the IEEE CIS Emergent Technologies Technical Committee and a member of the Intelligent Systems Applications Technical Committee. He is an Editorial Board Member/Associate Editor of three international journals, and a Guest Editor of a special issue of the Genetic Programming and Evolvable Machines journal. He serves as a reviewer of over 30 international journals.
+
+Su Nguyen is a Senior Research Fellow and Algorithm Lead at the Centre for Data Analytics and Cognition (CDAC), La Trobe University, Australia. He has 70+ publications in top peer-reviewed journals and conferences in computational intelligence and operations research. His current research focuses on hybrid intelligence systems that combine the power of modern artificial intelligence technologies and operations research methodologies. He was the chair (2014-2018) of IEEE task force on Evolutionary Scheduling and Combinatorial Optimisation and is a member of IEEE CIS Data Mining and Big Data technical committee. He delivered tutorials about evolutionary simulation-optimisation and AI-based visualisation at Parallel Problem Solving from Nature Conference (2018) and IEEE World Congress on Computational Intelligence (2020).
+ 
+
