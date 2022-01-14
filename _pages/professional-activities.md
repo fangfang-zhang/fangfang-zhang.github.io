@@ -66,8 +66,8 @@ ul li { padding: 5px 0px; }
 
 **Program Committee Member for International Conferences**
 <ol>
-<li> The Genetic and Evolutionary Computation Conference (GECCO), 2021 </li>
-<li> IEEE Congress on Evolutionary Computation (CEC), 2020, 2021 </li>
+<li> The Genetic and Evolutionary Computation Conference (GECCO), 2021, 2022 </li>
+<li> IEEE Congress on Evolutionary Computation (CEC), 2020, 2021, 2022 </li>
 <li> The Leading European Event on Bio‑Inspired Computation (Evo*), 2022 </li>
 <li> IEEE Symposium Series on Computational Intelligence (SSCI), 2019, 2020, 2021 </li>
 <li> The International Conference on Swarm Intelligence (ICSI), 2022 </li>
