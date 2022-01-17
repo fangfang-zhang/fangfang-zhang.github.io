@@ -39,6 +39,7 @@ ul li { padding: 5px 0px; }
 <li> IEEE Transactions on Evolutionary Computation (Top Q1, ARC/ERA Tier A*, impact factor = 11.554) </li>
 <li> IEEE Transactions on Cybernetics (Top Q1, ARC/ERA Tier A, impact factor = 11.448) </li>
 <li> Evolutionary Computation (ARC/ERA Tier A) </li>
+<li> IEEE Transactions on Systems, Man and Cybernetics: Systems (Top Q1, ARC/ERA Tier A, impact factor = 12.21) </li>
 <li> IEEE Transactions on Emerging Topics in Computational Intelligence (Q1, impact factor = 8.28) </li>
 <li> Robotics and Computer Integrated Manufacturing (Q1, ARC/ERA Tier A, impact factor = 5.666) </li>
 <li> International Journal of Intelligent Systems (Q1, impact factor = 8.709) </li>
