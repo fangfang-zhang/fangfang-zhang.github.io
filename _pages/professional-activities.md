@@ -61,6 +61,7 @@ ul li { padding: 5px 0px; }
 <li> Complex & Intelligent Systems (impact factor = 5.277) </li>
 <li> International Journal of Bio-inspired Computation (Q2, impact factor = 3.977) </li>
 <li> Operational Research </li>
+<li> Journal of Heuristics </li>
 <li> Mathematics </li>
 <li> Electronics </li>
 </ol>
