@@ -9,10 +9,10 @@ ul li { padding: 5px 0px; }
 <ol>
 <li> <b> Taurua Coordinator: </b> the Division Digital Intelligence Taurua Hub, VUW, 2021-Present </li>
 <li> <b> Professional Activities Coordinator: </b> IEEE New Zealand Central Section, 2021 - Present </li>
-<li> <b> Chair: </b> Student Branch (Victoria University of Wellington), IEEE New Zealand Central Section, 2020 – Present </li>
+<li> <b> Chair: </b> Student Branch (Victoria University of Wellington), IEEE New Zealand Central Section, 2020 – 2021 </li>
 <li> <b> Treasurer: </b> Young Professional Affinity Group, IEEE New Zealand Central Section, 2020 – Present </li>
 <li> <b> Post-Doc Rember representative: </b> AI Researchers Association, 2021 - Present </li>
-<li> <b> Chair: </b> New Zealand Chinese Students Association (Wellington), 2018 - Present </li>
+<li> <b> Chair: </b> New Zealand Chinese Students Association (Wellington), 2018 - 2021 </li>
 </ol>
 
 **Organised Taskforce**
@@ -71,6 +71,7 @@ ul li { padding: 5px 0px; }
 <ol>
 <li> The Genetic and Evolutionary Computation Conference (GECCO), 2021, 2022 </li>
 <li> IEEE Congress on Evolutionary Computation (CEC), 2020, 2021, 2022 </li>
+<li> The International Joint Conference on Neural Networks (IJCNN), 2022 </li>
 <li> The Leading European Event on Bio‑Inspired Computation (Evo*), 2022 </li>
 <li> IEEE Symposium Series on Computational Intelligence (SSCI), 2019, 2020, 2021 </li>
 <li> The International Conference on Swarm Intelligence (ICSI), 2022 </li>
