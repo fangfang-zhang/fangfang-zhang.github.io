@@ -76,6 +76,7 @@ ul li { padding: 5px 0px; }
 <li> IEEE Symposium Series on Computational Intelligence (SSCI), 2019, 2020, 2021 </li>
 <li> The International Conference on Swarm Intelligence (ICSI), 2022 </li>
 <li> The Australasian Joint Conference on Artificial Intelligence (AJCAI), 2018, 2021 </li>
+<li> Heterodox Methods for Interpretable and Efficient Artificial Intelligence (HMIEAI2022), 2022 </li>
 <li> The International Conference on Machine Learning and Intelligent Systems (MLIS), 2021 </li>
 <li> The International Symposium on Automation, Information and Computing (ISAIC), 2021 </li>
 </ol>
