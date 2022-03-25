@@ -75,7 +75,7 @@ Please follow the submission guideline from the [EAI BICT 2022](https://bionetic
 **Organisers:**
 
 Dr. [Fangfang Zhang](https://fangfang-zhang.github.io/), fangfang.zhang@ecs.vuw.ac.nz, Victoria Univeristy of Wellington\\
-Prof. [Mengjie Zhang](https://homepages.ecs.vuw.ac.nz/~mengjie/), mengjie.zhang@ecs.vuw.ac.nz, Victoria Univeristy of Wellington\\
+Prof. [Mengjie Zhang](https://homepages.ecs.vuw.ac.nz/~mengjie/), mengjie.zhang@ecs.vuw.ac.nz, Victoria Univeristy of Wellington
 
 **Biography of the Organizers:**
 
