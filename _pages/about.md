@@ -15,7 +15,7 @@ Victoria University of Wellington
 
 News
 ======
-1. <span style="color: #FF0000">Call for papers:</span> We are organising special session of <span style="color: #0000a0"> Evolutionary Machine Learning for Combinatorial Optimisation </span> at [EAI International Conference on Bio-inspired Information and Communications Technologies (BICT 2022)](https://bionetics.eai-conferences.org/2022/). Submission due date: <span style="color: #FF0000"><i> 11th April 2022</i></span>.
+1. <span style="color: #FF0000">Call for papers:</span> We are organising special session of <span style="color: #0000a0"> [Evolutionary Machine Learning for Combinatorial Optimisation] (https://fangfang-zhang.github.io/BICT2022SS/) </span> at [EAI International Conference on Bio-inspired Information and Communications Technologies (BICT 2022)](https://bionetics.eai-conferences.org/2022/). Submission due date: <span style="color: #FF0000"><i> 11th April 2022</i></span>.
 
 
 Research Interests
