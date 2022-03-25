@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Call for Papers"
-permalink: /BICT2022/
+permalink: /BICT2022SS/
 author_profile: true
 ---
 
