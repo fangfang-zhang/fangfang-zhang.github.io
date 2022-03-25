@@ -25,7 +25,7 @@ To get the BibTex of the full papers, please download from [here](https://github
 
 **Conference Papers**
 <ol>
-<li> Zhixing Huang, Yi Mei, <b>Fangfang Zhang</b><sup>*</sup>, and Mengjie Zhang.	"GGraph-based Linear Genetic Programming: A Case Study of Dynamic Scheduling" in <i>Proceedings of the Genetic and Evolutionary Computation Conference</i>, ACM, 2022 (accepted). </li>	
+<li> Zhixing Huang, Yi Mei, <b>Fangfang Zhang</b><sup>*</sup>, and Mengjie Zhang. "Graph-based Linear Genetic Programming: A Case Study of Dynamic Scheduling" in <i>Proceedings of the Genetic and Evolutionary Computation Conference</i>, ACM, 2022 (accepted). </li>	
 <li> Meng Xu, Yi Mei, <b>Fangfang Zhang</b><sup>*</sup>, and Mengjie Zhang.	"Genetic Programming with Diverse Partner Selection for Dynamic Flexible Job Shop Scheduling" in <i>Proceedings of the Genetic and Evolutionary Computation Conference</i>, ACM, 2022 (accepted). </li>
 <li> Zhixing Huang, <b>Fangfang Zhang</b><sup>*</sup>, Yi Mei, and Mengjie Zhang. "An Investigation of Multitask Linear Genetic Programming for Dynamic Job Shop Scheduling". in <i>Proceedings of the European Conference on Genetic Programming</i>, Springer, 2022 (accepted).</li>
 <li> Meng Xu, <b>Fangfang Zhang</b><sup>*</sup>, Yi Mei, and Mengjie Zhang. "Genetic Programming with Archive for Dynamic Flexible Job Shop Scheduling". in <i>Proceedings of the Congress on Evolutionary Computation</i>, IEEE, 2021, pp. 2117-2124. <a target="_blank" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9504752&casa_token=WBVlW3XVQVYAAAAA:7doWxWeJUYKTCvfhSFKJYE1otzekuv4OnjSW3OeBsWmBjU-6D88fehJ6yahWMjADaIhCam6Kg">[DOI]</a></li>
