@@ -15,7 +15,8 @@ Victoria University of Wellington
 
 News
 ======
-1. <span style="color: #FF0000">Call for papers:</span> We are organising special session of <span style="color: #0000a0"> [Evolutionary Machine Learning for Combinatorial Optimisation](https://fangfang-zhang.github.io/BICT2022SS/) </span> at [EAI International Conference on Bio-inspired Information and Communications Technologies (BICT 2022)](https://bionetics.eai-conferences.org/2022/). Submission due date: <span style="color: #FF0000"><i> 11th April 2022</i></span>.
+1. <span style="color: #FF0000">Call for papers:</span> We are organising special session of <span style="color: #0000a0"> [Genetic Programming and Machine Learning for Scheduling](https://fangfang-zhang.github.io/SSCI2022SS/) </span> at [IEEE Symposium Series On Computational Intelligence (SSCI 2022)](https://ieeessci2022.org/). Submission due date: <span style="color: #FF0000"><i> 1st July 2022</i></span>.
+2. <span style="color: #FF0000">Call for papers:</span> We are organising special session of <span style="color: #0000a0"> [Evolutionary Machine Learning for Combinatorial Optimisation](https://fangfang-zhang.github.io/BICT2022SS/) </span> at [EAI International Conference on Bio-inspired Information and Communications Technologies (BICT 2022)](https://bionetics.eai-conferences.org/2022/). Submission due date: <span style="color: #FF0000"><i> 11th April 2022</i></span>.
 
 
 Research Interests
