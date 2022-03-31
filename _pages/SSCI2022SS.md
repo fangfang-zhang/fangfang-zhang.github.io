@@ -67,8 +67,8 @@ Please follow the submission guideline from the [SSCI 2022](https://ieeessci2022
 
 **Important Dates:**
 <ol>
-<li> <span style="color: #FF0000">Paper Submission: Friday, 1st July 2022 </li> 
-<li> Paper Acceptance: Thursday, 1st September 2022</span> </li> 
+<li> <span style="color: #FF0000">Paper Submission: Friday, 1st July 2022</span></li> 
+<li> Paper Acceptance: Thursday, 1st September 2022 </li> 
 <li> Full Manuscript Submission: Monday. 19th September 2022 </li> 
 <li> Early Registration: Monday, 26th September 2022 </li> 
 <li> Conference Dates: 4th - 7th December 2022 </li> 
