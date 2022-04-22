@@ -6,6 +6,7 @@ author_profile: true
 ul li { padding: 5px 0px; }
 ---
 <ol>
+<li> Best Paper Award, European Conference on Genetic Programming, 2022 </li>
 <li> Victorias Award for Research Excellence, 2021 (Prize: $1500 NZD) </li>
 <li> Popular Paper Recognition (2 papers), IEEE Transactions on Evolutionary Computation, 2021 (top 50 most frequently accessed papers in the journal) </li>
 <li> Popular Paper Recognition (1 paper), IEEE Transactions on Cybernetics, 2021 (top 50 most frequently accessed papers in the journal) </li>
