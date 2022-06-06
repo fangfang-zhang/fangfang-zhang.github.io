@@ -26,6 +26,7 @@ To get the BibTex of the full papers, please download from [here](https://github
 
 **Conference Papers**
 <ol>
+<li> <b>Fangfang Zhang</b>, Yi Mei, Su Nguyen, and Mengjie Zhang. "Importance-Aware Genetic Programming for Automated Scheduling Heuristics Learning in Dynamic Flexible Job Shop Scheduling". in <i>Proceedings of the Parallel Problem Solving from Nature </i>, Springer, 2022, pp. XXX-XXX.</li>
 <li> <b>Fangfang Zhang</b>, Yi Mei, Su Nguyen, and Mengjie Zhang. "Learning Strategies on Scheduling Heuristics of Genetic Programming in Dynamic Flexible Job Shop Scheduling". in <i>Proceedings of the Congress on Evolutionary Computation</i>, IEEE, 2022, pp. XXX-XXX.</li>	
 <li> Gaofeng Shi, <b>Fangfang Zhang</b><sup>*</sup>, and Yi Mei. "A Novel Fitness Function for Genetic Programming in Dynamic Flexible Job Shop Scheduling". in <i>Proceedings of the Congress on Evolutionary Computation</i>, IEEE, 2022, pp. XXX-XXX.</li>	
 <li> Meng Xu, Yi Mei, <b>Fangfang Zhang</b><sup>*</sup>, and Mengjie Zhang. "Genetic Programming with Cluster Selection for Dynamic Flexible Job Shop Scheduling". in <i>Proceedings of the Congress on Evolutionary Computation</i>, IEEE, 2022, pp. XXX-XXX.</li>	
