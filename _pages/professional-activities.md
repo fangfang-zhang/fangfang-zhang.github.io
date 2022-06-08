@@ -7,7 +7,7 @@ ul li { padding: 5px 0px; }
 ---
 **Professional Leadership**
 <ol>
-<li> <b> Taurua Coordinator: </b> the Division Digital Intelligence Taurua Hub, VUW, 2021-Present </li>
+<li> <b> Project Coordinator: </b> Data Science for Aquacultur, VUW, 2022-Present </li>
 <li> <b> Professional Activities Coordinator: </b> IEEE New Zealand Central Section, 2021 - Present </li>
 <li> <b> Chair: </b> Student Branch (Victoria University of Wellington), IEEE New Zealand Central Section, 2020 – 2021 </li>
 <li> <b> Treasurer: </b> Young Professional Affinity Group, IEEE New Zealand Central Section, 2020 – Present </li>
