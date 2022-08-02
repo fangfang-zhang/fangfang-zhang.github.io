@@ -12,6 +12,7 @@ To get the BibTex of the full papers, please download from [here](https://github
 
 **Refereed Journal Articles**
 <ol>
+<li> <b>Fangfang Zhang</b>, Yi Mei, Su Nguyen, and Mengjie Zhang. "Multitask Multi-objective Genetic Programming for Automated Scheduling Heuristic Learning in Dynamic Flexible Job Shop Scheduling". <i>IEEE Transactions on Cybernetics</i>, 2022. Accept</li>
 <li> <b>Fangfang Zhang</b>, Yi Mei, Su Nguyen, Kay Chen Tan, and Mengjie Zhang. "Task Relatedness Based Multitask Genetic Programming for Dynamic Flexible Job Shop Scheduling". <i>IEEE Transactions on Evolutionary Computation</i>, 2022. Conditionally Accept</li>
 <li> <b>Fangfang Zhang</b>, Yi Mei, Su Nguyen, Kay Chen Tan, and Mengjie Zhang. "<a target="_blank" href="https://ieeexplore.ieee.org/document/9789507">Instance Rotation Based Surrogate in Genetic Programming with Brood Recombination for Dynamic Job Shop Scheduling</a>". <i>IEEE Transactions on Evolutionary Computation</i>, 2022. Doi: 10.1109/TEVC.2022.3180693</li>
 <li> <b>Fangfang Zhang</b>, Yi Mei, Su Nguyen, and Mengjie Zhang. "Collaborative Multi-fidelity Based Surrogate Models for Genetic Programming in Dynamic Flexible Job Shop Scheduling". <i>IEEE Transactions on Cybernetics</i>, vol. 52, no. 8, pp. 8142-8156, 2022. <a target="_blank" href="https://ieeexplore.ieee.org/document/9345417">[DOI]</a><a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/master/files/2021-TCYB-MultifidelitySurrogate.PDF">[pdf]</a></li>
