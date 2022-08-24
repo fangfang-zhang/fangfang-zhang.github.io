@@ -45,6 +45,7 @@ ul li { padding: 5px 0px; }
 <li> IEEE Transactions on Emerging Topics in Computational Intelligence (Q1, impact factor = 8.28) </li>
 <li> Robotics and Computer Integrated Manufacturing (Q1, ARC/ERA Tier A, impact factor = 5.666) </li>
 <li> International Journal of Intelligent Systems (Q1, impact factor = 8.709) </li>
+<li> International Journal of Production Research (Q1, impact factor = 8.568) </li>
 <li> Knowledge-Based Systems (Q1, impact factor = 8.038) </li>
 <li> Swarm and Evolutionary Computation (Q1, impact factor = 7.177) </li>
 <li> Expert Systems With Applications (Q1, impact factor = 6.954) </li>
