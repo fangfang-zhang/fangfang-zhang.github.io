@@ -16,6 +16,11 @@ ul li { padding: 5px 0px; }
 <li> <b> Chair: </b> New Zealand Chinese Students Association (Wellington), 2018 - 2021 </li>
 </ol>
 
+**Associate Editor**
+<ol>
+<li>Expert Systems With Applications</li>
+</ol>
+
 **Organised Taskforce**
 <ol>
 <li> <b> Vice Chair, </b> <a href="https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/"> IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation</a> </li>
