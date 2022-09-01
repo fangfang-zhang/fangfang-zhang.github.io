@@ -18,7 +18,7 @@ ul li { padding: 5px 0px; }
 
 **Associate Editor**
 <ol>
-<li>Expert Systems With Applications</li>
+<li>Expert Systems With Applications, 2022</li>
 </ol>
 
 **Organised Taskforce**
