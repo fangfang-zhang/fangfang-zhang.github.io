@@ -28,6 +28,8 @@ To get the BibTex of the full papers, please download from [here](https://github
 
 **Conference Papers**
 <ol>
+<li><b>Fangfang Zhang</b>, Yi Mei, Su Nguyen, and Mengjie Zhang. "Phenotype Based Surrogate-Assisted Multi-objective Genetic Programming with Brood Recombination for Dynamic Flexible Job Shop Scheduling", in <i>Proceedings of the IEEE Symposium Series On Computational Intelligence</i>, Springer, 2022, pp. XXX-XXX.</li>	
+<li>Zhixing Huang, Yi Mei, <b>Fangfang Zhang</b><sup>*</sup>, and Mengjie Zhang. "A Further Investigation to Improve Linear Genetic Programming in Dynamic Job Shop Scheduling", in <i>Proceedings of the IEEE Symposium Series On Computational Intelligence</i>, Springer, 2022, pp. XXX-XXX.</li>	
 <li> <b>Fangfang Zhang</b>, Yi Mei, Su Nguyen, and Mengjie Zhang. "<a target="_blank" href="https://link.springer.com/content/pdf/10.1007/978-3-031-14721-0_4.pdf">Importance-Aware Genetic Programming for Automated Scheduling Heuristics Learning in Dynamic Flexible Job Shop Scheduling</a>". in <i>Proceedings of the Parallel Problem Solving from Nature</i>, Springer, 2022, pp. 48-62.</li>  
 <li> <b>Fangfang Zhang</b>, Yi Mei, Su Nguyen, and Mengjie Zhang. "Learning Strategies on Scheduling Heuristics of Genetic Programming in Dynamic Flexible Job Shop Scheduling". in <i>Proceedings of the Congress on Evolutionary Computation</i>, IEEE, 2022, pp. XXX-XXX.</li>	
 <li> Gaofeng Shi, <b>Fangfang Zhang</b><sup>*</sup>, and Yi Mei. "A Novel Fitness Function for Genetic Programming in Dynamic Flexible Job Shop Scheduling". in <i>Proceedings of the Congress on Evolutionary Computation</i>, IEEE, 2022, pp. XXX-XXX.</li>	
