@@ -30,7 +30,7 @@ ul li { padding: 5px 0px; }
 <ol>
 <li> Chair, Genetic Programming and Machine Learning for Job Shop Scheduling, IEEE Symposium Series on Computational Intelligence (<a href="https://ieeessci2022.org/">SSCI 2022)</a> </li>	
 <li> Chair, <a href="https://fangfang-zhang.github.io/CEC2022Tutorial/"> Evolutionary Machine Learning for Combinatorial Optimisation</a>, IEEE World Congress on Computational Intelligence (WCCI 2022)/IEEE Congress on Evolutionary Computation (CEC 2022) </li>
-<li> Chair, <a href="https://attend.ieee.org/ssci-2021/tutorial-genetic-programming-for-job-shop-scheduling/"> Genetic Programming for Job Shop Scheduling</a>, IEEE Symposium Series on Computational Intelligence (SSCI 2021, SSCI 2022) </li> 
+<li> Chair, <a href="https://attend.ieee.org/ssci-2021/tutorial-genetic-programming-for-job-shop-scheduling/"> Genetic Programming for Job Shop Scheduling</a>, IEEE Symposium Series on Computational Intelligence (SSCI 2021) </li> 
 </ol>
 
 **Organised Special Sessions**
@@ -38,7 +38,7 @@ ul li { padding: 5px 0px; }
 <li> Chair, <a href=""> Evolutionary Machine Learning for Combinatorial Optimisation</a>, EAI International Conference on Bio-inspired Information and Communications Technologies (<a href="https://bionetics.eai-conferences.org/2022/">BICT 2022</a>) </li>
 <li> Chair, <a href="https://fangfang-zhang.github.io/CEC2022EMLPS/"> Evolutionary Machine Learning for Planning and Scheduling</a>, IEEE World Congress on Computational Intelligence (WCCI 2022)/IEEE Congress on Evolutionary Computation (CEC 2022) </li>
 <li> Chair, <a href="https://meiyi1986.github.io/cec2022-esco/"> Evolutionary Scheduling and Combinatorial Optimisation</a>, IEEE World Congress on Computational Intelligence (WCCI 2022)/IEEE Congress on Evolutionary Computation (CEC 2022) </li>
-<li> Chair, <a href="https://attend.ieee.org/ssci-2021/special-session-genetic-programming-and-machine-learning-for-scheduling/"> Genetic Programming and Machine Learning for Scheduling</a>, IEEE Symposium Series on Computational Intelligence (SSCI 2021) </li>
+<li> Chair, <a href="https://attend.ieee.org/ssci-2021/special-session-genetic-programming-and-machine-learning-for-scheduling/"> Genetic Programming and Machine Learning for Scheduling</a>, IEEE Symposium Series on Computational Intelligence (SSCI 2021, SSCI 2022) </li>
 </ol>
 
 
