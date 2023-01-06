@@ -67,8 +67,8 @@ Please follow the submission guideline from the [CEC 2023](https://2023.ieee-cec
 
 **Important Dates:**
 <ol>
-<li> <span style="color: #FF0000">Paper Submission: Friday, January 13th, 2023 </span>
-<li> Paper Re-submissions: March 24th, 2023</li>	
+<li> <span style="color: #FF0000">Paper Submission: Friday, January 13th, 2023</span> </li>
+<li> Paper Re-submissions: March 24th, 2023 </li>	
 <li> Paper Final Notifications: March 31st, 2023 </li> 
 <li> Print-Ready Manuscripts: 	April 15th, 2023 </li> 
 </ol>
