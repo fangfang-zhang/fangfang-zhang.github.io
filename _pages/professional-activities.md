@@ -56,6 +56,7 @@ ul li { padding: 5px 0px; }
 <li> Robotics and Computer Integrated Manufacturing (Q1, ARC/ERA Tier A) </li>
 <li> International Journal of Intelligent Systems (Q1) </li>
 <li> International Journal of Production Research (Q1) </li>
+<li> Journal of Industrial Information Integration (Q1) </li>
 <li> Knowledge-Based Systems (Q1) </li>
 <li> Swarm and Evolutionary Computation (Q1) </li>
 <li> Expert Systems With Applications (Q1) </li>
