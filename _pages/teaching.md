@@ -22,6 +22,7 @@ author_profile: true
 
 **Thesis Supervision**
 <ol>
+<li> Zaixing Sun, “Workflow Scheduling”, Harbin Institute of Technology, Apr. 2023 – Present (Visiting PhD student, co-supervise with Dr. <a href="https://meiyi1986.github.io/"> Yi Mei </a> and Prof. <a href="https://homepages.ecs.vuw.ac.nz/~mengjie/"> Mengjie Zhang</a>) </li>
 <li> Jordan MacLachlan, “Evolutionary Computation for Emergency Dispatch”, Victoria University of Wellington, Oct. 2021 – Present (PhD student, co-supervise with Dr. <a href="https://meiyi1986.github.io/"> Yi Mei </a> and Prof. <a href="https://homepages.ecs.vuw.ac.nz/~mengjie/"> Mengjie Zhang</a>) </li>
 <li> Zhixing Huang, “Linear Genetic programming for Dynamic Job Shop Scheduling”, Victoria University of Wellington, Nov. 2020 – Present (PhD student, co-supervise with Dr. <a href="https://meiyi1986.github.io/"> Yi Mei </a> and Prof. <a href="https://homepages.ecs.vuw.ac.nz/~mengjie/"> Mengjie Zhang</a>) </li>
 <li> Meng Xu, “Genetic programming for Dynamic Flexible Job Shop Scheduling”, Victoria University of Wellington, Nov. 2020 – Present (PhD student, co-supervise with Dr. <a href="https://meiyi1986.github.io/"> Yi Mei </a> and Prof. <a href="https://homepages.ecs.vuw.ac.nz/~mengjie/"> Mengjie Zhang</a>) </li> 
@@ -30,8 +31,9 @@ author_profile: true
 
 **Honour/Master/Summer Project**
 <ol>
-<li> Elliott Ramoo, “Genetic programming for Job Shop Scheduling”, Victoria University of Wellington, Nov. 2022 – Feb. 2023, research scholarship (Summer student, <b>primary supervisor</b>)</li> 
-<li> Yuye Zhang, “Machine learning for king salmon health prediction”, Victoria University of Wellington, Nov. 2022 – Feb. 2023, research scholarship (Summer student, <b>primary supervisor</b>)</li> 
+<li> Luyao Zhu, “Genetic programming for Job Shop Scheduling”, Zhengzhou University, Oct. 2022 – present, Master student, co-supervise with Dr. Ke Chen)</li> 	
+<li> Elliott Ramoo, “Genetic programming for Job Shop Scheduling”, Victoria University of Wellington, Nov. 2022 – present, research scholarship (Summer, Honour student, <b>primary supervisor</b>)</li> 
+<li> Yuye Zhang, “Machine learning for king salmon health prediction”, Victoria University of Wellington, Nov. 2022 – present, research scholarship (Summer, Honour student, <b>primary supervisor</b>)</li> 
 <li> Timothy McDermott, “Genetic programming for Job Shop Scheduling”, Victoria University of Wellington, Mar. 2022 – Present (Honour student, <b>primary supervisor</b>)</li> 
-<li> Gaofeng Shi, “Genetic programming for Job Shop Scheduling”, Victoria University of Wellington, Nov. 2021 – Feb. 2022 (Summer student, <b>primary supervisor</b>)</li> 
+<li> Gaofeng Shi, “Genetic programming for Job Shop Scheduling”, Victoria University of Wellington, Nov. 2021 – Feb. 2022 (Summer, Honour student, <b>primary supervisor</b>)</li> 
 </ol>
