@@ -1,0 +1,5 @@
+Feature,Counts,ImportanceScore,Rank
+share_of_the_meal,30,0.049667,1.0
+daily_feed_intake,30,0.049,2.0
+satiation_ration,30,0.028667,3.0
+temperature_celsius,30,0.028,4.0
