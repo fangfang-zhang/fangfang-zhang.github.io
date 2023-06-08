@@ -1,0 +1,10 @@
+Feature,Counts,ImportanceScore,Rank
+weight-liver,30,0.14279,1.0
+satiation_ration,30,0.135554,2.0
+weight-gonad,29,0.119623,3.0
+weight-viscera,30,0.114021,4.0
+girth-empty,30,0.092689,5.0
+weight-heart,30,0.087025,6.0
+temperature_celsius,30,0.086034,7.0
+weight-fillet,29,0.078243,8.0
+sex-empty,30,0.057347,9.0
