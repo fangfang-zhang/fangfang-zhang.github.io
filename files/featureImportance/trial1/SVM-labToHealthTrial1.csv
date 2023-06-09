@@ -7,9 +7,9 @@ weight-viscera-measured_with_digesta_and_faeces,30,0.023667,5.0
 weight-gonad-empty,30,0.020667,6.0
 thickness-belly_flap-measured_from_cranial_to_the_pectoral_fin,30,0.016667,7.0
 weight-whole_body-empty,30,0.014333,8.0
-weight-viscera-measured_without_digesta_and_faeces,29,0.014138,9.0
+weight-viscera-measured_without_digesta_and_faeces,29,0.013667,9.0
 thickness-belly_flap-measured_at_the_vent,30,0.011333,10.0
-weight-heart-empty,26,0.010385,11.0
-temperature_celsius,19,0.01,12.0
-thickness-belly_flap-measured_from_caudal_to_the_pelvic_fin,24,0.01,12.0
-sex-empty-empty,0,0.0,13.0
+weight-heart-empty,26,0.009,11.0
+thickness-belly_flap-measured_from_caudal_to_the_pelvic_fin,24,0.008,12.0
+temperature_celsius,19,0.006333,13.0
+sex-empty-empty,0,0.0,14.0
