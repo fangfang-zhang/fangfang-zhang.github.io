@@ -1,6 +1,0 @@
-Feature,Counts,ImportanceScore,Rank
-satiation_ration,30,0.053,1.0
-weight,30,0.021,2.0
-temperature_celsius,30,0.02,3.0
-girth,30,0.015667,4.0
-fork_length,30,0.015333,5.0

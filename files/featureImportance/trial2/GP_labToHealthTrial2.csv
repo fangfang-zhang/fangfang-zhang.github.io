@@ -1,0 +1,17 @@
+Feature,Counts,ImportanceScore,Rank
+sex-empty-empty,21,0.235633,1.0
+satiation_ration,20,0.201316,2.0
+thickness-belly_flap-measured_from_cranial_to_the_pectoral_fin,7,0.179762,3.0
+temperature_celsius,13,0.175839,4.0
+thickness-belly_flap-measured_at_the_vent,7,0.16767,5.0
+weight-viscera-empty,12,0.167459,6.0
+weight-gi_tract-without_contents,13,0.164695,7.0
+weight-gut-empty,12,0.159625,8.0
+weight-fillet-empty,13,0.157886,9.0
+width-stomach-empty,11,0.146894,10.0
+weight-gi_tract-with_contents,10,0.139969,11.0
+weight-heart-empty,11,0.132407,12.0
+weight-liver-empty,7,0.127399,13.0
+thickness-belly_flap-measured_from_caudal_to_the_pelvic_fin,9,0.109444,14.0
+weight-gonad-empty,9,0.109394,15.0
+event,8,0.106944,16.0

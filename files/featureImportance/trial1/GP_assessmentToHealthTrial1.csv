@@ -1,0 +1,7 @@
+Feature,Counts,ImportanceScore,Rank
+satiation_ration,30,0.221374,1.0
+event,30,0.214549,2.0
+visceral_fat-viscera-score,30,0.175823,3.0
+temperature_celsius,30,0.150921,4.0
+general_health-heart-index,30,0.134795,5.0
+general_health-gonad-index,30,0.102537,6.0

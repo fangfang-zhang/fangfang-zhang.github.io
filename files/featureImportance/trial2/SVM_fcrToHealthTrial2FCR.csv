@@ -1,0 +1,7 @@
+Feature,Counts,ImportanceScore,Rank
+fcr,30,0.026667,1.0
+event_start,30,0.016667,2.0
+event_end,30,0.016667,2.0
+event,30,0.016667,2.0
+temperature_celsius,0,0.0,3.0
+satiation_ration,0,0.0,3.0

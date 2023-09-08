@@ -1,0 +1,13 @@
+Feature,Counts,ImportanceScore,Rank
+general_health-heart-index,30,0.125609,1.0
+satiation_ration,30,0.107744,2.0
+temperature_celsius,30,0.103093,3.0
+general_health-gonad-index,30,0.096349,4.0
+event,30,0.091504,5.0
+deformity-spine-score,30,0.087559,6.0
+fusion-spine-score,30,0.075886,7.0
+deformity-spine-logical,30,0.07575,8.0
+compression_or_reduction-spine-score,29,0.070898,9.0
+lks-spine-score,29,0.068697,10.0
+vertical_shift-spine-score,29,0.055701,11.0
+visceral_fat-viscera-score,30,0.04772,12.0

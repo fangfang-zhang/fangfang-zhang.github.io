@@ -1,0 +1,7 @@
+Feature,Counts,ImportanceScore,Rank
+event,30,0.057667,1.0
+weight,30,0.052333,2.0
+fork_length,30,0.046333,3.0
+temperature_celsius,30,0.042333,4.0
+girth,30,0.039333,5.0
+satiation_ration,30,0.014,6.0

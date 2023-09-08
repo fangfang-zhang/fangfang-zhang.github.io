@@ -1,6 +1,0 @@
-Feature,Counts,ImportanceScore,Rank
-fcr,30,0.286231,1.0
-temperature_celsius,30,0.276826,2.0
-event,30,0.11412,3.0
-satiation_ration,30,0.111424,4.0
-event_end,30,0.103341,5.0

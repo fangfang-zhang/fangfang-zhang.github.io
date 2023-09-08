@@ -1,0 +1,16 @@
+Feature,Counts,ImportanceScore,Rank
+left_damage-eye-score,30,0.161359,1.0
+other-spine-score,30,0.120642,2.0
+visceral_fat-viscera-score,30,0.10224,3.0
+damage-tail-logical,30,0.075648,4.0
+satiation_ration,29,0.070088,5.0
+dorsal_deformed-fin-logical,30,0.063841,6.0
+lks-spine-score,28,0.060994,7.0
+general_health-gonad-index,28,0.060496,8.0
+right_damage-eye-score,30,0.055671,9.0
+skin_issues-skin-logical,28,0.052629,10.0
+general_health-heart-index,30,0.050818,11.0
+event,24,0.047898,12.0
+split-fin-logical,27,0.039931,13.0
+deformity-spine-logical,26,0.039898,14.0
+temperature_celsius,27,0.034094,15.0
