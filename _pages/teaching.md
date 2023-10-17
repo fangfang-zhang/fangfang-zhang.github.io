@@ -20,19 +20,20 @@ author_profile: true
 <li> <b>Course Coordinator</b> for “Modern Marketing”, Sep. 2015-Jan. 2016, Adult Education of Shenzhen University, China </li>
 </ol>
 
-**Thesis Supervision**
+**Research Thesis Supervision**
 <ol>
+<li> Xinxin Xu, “Large-scale Dynamic Multi-objective Optimization based on Hyper-heuristics Algorithm”, Ocean University of China, Oct. 2023 – Present (Visiting PhD student, supervised with Dr Fangfang Zhang, Dr Yi Mei and Prof Mengjie Zhang) </li>
 <li> Ruiqi Chen, “Job Shop Scheduling, Victoria University of Wellington, Sep. 2023 – Present (PhD student, supervised by Dr Yi Mei, Dr Fangfang Zhang, and Prof Mengjie Zhang) </li>	
 <li> Zaixing Sun, “Workflow Scheduling”, Harbin Institute of Technology, Apr. 2023 – Present (Visiting PhD student, supervised with Dr Yi Mei, Dr Fangfang Zhang, and Prof Mengjie Zhang) </li>
 <li> Jordan MacLachlan, “Evolutionary Computation for Emergency Dispatch”, Victoria University of Wellington, Oct. 2021 – Present (PhD student, supervised by Dr Yi Mei, Dr Fangfang Zhang, and Prof Mengjie Zhang) </li>
 <li> Zhixing Huang, “Linear Genetic programming for Dynamic Job Shop Scheduling”, Victoria University of Wellington, Nov. 2020 – Present (PhD student, supervised by Dr Yi Mei, Dr Fangfang Zhang, and Prof Mengjie Zhang) </li>
 <li> Meng Xu, “Genetic programming for Dynamic Flexible Job Shop Scheduling”, Victoria University of Wellington, Nov. 2020 – Present (PhD student, supervised by Dr Yi Mei, Dr Fangfang Zhang, and Prof Mengjie Zhang) </li> 
+<li> Luyao Zhu, “Genetic programming for Job Shop Scheduling”, Zhengzhou University, Oct. 2022 – present, Master student, supervised by Dr Ke Chen and Dr Fangfang Zhang)</li> 	
 </ol>
 
 
-**Honour/Master/Summer Project**
+**Honour/Summer Project**
 <ol>
-<li> Luyao Zhu, “Genetic programming for Job Shop Scheduling”, Zhengzhou University, Oct. 2022 – present, Master student, supervised by Dr Ke Chen and Dr Fangfang Zhang)</li> 	
 <li> Elliott Ramoo, “Genetic programming for Job Shop Scheduling”, Victoria University of Wellington, Nov. 2022 – present, research scholarship (Summer, Honour student, supervised by Dr Fangfang Zhang and Dr Yi Mei)</li> 
 <li> Yuye Zhang, “Machine learning for king salmon health prediction”, Victoria University of Wellington, Nov. 2022 – present, research scholarship (Summer, Honour student, supervised by Dr Fangfang Zhang, Prof Bing Xue and Pro Mengjie Zhang)</li> 
 <li> Timothy McDermott, “Genetic programming for Job Shop Scheduling”, Victoria University of Wellington, Mar. 2022 – Present (Honour student, supervised by Dr Fangfang Zhang and Dr Yi Mei)</li> 
