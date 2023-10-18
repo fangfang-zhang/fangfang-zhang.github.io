@@ -34,7 +34,7 @@ author_profile: true
 
 **Honour/Summer Project**
 <ol>
-<li> Elliott Ramoo, “Genetic programming for Job Shop Scheduling”, Victoria University of Wellington, Nov. 2022 – present, research scholarship (Summer, Honour student, supervised by Dr Fangfang Zhang and Dr Yi Mei)</li> 
+<li> Elliott Ramoo, “Genetic programming for Job Shop Scheduling”, Victoria University of Wellington, Nov. 2022 – Oct. 2023, research scholarship (Summer, Honour student, supervised by Dr Fangfang Zhang and Dr Yi Mei)</li> 
 <li> Yuye Zhang, “Machine learning for king salmon health prediction”, Victoria University of Wellington, Nov. 2022 – present, research scholarship (Summer, Honour student, supervised by Dr Fangfang Zhang, Prof Bing Xue and Pro Mengjie Zhang)</li> 
 <li> Timothy McDermott, “Genetic programming for Job Shop Scheduling”, Victoria University of Wellington, Mar. 2022 – Present (Honour student, supervised by Dr Fangfang Zhang and Dr Yi Mei)</li> 
 <li> Gaofeng Shi, “Genetic programming for Job Shop Scheduling”, Victoria University of Wellington, Nov. 2021 – Feb. 2022 (Summer, Honour student, supervised by Dr Fangfang Zhang and Dr Yi Mei)</li> 
