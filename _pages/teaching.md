@@ -22,6 +22,7 @@ author_profile: true
 
 **Research Thesis Supervision**
 <ol>
+<li> Shaojin Geng, “Dynamic Optimisation Problem”, Tongji University, Oct. 2023 – Present (Visiting PhD student, supervised with Dr Yi Mei, Dr Fangfang Zhang, and Prof Mengjie Zhang) </li>	
 <li> Xinxin Xu, “Large-scale Dynamic Multi-objective Optimization based on Hyper-heuristics Algorithm”, Ocean University of China, Oct. 2023 – Present (Visiting PhD student, supervised with Dr Fangfang Zhang, Dr Yi Mei and Prof Mengjie Zhang) </li>
 <li> Ruiqi Chen, “Job Shop Scheduling, Victoria University of Wellington, Sep. 2023 – Present (PhD student, supervised by Dr Yi Mei, Dr Fangfang Zhang, and Prof Mengjie Zhang) </li>	
 <li> Zaixing Sun, “Workflow Scheduling”, Harbin Institute of Technology, Apr. 2023 – Present (Visiting PhD student, supervised with Dr Yi Mei, Dr Fangfang Zhang, and Prof Mengjie Zhang) </li>
