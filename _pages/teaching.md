@@ -33,14 +33,14 @@ author_profile: true
 
 **Master Students**
 <ol>
-<li> Hue Luong, “Machine Learning for King Salmon Health Prediction”, Victoria University of Wellington, Nov. 2023 - present, supervised by Dr Fangfang Zhang</li>
-<li> Luyao Zhu, “Genetic programming for Job Shop Scheduling”, Zhengzhou University, Oct. 2022 – present, Master student, supervised by Dr Ke Chen and Dr Fangfang Zhang)</li> 	
+<li> Hue Luong, “Machine Learning for King Salmon Health Prediction”, Victoria University of Wellington, Nov. 2023 - present, Master of Artifical Intelligence, supervised by Dr Fangfang Zhang</li>
+<li> Luyao Zhu, “Genetic programming for Job Shop Scheduling”, Zhengzhou University, Oct. 2022 – present, Master of Electric Engineering, supervised by Dr Ke Chen and Dr Fangfang Zhang)</li> 	
 </ol>
 
 **Honours Project Students**
 <ol>
+<li> Yuye Zhang, “Machine Learning for King Salmon Health Prediction”, Victoria University of Wellington, Feb. 2022 – Oct 2023, supervised by Dr Fangfang Zhang, Prof Bing Xue and Pro Mengjie Zhang <a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/master/files/Yuye_Zhang_AIML487_Final_Report.pdf">[final report]</a></li> 	
 <li> Elliott Ramoo, “Genetic programming for Job Shop Scheduling”, Victoria University of Wellington, Feb. 2022 – Oct. 2023, supervised by Dr Fangfang Zhang and Dr Yi Mei</li> 
-<li> Yuye Zhang, “Machine Learning for King Salmon Health Prediction”, Victoria University of Wellington, Feb. 2022 – Oct 2023, supervised by Dr Fangfang Zhang, Prof Bing Xue and Pro Mengjie Zhang<a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/master/files/Yuye_Zhang_AIML487_Final_Report.pdf">[report]</a></li> 
 <li> Timothy McDermott, “Genetic programming for Job Shop Scheduling”, Victoria University of Wellington, Feb. 2022 – Oct. 2023, supervised by Dr Fangfang Zhang and Dr Yi Mei</li> 
 <li> Gaofeng Shi, “Genetic programming for Job Shop Scheduling”, Victoria University of Wellington, Feb. 2021 – Oct. 2022, supervised by Dr Fangfang Zhang and Dr Yi Mei</li> 
 </ol>
