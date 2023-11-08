@@ -20,12 +20,12 @@ ul li { padding: 5px 0px; }
 
 **Associate Editor**
 <ol>
-<li>Expert Systems With Applications, 2022 --- now</li>
+<li>Expert Systems With Applications, 2022 --- present</li>
 </ol>
 
 **Organised Taskforce**
 <ol>
-<li> <b> Vice Chair, </b> <a href="https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/"> IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation</a> </li>
+<li> <b> Vice Chair, </b> <a href="https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/"> IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation</a>, Dec 2022 --- present </li>
 </ol>
 
 **Organised Tutorials**
