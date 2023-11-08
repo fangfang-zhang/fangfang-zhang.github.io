@@ -6,7 +6,7 @@ author_profile: true
 ul li { padding: 5px 0px; }
 ---
 <ol>
-<li> Humies SILVER Award, Genetic and Evolutionary Computation Conference (GECCO), 2023</li>	
+<li> Humies SILVER Award, Genetic and Evolutionary Computation Conference (GECCO), 2023 (Prize: $2000 USD)</li>	
 <li> Best Paper Award, Genetic and Evolutionary Computation Conference (GECCO), 2023</li>
 <li> ACM SIGEVO Best Dissertation Award, 2022 (Prize: $1000 USD)</li>	
 <li> Best Paper Award, European Conference on Genetic Programming (EuroGP), 2022 </li>
