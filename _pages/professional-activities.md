@@ -20,7 +20,8 @@ ul li { padding: 5px 0px; }
 
 **Associate Editor**
 <ol>
-<li>Expert Systems With Applications, 2022 --- present</li>
+<li>Swarm and Evolutionary Computation, Jan. 2024 --- present</li>	
+<li>Expert Systems With Applications, Sep. 2022 --- present</li>
 </ol>
 
 **Organised Taskforce**
