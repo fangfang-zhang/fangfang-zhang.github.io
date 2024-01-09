@@ -39,7 +39,7 @@ ul li { padding: 5px 0px; }
 
 **Organised Special Sessions** 
 <ol>
-<li> Chair, <a href=""> “Evolutionary Computation and Computational Intelligence for Scheduling and Combinatorial Optimisation”, IEEE Congress on Evolutionary Computation (CEC2024) </li>	
+<li> Chair, <a href=""> Evolutionary Computation and Computational Intelligence for Scheduling and Combinatorial Optimisation</a>, IEEE Congress on Evolutionary Computation (CEC2024) </li>	
 <li> Chair, <a href="https://meiyi1986.github.io/cec2022-esco/"> Evolutionary Scheduling and Combinatorial Optimisation</a>, IEEE Congress on Evolutionary Computation (CEC2022, CEC2023) </li>		
 <li> Chair, <a href="https://fangfang-zhang.github.io/CEC2023SS/"> Genetic Programming and Machine Learning for Scheduling</a>, IEEE Congress on Evolutionary Computation (CEC2023) </li>
 <li> Chair, <a href="https://fangfang-zhang.github.io/CEC2022EMLPS/"> Evolutionary Machine Learning for Planning and Scheduling</a>, IEEE Congress on Evolutionary Computation (CEC2022) </li>
