@@ -73,6 +73,7 @@ ul li { padding: 5px 0px; }
 <li> Journal of Process Control (Q1) </li>  
 <li> CIRP Journal of Manufacturing Science and Technology (Q1) </li> 
 <li> Journal of Scheduling (Q1) </li>
+<li> Heliyon (Q1) </li>
 <li> Journal of Artificial Intelligence Research (ARC/ERA Tier A) </li>
 <li> Complex & Intelligent Systems (Q2) </li>
 <li> International Journal of Bio-inspired Computation (Q2) </li>
