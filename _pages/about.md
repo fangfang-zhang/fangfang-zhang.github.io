@@ -39,12 +39,7 @@ Fangfang Zhang (Member, IEEE) received the B.Sc. and M.Sc. degrees from Shenzhen
 job shop scheduling, and multitask learning. Dr. Zhang is a member of the IEEE Computational Intelligence Society and Association for Computing Machinery, and has been severing as reviewers for top international journals such as the IEEE Transactions on Evolutionary Computation and the IEEE Transactions on Cybernetics, and conferences including the Genetic and Evolutionary Computation Conference and the IEEE Congress on Evolutionary Computation. She is an Associate Editor of Expert Systems With Applications, and Swarm and Evolutionary Computation. She is also a committee member of the IEEE NZ Central Section. She is the Secretary of IEEE New Zealand Central Section, treasurer of Young Professional Affinity Group, and the Secretary of Women-in-Engineering Affinity Group of IEEE NZ Central Section. She was the Chair of the IEEE Student Branch at VUW, the chair of Professional Activities Coordinator. In addition, she is the diversity chair and Post-Doc Member representative of AI Researchers Association.
 
 
-Collaborators
-======
-Professor [Mengjie Zhang](https://scholar.google.co.nz/citations?user=hLvGrrkAAAAJ&hl=en), Victoria Univeristy of Wellington\\
-Dr [Yi Mei](https://scholar.google.co.nz/citations?user=vTC_7_wAAAAJ&hl=en), Victoria Universty of Wellington\\
-Dr [Su Nguyen](https://scholar.google.co.nz/citations?user=PQYVtl4AAAAJ&hl=en), La Trobe University\\
-Professor [Kay Chen Tan](https://scholar.google.com/citations?user=LFngSp0AAAAJ&hl=en), The Hong Kong Polytechnic University
+
 
 
 
