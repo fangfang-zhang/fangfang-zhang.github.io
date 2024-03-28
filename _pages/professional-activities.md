@@ -21,7 +21,7 @@ ul li { padding: 5px 0px; }
 **Associate Editor**
 <ol>
 <li>Swarm and Evolutionary Computation, Jan. 2024 --- present</li>	
-<li>Expert Systems With Applications, Sep. 2022 --- present</li>
+<li>Expert Systems with Applications, Sep. 2022 --- present</li>
 </ol>
 
 **Organised Taskforce**
@@ -95,7 +95,6 @@ ul li { padding: 5px 0px; }
 <li> IEEE Conference on Artificial Intelligence (CAI), 2024 </li>
 <li> IEEE Symposium Series on Computational Intelligence (SSCI), 2019, 2020, 2021, 2022 </li>
 <li> The Australasian Joint Conference on Artificial Intelligence (AJCAI), 2018, 2021, 2022, 2023 </li>
-<li> IEEE Conference on Artificial Intelligence (CAI), 2024 </li>
 <li> The International Conference on Swarm Intelligence (ICSI), 2022 </li>
 <li> Heterodox Methods for Interpretable and Efficient Artificial Intelligence (HMIEAI2022), 2022 </li>
 <li> The International Conference on Machine Learning and Intelligent Systems (MLIS), 2021 </li>
