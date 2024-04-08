@@ -13,6 +13,8 @@ Evolutionary Computation Research Group ([ECRG](https://ecs.wgtn.ac.nz/Groups/EC
 School of Engineering and Computer Science ([SECS](https://www.wgtn.ac.nz/engineering/school-of-engineering-and-computer-science))\\
 Victoria University of Wellington
 
+<span style="color: #FF0000">PhD Vacancy</span>: I am looking for PhD/MSc/Honours/Summer Research students. Please do not hesitate to contact me.
+
 News
 ======
 <ol>
