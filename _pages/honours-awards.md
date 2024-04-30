@@ -9,7 +9,7 @@ ul li { padding: 5px 0px; }
 <li> Best Poster Award Runner-up, Australasian Joint Conference on Artificial Intelligence (AJCAI), 2023</li>	
 <li> Humies SILVER Award, Genetic and Evolutionary Computation Conference (GECCO), 2023 (Prize: $2000 USD)</li>	
 <li> Best Paper Award, Genetic and Evolutionary Computation Conference (GECCO), 2023</li>
-<li> ACM SIGEVO Best Dissertation Award, 2022 (Prize: $1000 USD)</li>	
+<li> ACM SIGEVO Best Dissertation Award, Honorable Mention, 2022 (Prize: $1000 USD)</li>	
 <li> Best Paper Award, European Conference on Genetic Programming (EuroGP), 2022 </li>
 <li> Victorias Award for Research Excellence, 2021 (Prize: $1500 NZD) </li>
 <li> Popular Paper Recognition (2 papers), IEEE Transactions on Evolutionary Computation, 2021 (top 50 most frequently accessed papers in the journal) </li>
