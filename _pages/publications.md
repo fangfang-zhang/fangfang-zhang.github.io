@@ -82,7 +82,7 @@ author_profile: true
 
 **Theses**
 <ol>
-<li> PhD thesis, <b>Fangfang Zhang</b>. "Genetic Programming Hyper-heuristics for Dynamic Flexible Job Shop Scheduling". 2021, 300 pages, DOI: https://doi.org/10.26686/wgtn.16528677 (<span style="color: #FF0000">2022 SIGEVO Dissertation Award, Honorable Mention</span>) <a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/main/files/2021-thesis_access.pdf">[pdf]</a></li>   
+<li> PhD thesis, <b>Fangfang Zhang</b>. "Genetic Programming Hyper-heuristics for Dynamic Flexible Job Shop Scheduling". 2021, 300 pages, DOI: https://doi.org/10.26686/wgtn.16528677 (<span style="color: #FF0000">2022 SIGEVO Dissertation Award, Honorable Mention</span>) <a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/main/files/2021-thesis_access.pdf">[pdf] My PhD proposal is </a></li>   
 <li> Master thesis, <b>Fangfang Zhang</b>. "Optimization Research for Yard Truck Scheduling in Container Terminal". 2017, 56 pages (In Chinese) <a target="_blank" href="https://cdmd.cnki.com.cn/Article/CDMD-10590-1017812977.htm">[DOI]</a><a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/master/files/%5B2017%5D%20%E9%9B%86%E8%A3%85%E7%AE%B1%E7%A0%81%E5%A4%B4%E9%9B%86%E5%8D%A1%E8%B0%83%E5%BA%A6%E4%BC%98%E5%8C%96%E7%A0%94%E7%A9%B6_%E5%BC%A0%E8%8A%B3%E8%8A%B3.caj">[caj]</a></li> 
 </ol>
 
