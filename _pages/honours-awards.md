@@ -6,6 +6,7 @@ author_profile: true
 ul li { padding: 5px 0px; }
 ---
 <ol>
+<li> IEEE CIS Outstanding PhD Dissertation Award, 2025</li>	
 <li> Best Poster Award Runner-up, Australasian Joint Conference on Artificial Intelligence (AJCAI), 2023</li>	
 <li> Humies SILVER Award, Genetic and Evolutionary Computation Conference (GECCO), 2023 (Prize: $2000 USD)</li>	
 <li> Best Paper Award, Genetic and Evolutionary Computation Conference (GECCO), 2023</li>
