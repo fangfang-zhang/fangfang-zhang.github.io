@@ -34,8 +34,8 @@ author_profile: true
 
 **Master Students**
 <ol>
-<li> Hue Luong, “Machine Learning for King Salmon Health Prediction”, Victoria University of Wellington, Nov. 2023 - present, Master of Artifical Intelligence, supervised by Dr Fangfang Zhang and Prof Bing Xue</li>
-<li> Luyao Zhu, “Genetic programming for Job Shop Scheduling”, Zhengzhou University, Dec. 2021 – present, Master of Electric Engineering, supervised by Dr Fangfang Zhang and Dr Ke Chen</li> 	
+<li> Hue Luong, “Machine Learning for King Salmon Health Prediction”, Victoria University of Wellington, Nov. 2023 - Jun. 2024, Master of Artifical Intelligence, supervised by Dr Fangfang Zhang and Prof Bing Xue</li>
+<li> Luyao Zhu, “Genetic programming for Job Shop Scheduling”, Zhengzhou University, Dec. 2021 – Jun. 2024, Master of Electric Engineering, supervised by Dr Fangfang Zhang and Dr Ke Chen</li> 	
 </ol>
 
 **Honours Project Students**
