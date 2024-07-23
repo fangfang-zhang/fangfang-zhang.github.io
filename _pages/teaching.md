@@ -29,7 +29,7 @@ author_profile: true
 <li> Ruiqi Chen, “Job Shop Scheduling, Victoria University of Wellington, Sep. 2023 – Present (PhD student, supervised by Dr Yi Mei, Dr Fangfang Zhang, and Prof Mengjie Zhang) </li>	
 <li> Jordan MacLachlan, “Evolutionary Computation for Emergency Dispatch”, Victoria University of Wellington, Oct. 2021 – Present (PhD student, supervised by Dr Yi Mei, Dr Fangfang Zhang, and Prof Mengjie Zhang) </li>
 <li> Zaixing Sun, “Workflow Scheduling”, Harbin Institute of Technology, Apr. 2023 – Apr. 2024 (Visiting PhD student, supervised with Dr Yi Mei, Dr Fangfang Zhang, and Prof Mengjie Zhang) </li>
-<li> Zhixing Huang, “Linear Genetic programming for Dynamic Job Shop Scheduling”, Victoria University of Wellington, Nov. 2020 – Feb. 2024 (PhD student, supervised by Dr Yi Mei, Dr Fangfang Zhang, and Prof Mengjie Zhang) </li>
+<li> Zhixing Huang, “Advanced Linear Genetic Programming and Applications to Dynamic Job Shop Scheduling”, Victoria University of Wellington, Nov. 2020 – Feb. 2024 (PhD student, supervised by Dr Yi Mei, Dr Fangfang Zhang, and Prof Mengjie Zhang) </li>
 <li> Meng Xu, “Advancing Genetic Programming for Learning Scheduling Heuristics”, Victoria University of Wellington, Nov. 2020 – Feb. 2024 (PhD student, supervised by Dr Yi Mei, Dr Fangfang Zhang, and Prof Mengjie Zhang) <a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/main/files/Nora-thesis.pdf">PhD thesis</a> </li> 
 </ol>
 
