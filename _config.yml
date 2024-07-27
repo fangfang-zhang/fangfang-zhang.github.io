@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr Fangfang Zhang's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Fangfang Zhang"
 description              : &description "personal description"
