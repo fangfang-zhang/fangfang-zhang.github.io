@@ -190,6 +190,9 @@ collections:
   awards:
     output: true
     permalink: /:collection/:path/
+  resources:
+    output: true
+    permalink: /:collection/:path/  
 
 
 # Defaults
@@ -251,6 +254,14 @@ defaults:
   - scope:
       path: ""
       type: awards
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _talks
+  - scope:
+      path: ""
+      type: resources
     values:
       layout: single
       author_profile: true
