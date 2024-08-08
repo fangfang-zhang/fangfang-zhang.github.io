@@ -15,7 +15,13 @@ ul li { padding: 5px 0px; }
 </ol>
 
 **Datasets**
-<li>Job/Flow/Open Shop Scheduling, "<a target="_blank" href="http://mistic.heig-vd.ch/taillard/problemes.dir/ordonnancement.dir/ordonnancement.html">Taillard’s benchmark datasets</a>", and can also download <a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/main/files/FJSS-Datasets.zip">here</a>
-<li>Flexible Job Shop Scheduling, "<a target="_blank" href="https://people.idsia.ch/~monaldo/fjsp.html">Datasets</a>", and can also download <a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/main/files/FJSS-Datasets.zip">here</a>
+<ol>
+<li>Job/Flow/Open Shop Scheduling, "<a target="_blank" href="http://mistic.heig-vd.ch/taillard/problemes.dir/ordonnancement.dir/ordonnancement.html">Taillard’s benchmark datasets</a>"</li>
+<li>Flexible Job Shop Scheduling, "<a target="_blank" href="https://people.idsia.ch/~monaldo/fjsp.html">Datasets</a>", and can also download <a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/main/files/FJSS-Datasets.zip">here</a></li>
+<li>Dynamic Scheduling is simulation based, contact me for the code. </li>	
+</ol>	
 
 **Codes and Scripts**
+<ol>
+<li>I have scripts for drawing different figures/tables, and scripts for analysing the results. Ask me for the scripts if needed (to save time).</li>
+</ol>	
