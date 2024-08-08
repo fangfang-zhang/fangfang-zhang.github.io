@@ -250,7 +250,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _talks
+  # _awards
   - scope:
       path: ""
       type: awards
@@ -258,7 +258,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  # _talks
+  # _resources
   - scope:
       path: ""
       type: resources

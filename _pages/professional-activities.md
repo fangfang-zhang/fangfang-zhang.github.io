@@ -92,6 +92,7 @@ ul li { padding: 5px 0px; }
 <li> IEEE Congress on Evolutionary Computation (CEC), 2020, 2021, 2022, 2023 </li>
 <li> The International Joint Conference on Neural Networks (IJCNN), 2022 </li>
 <li> The Leading European Event on Bio‑Inspired Computation (Evo*), 2022, 2023 </li>
+<li> The Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2024 </li>
 <li> IEEE Conference on Artificial Intelligence (CAI), 2024 </li>
 <li> IEEE Symposium Series on Computational Intelligence (SSCI), 2019, 2020, 2021, 2022 </li>
 <li> The Australasian Joint Conference on Artificial Intelligence (AJCAI), 2018, 2021, 2022, 2023 </li>
