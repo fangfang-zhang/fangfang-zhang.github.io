@@ -23,7 +23,7 @@ ul li { padding: 5px 0px; }
 
 **Codes and Scripts**
 <ol>
-<li><a target="_blank" href="http://www.cs.gmu.edu/~eclab/projects/ecj/">ECJ</a>: Java package for Evolutionary Computation, with <a target="_blank" href="http://www.cs.gmu.edu/~eclab/projects/ecj/https://cs.gmu.edu/~eclab/projects/ecj/manual.pdf">manual</a></li>
+<li><a target="_blank" href="http://www.cs.gmu.edu/~eclab/projects/ecj/">ECJ</a>: Java package for Evolutionary Computation, with <a target="_blank" href="https://cs.gmu.edu/~eclab/projects/ecj/manual.pdf">manual</a></li>
 <li><a target="_blank" href="https://github.com/DEAP/deap">DEAP</a>: Python package for Evolutionary Computation, with <a target="_blank" href="http://deap.readthedocs.io/en/master/">tutorials</a></li>
 <li>I have scripts for drawing different figures/tables, and scripts for analysing the results. Ask me for the scripts if needed (to save time).</li>
 </ol>	
