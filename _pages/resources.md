@@ -15,6 +15,7 @@ ul li { padding: 5px 0px; }
 </ol>
 
 **Datasets**
-<li>Job Shop Scheduling, "<a target="_blank" href="https://people.idsia.ch/~monaldo/fjsp.html">Flexible Job Shop Scheduling</a>", and can also download <a target="_blank" href="https://people.idsia.ch/~monaldo/fjsp.html">here</a>
+<li>Job/Flow/Open Shop Scheduling, "<a target="_blank" href="http://mistic.heig-vd.ch/taillard/problemes.dir/ordonnancement.dir/ordonnancement.html">Taillard’s benchmark datasets</a>", and can also download <a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/main/files/FJSS-Datasets.zip">here</a>
+<li>Flexible Job Shop Scheduling, "<a target="_blank" href="https://people.idsia.ch/~monaldo/fjsp.html">Datasets</a>", and can also download <a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/main/files/FJSS-Datasets.zip">here</a>
 
 **Codes and Scripts**
