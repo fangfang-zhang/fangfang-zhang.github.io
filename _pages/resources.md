@@ -11,7 +11,7 @@ ul li { padding: 5px 0px; }
 <li> If you do not have much background of Artifical Intelligence and Machine Learning, you can read the book of "<a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/main/files/Machine%20Learning%20For%20Absolute%20Beginners.pdf">Machine Learning For Absolute Beginners</a>".</li>	
 <li> For starting with Genetic Programming (GP), can read the book of "<a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/main/files/A_Field_Guide_to_Genetic_Programming.pdf">A Field Guide toGenetic Programming</a>".</li>	
 <li> You can check our survey to have a big picture of our research, "<a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/main/files/%5B2023%5D%20Survey_on_Genetic_Programming_and_Machine_Learning_Techniques_for_Heuristic_Design_in_Job_Shop_Scheduling.pdf">Survey on genetic programming and machine learning techniques for heuristic design in job shop scheduling</a>".</li>	
-<li> Our book has more details on GP for Production Scheduling, "<a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/main/files/2021-Zhang2021_Book_GeneticProgrammingForProduction.pdf">SGenetic Programming for Production Scheduling: An Evolutionary Learning Approach</a>", or you can check the first two chapters to get details of different related scheduling problems.</li>
+<li> Our book has more details on GP for Production Scheduling, "<a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/main/files/2021-Zhang2021_Book_GeneticProgrammingForProduction.pdf">Genetic Programming for Production Scheduling: An Evolutionary Learning Approach</a>", or you can check the first two chapters to get details of different related scheduling problems.</li>
 </ol>
 
 **Datasets**
@@ -23,7 +23,7 @@ ul li { padding: 5px 0px; }
 
 **Codes and Scripts**
 <ol>
-<li><a target="_blank" href="http://www.cs.gmu.edu/~eclab/projects/ecj/">ECJ: Java package for Evolutionary Computation, with <li><a target="_blank" href="http://www.cs.gmu.edu/~eclab/projects/ecj/https://cs.gmu.edu/~eclab/projects/ecj/manual.pdf">manual</a></li>.	
+<li><a target="_blank" href="http://www.cs.gmu.edu/~eclab/projects/ecj/">ECJ</a>: Java package for Evolutionary Computation, with <a target="_blank" href="http://www.cs.gmu.edu/~eclab/projects/ecj/https://cs.gmu.edu/~eclab/projects/ecj/manual.pdf">manual</a></li>.	
 <li><a target="_blank" href="https://github.com/DEAP/deap">DEAP</a>: Python package for Evolutionary Computation, with <a target="_blank" href="http://deap.readthedocs.io/en/master/">tutorials</a></li>
 <li>I have scripts for drawing different figures/tables, and scripts for analysing the results. Ask me for the scripts if needed (to save time).</li>
 </ol>	
