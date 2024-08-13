@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Honours/Awards"
+title: "Resources"
 permalink: /resources/
 author_profile: true
 ul li { padding: 5px 0px; }
@@ -26,4 +26,11 @@ ul li { padding: 5px 0px; }
 <li><a target="_blank" href="http://www.cs.gmu.edu/~eclab/projects/ecj/">ECJ</a>: Java package for Evolutionary Computation, with <a target="_blank" href="https://cs.gmu.edu/~eclab/projects/ecj/manual.pdf">manual</a></li>
 <li><a target="_blank" href="https://github.com/DEAP/deap">DEAP</a>: Python package for Evolutionary Computation, with <a target="_blank" href="http://deap.readthedocs.io/en/master/">tutorials</a></li>
 <li>I have scripts for drawing different figures/tables, and scripts for analysing the results. Ask me for the scripts if needed (to save time).</li>
+</ol>	
+
+**Useful Tools**
+<ol>
+<li>Table Generator Online, https://www.tablesgenerator.com/, then, you can copy the generated code to Latex directly to draw a table.</li>
+<li>Crop PDF Online, https://www.sejda.com/crop-pdf, to remove margin before you put figures into Latex.</li>
+<li>More edits for pdf, using https://www.ilovepdf.com/</li>
 </ol>	
