@@ -30,7 +30,7 @@ ul li { padding: 5px 0px; }
 
 **Useful Tools**
 <ol>
-<li>Table Generator Online, https://www.tablesgenerator.com/, then, you can copy the generated code to Latex directly to draw a table.</li>
-<li>Crop PDF Online, https://www.sejda.com/crop-pdf, to remove margin before you put figures into Latex.</li>
-<li>More edits for pdf, using https://www.ilovepdf.com/</li>
+<li>Table Generator Online, <a target="_blank" href="https://www.tablesgenerator.com/">, then, you can copy the generated code to Latex directly to draw a table.</li>
+<li>Crop PDF Online, <a target="_blank" href="https://www.sejda.com/crop-pdf">, to remove margin before you put figures into Latex.</li>
+<li>More edits for pdf, using <a target="_blank" href="https://www.ilovepdf.com/"></li>
 </ol>	
