@@ -23,6 +23,7 @@ author_profile: true
 
 **PhD Students**
 <ol>	
+<li> Luyao Zhu, “Scheduling Heuristics Learning for Dynamic Job Shop Scheduling”, Victoria University of Wellington, Sep. 2024 – present (PhD student, supervised by Dr Fangfang Zhang, Prof Yi Mei, and Prof Mengjie Zhang) </li>		
 <li> Zhuoyin Qiao, “Machine Learning for Job Shop Scheduling”, Victoria University of Wellington, Sep. 2024 – present (PhD student, supervised by Dr Fangfang Zhang, Prof Yi Mei, and Prof Mengjie Zhang) </li>	
 <li> Yuye Zhang, “Multimodal Learning”, Victoria University of Wellington, Feb. 2024 – present (PhD student, supervised by Dr Fangfang Zhang, Prof Bing Xue, and Prof Mengjie Zhang) </li>	
 <li> Shaojin Geng, “Dynamic Optimisation Problem”, Tongji University, Oct. 2023 – Present (Visiting PhD student, supervised with Dr Yi Mei, Dr Fangfang Zhang, and Prof Mengjie Zhang) </li>	
