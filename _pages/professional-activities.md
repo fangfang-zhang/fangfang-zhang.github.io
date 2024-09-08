@@ -11,8 +11,9 @@ ul li { padding: 5px 0px; }
 <li> <b> Secretary: </b> IEEE New Zealand Central Section, 2023 - Present </li>
 <li> <b> Treasurer: </b> Young Professional Affinity Group, IEEE New Zealand Central Section, 2020 – Present </li>
 <li> <b> Secretary: </b> Woman in Engineering, IEEE New Zealand Central Section, July 2021 – Present </li>
-<li> <b> Diversity Chair: </b> AI Researchers Association, VUW, 2023-Present </li>
-<li> <b> Post-Doc Member representative: </b> AI Researchers Association, 2021 - Present </li>
+<li> <b> Secretary: </b> AI Researchers Association, VUW, 2024-present </li>
+<li> <b> Diversity Chair: </b> AI Researchers Association, VUW, 2023-2024 </li>
+<li> <b> Post-Doc Member representative: </b> AI Researchers Association, 2021-2024 </li>
 <li> <b> Professional Activities Coordinator: </b> IEEE New Zealand Central Section, 2021 - 2022 </li>
 <li> <b> Chair: </b> Student Branch (Victoria University of Wellington), IEEE New Zealand Central Section, 2020 – 2021 </li>
 <li> <b> Chair: </b> New Zealand Chinese Students Association (Wellington), 2018 - 2021 </li>
