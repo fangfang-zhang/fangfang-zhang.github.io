@@ -25,6 +25,11 @@ ul li { padding: 5px 0px; }
 <li>Expert Systems with Applications, Sep. 2022 --- present</li>
 </ol>
 
+**Editorial Board Members**
+<ol>
+<li>Intelligent Marine Technology and Systems, Sep. 2024 --- present</li>	
+</ol>
+
 **Organised Taskforce**
 <ol>
 <li> <b> Vice Chair, </b> <a href="https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/"> IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation</a>, Dec 2022 --- present </li>
