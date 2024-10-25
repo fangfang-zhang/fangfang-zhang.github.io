@@ -11,6 +11,7 @@ author_profile: true
 
 **Refereed Journal Articles**
 <ol>
+<li>Kun Huang, Fang-Lue Zhang, <b>Fangfang Zhang</b>, Yu-Kun Lai, Paul Rosin, and Neil Dodgson. "Monocular 360° Depth Estimation via Fusion with Surface Normal Learning". <i>Computational Visual Media Journal</i>, 2024.</li>
 <li>Yuye Zhang, <b>Fangfang Zhang*</b>, Paula Casanovas, Bing Xue, Mengjie Zhang, and Jane E. Symonds. "<a target="_blank" href="">A Study of Feature Importance for King Salmon Health Classification with Feature
 Selection</a>". <i>Intelligent Marine Technology and Systems</i>, 2024. DOI: 10.1007/s44295-024-00046-z <a target="_blank" href="">[pdf]</a></li>		
 <li><b>Fangfang Zhang</b>, Gaofeng Shi, Yi Mei, and Mengjie Zhang. "<a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/10669769">Multi-objective Dynamic Flexible Job Shop Scheduling with Biased Objectives via Multitask Genetic Programming</a>". <i>IEEE Transactions on Artificial Intelligence</i>, 2024. DOI: 10.1109/TAI.2024.3456086 <a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/main/files/2024-MODFJSS_with_Biased_Objectives_via_MGP.pdf">[pdf]</a></li>	
