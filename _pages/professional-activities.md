@@ -5,35 +5,28 @@ permalink: /professional-activities/
 author_profile: true
 ul li { padding: 5px 0px; }
 ---
-**Professional Leadership**
-<ol>
-<li> <b> Project Coordinator: </b> Data Science for Aquaculture, VUW, 2022-Present </li>
-<li> <b> Secretary: </b> IEEE New Zealand Central Section, 2023 - Present </li>
-<li> <b> Treasurer: </b> Young Professional Affinity Group, IEEE New Zealand Central Section, 2020 – Present </li>
-<li> <b> Secretary: </b> Woman in Engineering, IEEE New Zealand Central Section, July 2021 – Present </li>
-<li> <b> Secretary: </b> AI Researchers Association, VUW, 2024-present </li>
-<li> <b> Diversity Chair: </b> AI Researchers Association, VUW, 2023-2024 </li>
-<li> <b> Post-Doc Member representative: </b> AI Researchers Association, 2021-2024 </li>
-<li> <b> Professional Activities Coordinator: </b> IEEE New Zealand Central Section, 2021 - 2022 </li>
-<li> <b> Chair: </b> Student Branch (Victoria University of Wellington), IEEE New Zealand Central Section, 2020 – 2021 </li>
-<li> <b> Chair: </b> New Zealand Chinese Students Association (Wellington), 2018 - 2021 </li>
-</ol>
 
-**Associate Editor**
-<ol>
-<li>Swarm and Evolutionary Computation, Jan. 2024 --- present</li>	
-<li>Expert Systems with Applications, Sep. 2022 --- present</li>
-</ol>
-
-**Editorial Board Members**
-<ol>
-<li>Intelligent Marine Technology and Systems, Sep. 2024 --- present</li>	
-</ol>
-
-**Organised Taskforce**
+**Professional (Vice-)Chairs**
 <ol>
 <li> <b> Vice Chair, </b> <a href="https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/"> IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation</a>, Dec 2022 --- present </li>
 </ol>
+
+
+**Associate Editor/Editorial Board Member**
+<ol>
+<li>Associate Editor, IEEE Transactions on Evolutionary Computation, Jan. 2025 --- present</li>	
+<li>Associate Editor, Intelligent Marine Technology and Systems, Sep. 2024 --- present</li>	
+<li>Associate Editor, Swarm and Evolutionary Computation, Jan. 2024 --- present</li>	
+<li>Editorial board Member, Expert Systems with Applications, Sep. 2022 --- present</li>
+</ol>
+
+**Internatioanl Conference Organising Committees**
+<ol>
+<li>Local Chair of Australasian Joint Conference on Artificial Intelligence (AJCAI 2026)</li>
+<li>Local Chair of Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)</li>
+</ol>
+
+
 
 **Organised Tutorials**
 <ol>
@@ -54,6 +47,19 @@ ul li { padding: 5px 0px; }
 <li> Chair, <a href=""> Evolutionary Machine Learning for Combinatorial Optimisation</a>, EAI International Conference on Bio-inspired Information and Communications Technologies (<a href="https://bionetics.eai-conferences.org/2022/">BICT2022</a>) </li>
 </ol>
 
+**Professional Leadership**
+<ol>
+<li> <b> Project Coordinator: </b> Data Science for Aquaculture, VUW, 2022-Present </li>
+<li> <b> Secretary: </b> IEEE New Zealand Central Section, 2023 - Present </li>
+<li> <b> Treasurer: </b> Young Professional Affinity Group, IEEE New Zealand Central Section, 2020 – Present </li>
+<li> <b> Secretary: </b> Woman in Engineering, IEEE New Zealand Central Section, July 2021 – Present </li>
+<li> <b> Secretary: </b> AI Researchers Association, VUW, 2024-present </li>
+<li> <b> Diversity Chair: </b> AI Researchers Association, VUW, 2023-2024 </li>
+<li> <b> Post-Doc Member representative: </b> AI Researchers Association, 2021-2024 </li>
+<li> <b> Professional Activities Coordinator: </b> IEEE New Zealand Central Section, 2021 - 2022 </li>
+<li> <b> Chair: </b> Student Branch (Victoria University of Wellington), IEEE New Zealand Central Section, 2020 – 2021 </li>
+<li> <b> Chair: </b> New Zealand Chinese Students Association (Wellington), 2018 - 2021 </li>
+</ol>
 
 **Peer Reviewer for International Journals**
 <ol>
