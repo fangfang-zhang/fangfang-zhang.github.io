@@ -15,9 +15,9 @@ ul li { padding: 5px 0px; }
 **Associate Editor/Editorial Board Member**
 <ol>
 <li>Associate Editor, IEEE Transactions on Evolutionary Computation, Jan. 2025 --- present</li>	
-<li>Associate Editor, Intelligent Marine Technology and Systems, Sep. 2024 --- present</li>	
+<li>Editorial Board Member, Intelligent Marine Technology and Systems, Sep. 2024 --- present</li>	
 <li>Associate Editor, Swarm and Evolutionary Computation, Jan. 2024 --- present</li>	
-<li>Editorial board Member, Expert Systems with Applications, Sep. 2022 --- present</li>
+<li>Associate Editor, Expert Systems with Applications, Sep. 2022 --- present</li>
 </ol>
 
 **Internatioanl Conference Organising Committees**
