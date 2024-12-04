@@ -7,6 +7,8 @@ ul li { padding: 5px 0px; }
 ---
 <ol>
 <li> IEEE CIS Outstanding PhD Dissertation Award, 2025 (Prize: $1000 USD)</li>	
+<li> Fangfang Zhang was invited to join an interview of “Meet a CIS Member” by IEEE Computational Intelligence Society. <a target="_blank" href="https://cis.ieee.org/news/518-meet-a-cis-member-fangfang-zhang?mkt_tok=NzU2LUdQSC04OTkAAAGSgXV7Ydnapt4iYXzLIYMWJus-MXA-gYUI_Faa8PXqcuQDwIYxEMS_i5JDsS25lNJxYx2IGwmKFXrIGPlxILyZ-6PUJ261Wgo7nWNvR6fAB8I">here</a></li>	
+<li> The work from Fangfang Zhang, et.al of “Health Prediction for King Salmon via Evolutionary Machine Learning with Genetic Programming” were accepted by Journal of the Royal Society of New Zealand. This work has been recognised and posted by Australian Society for Fish Biology, i.e., a professional organisation of fish and fisheries researchers, via linkedin <a target="_blank" href="https://www.linkedin.com/feed/update/urn:li:activity:7179001800547602434/">here</a></li>	
 <li> Best Poster Award Runner-up, Australasian Joint Conference on Artificial Intelligence (AJCAI), 2023</li>	
 <li> Humies SILVER Award, Genetic and Evolutionary Computation Conference (GECCO), 2023 (Prize: $2000 USD)</li>	
 <li> Best Paper Award, Genetic and Evolutionary Computation Conference (GECCO), 2023</li>
