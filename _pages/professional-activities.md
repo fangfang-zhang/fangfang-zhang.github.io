@@ -8,17 +8,17 @@ ul li { padding: 5px 0px; }
 
 **Professional (Vice-)Chairs**
 <ol>
-<li> <b> Vice Chair, </b> <a href="https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/"> IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation</a>, Dec 2022 --- present </li>
-<li> <b> Board member, </b>, The Artificial Intelligence Researchers Association (AIRA) </li>
+<li> <b> Vice Chair</b>, <a href="https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/"> IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation</a>, Dec 2022-present </li>
+<li> <b> Board member</b>, The Artificial Intelligence Researchers Association (AIRA), 2021-present </li>
 </ol>
 
 
 **Associate Editor/Editorial Board Member**
 <ol>
-<li>Associate Editor, IEEE Transactions on Evolutionary Computation, Jan. 2025 --- present</li>	
-<li>Editorial Board Member, Intelligent Marine Technology and Systems, Sep. 2024 --- present</li>	
-<li>Associate Editor, Swarm and Evolutionary Computation, Jan. 2024 --- present</li>	
-<li>Associate Editor, Expert Systems with Applications, Sep. 2022 --- present</li>
+<li>Associate Editor, IEEE Transactions on Evolutionary Computation, Jan. 2025-present</li>	
+<li>Editorial Board Member, Intelligent Marine Technology and Systems, Sep. 2024-present</li>	
+<li>Associate Editor, Swarm and Evolutionary Computation, Jan. 2024-present</li>	
+<li>Associate Editor, Expert Systems with Applications, Sep. 2022-present</li>
 </ol>
 
 **Internatioanl Conference Organising Committees**
