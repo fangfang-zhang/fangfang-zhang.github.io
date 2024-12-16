@@ -6,14 +6,14 @@ author_profile: true
 ul li { padding: 5px 0px; }
 ---
 
-**Professional (Vice-)Chairs**
+**Professional (Vice-)Chairs:**
 <ol>
 <li> <b> Vice Chair</b>, <a href="https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/"> IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation</a>, Dec 2022-present </li>
 <li> <b> Board member</b>, The Artificial Intelligence Researchers Association (AIRA), 2021-present </li>
 </ol>
 
 
-**Associate Editor/Editorial Board Member**
+**Associate Editor/Editorial Board Member:**
 <ol>
 <li>Associate Editor, IEEE Transactions on Evolutionary Computation, Jan. 2025-present</li>	
 <li>Editorial Board Member, Intelligent Marine Technology and Systems, Sep. 2024-present</li>	
@@ -21,7 +21,7 @@ ul li { padding: 5px 0px; }
 <li>Associate Editor, Expert Systems with Applications, Sep. 2022-present</li>
 </ol>
 
-**Internatioanl Conference Organising Committees**
+**Internatioanl Conference Organising Committees:**
 <ol>
 <li>Local Chair of Australasian Joint Conference on Artificial Intelligence (AJCAI 2026)</li>
 <li>Local Chair of Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)</li>
@@ -29,7 +29,7 @@ ul li { padding: 5px 0px; }
 
 
 
-**Organised Tutorials**
+**Organised Tutorials:**
 <ol>
 <li> Organsier/Speaker, Genetic Programming and Machine Learning for Scheduling, IEEE Congress on Evolutionary Computation (CEC2023, CEC2024) </li>	
 <li> Organsier/Speaker, Genetic Programming and Machine Learning for Job Shop Scheduling, IEEE Symposium Series on Computational Intelligence (<a href="https://ieeessci2022.org/">SSCI2022)</a> </li>	
@@ -37,7 +37,7 @@ ul li { padding: 5px 0px; }
 <li> Organsier/Speaker, <a href="https://attend.ieee.org/ssci-2021/tutorial-genetic-programming-for-job-shop-scheduling/"> Genetic Programming for Job Shop Scheduling</a>, IEEE Symposium Series on Computational Intelligence (SSCI2021) </li> 
 </ol>
 
-**Organised Special Sessions/Speicail Issues/Workshops**: 
+**Organised Special Sessions/Speicail Issues/Workshops:**
 <ol>
 <li>Guest Editor: Special Issue on Evolutionary Machine Learning in Business Optimisation, in Memetic Computing, 2025-</li>	
 <li> Local Organising Chair: Centre of Data Science and AI (CDSAI) Workshop on Evolutionary Machine Learning and Optimisation, Wellington, New Zealand, 11-12 July 2024 </li>
@@ -49,7 +49,7 @@ ul li { padding: 5px 0px; }
 <li> Chair, <a href=""> Evolutionary Machine Learning for Combinatorial Optimisation</a>, EAI International Conference on Bio-inspired Information and Communications Technologies (<a href="https://bionetics.eai-conferences.org/2022/">BICT2022</a>) </li>
 </ol>
 
-**Professional Leadership**
+**Professional Leadership:**
 <ol>
 <li> <b> Project Coordinator: </b> Data Science for Aquaculture, VUW, 2022-Present </li>
 <li> <b> Secretary: </b> IEEE New Zealand Central Section, 2023 - Present </li>
@@ -63,7 +63,7 @@ ul li { padding: 5px 0px; }
 <li> <b> Chair: </b> New Zealand Chinese Students Association (Wellington), 2018 - 2021 </li>
 </ol>
 
-**Peer Reviewer for International Journals**
+**Peer Reviewer for International Journals:**
 <ol>
 <li> IEEE Transactions on Evolutionary Computation (Top Q1, ARC/ERA Tier A*) </li>
 <li> IEEE Transactions on Cybernetics (Top Q1, ARC/ERA Tier A) </li>
@@ -101,7 +101,7 @@ ul li { padding: 5px 0px; }
 </ol>
 
 
-**Program Committee Member for International Conferences**
+**Program Committee Member for International Conferences:**
 <ol>
 <li> The Genetic and Evolutionary Computation Conference (GECCO), 2021, 2022, 2023 </li>
 <li> IEEE Congress on Evolutionary Computation (CEC), 2020, 2021, 2022, 2023 </li>
@@ -117,7 +117,7 @@ ul li { padding: 5px 0px; }
 <li> The International Symposium on Automation, Information and Computing (ISAIC), 2021 </li>
 </ol>
 
-**Professional Membership**
+**Professional Membership:**
 <ol>
 <li> ACM Special Interest Group on Genetic and Evolutionary Computation (SIGEVO) Member, 2019 – Present </li>
 <li> IEEE Women in Engineering Member, 2020 - Present </li>
