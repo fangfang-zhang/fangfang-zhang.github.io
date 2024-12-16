@@ -37,8 +37,9 @@ ul li { padding: 5px 0px; }
 <li> Organsier/Speaker, <a href="https://attend.ieee.org/ssci-2021/tutorial-genetic-programming-for-job-shop-scheduling/"> Genetic Programming for Job Shop Scheduling</a>, IEEE Symposium Series on Computational Intelligence (SSCI2021) </li> 
 </ol>
 
-**Organised Special Sessions/Workshops** 
+**Organised Special Sessions/Speicail Issues/Workshops: 
 <ol>
+<li>Guest Editor: Special Issue on Evolutionary Machine Learning in Business Optimisation, in Memetic Computing, 2025-</li>	
 <li> Local Organising Chair: Centre of Data Science and AI (CDSAI) Workshop on Evolutionary Machine Learning and Optimisation, Wellington, New Zealand, 11-12 July 2024 </li>
 <li> Chair, <a href=""> Evolutionary Computation and Computational Intelligence for Scheduling and Combinatorial Optimisation</a>, IEEE Congress on Evolutionary Computation (CEC2024) </li>	
 <li> Chair, <a href="https://meiyi1986.github.io/cec2022-esco/"> Evolutionary Scheduling and Combinatorial Optimisation</a>, IEEE Congress on Evolutionary Computation (CEC2022, CEC2023) </li>		
