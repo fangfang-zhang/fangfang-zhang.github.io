@@ -62,7 +62,7 @@ author_profile: true
 <li> Elliott Ramoo, “Genetic programming for Job Shop Scheduling”, Victoria University of Wellington, Nov. 2022 – Feb. 2023, supervised by Dr Fangfang Zhang and Dr Yi Mei</li><li> Yuye Zhang, “Machine Learning for King Salmon Health Prediction”, Victoria University of Wellington, Nov. 2022 – Feb. 2023, supervised by Dr Fangfang Zhang, Prof Bing Xue and Pro Mengjie Zhang</li> 
 <li> Gaofeng Shi, “Genetic programming for Job Shop Scheduling”, Victoria University of Wellington, Nov. 2021 – Feb. 2022, supervised by Dr Fangfang Zhang and Dr Yi Mei</li> </ol>
 
-**Summer Scholarship Projects**
+**Research Assistant**
 <ol>
 <li> William Huang,	“Genetic Programming Method for the Dynamic Electric Dial-a-ride Problem (DARP) ”, Victoria University of Wellington, Nov. 2024 – Feb. 2025, supervised by Dr Fangfang Zhang and Dr Yi Mei</li>
 </ol>
