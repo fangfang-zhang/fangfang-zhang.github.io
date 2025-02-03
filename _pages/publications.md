@@ -10,7 +10,8 @@ author_profile: true
 978-981-16-4859-5 (XXXIII+338 pages, <span style="color: #FF0000">the first book on hyper-heuristic for production scheduling</span>) <a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/master/files/2021-Zhang2021_Book_GeneticProgrammingForProduction.pdf">[pdf]</a>
 
 **Refereed Journal Articles**
-<ol>		
+<ol>
+<li>Ke Chen, Wenjie Wang, <b>Fangfang Zhang</b>, Jing Liang, and Kunjie Yu. "<a target="_blank" href="">Correlation-Guided Particle Swarm Optimization Approach for Feature Selection in Fault Diagnosis</a>". <i>IEEE/CAA Journal of Automatica Sinica</i>, 2025. DOI: XXX <a target="_blank" href="">[pdf]</a></li>		
 <li><b>Fangfang Zhang</b>, Mazhar Ansari Ardeh, Yi Mei, and Mengjie Zhang. "<a target="_blank" href="">Genetic Programming with Tabu List for Dynamic Flexible Job Shop Scheduling</a>". <i>Evolutionary Computation</i>, 2025. DOI: XXX <a target="_blank" href="">[pdf]</a></li>	
 <li>Zhixing Huang, Yi Mei, <b>Fangfang Zhang*</b>, Mengjie Zhang, and Wolfgang Banzhaf. "<a target="_blank" href="">Multi-Representation Genetic Programming: A Case Study on Tree-based and Linear Representations</a>". <i>Evolutionary Computation</i>, 2025. DOI: XXX <a target="_blank" href="">[pdf]</a></li>
 <li>Zhixing Huang, Yi Mei, <b>Fangfang Zhang*</b>, Mengjie Zhang, and Wolfgang Banzhaf. "<a target="_blank" href="https://ieeexplore.ieee.org/document/10819486">Fitness Landscape Optimization Makes Stochastic Symbolic Search By Genetic Programming Easier</a>". <i>IEEE Transactions on Evolutionary Computation</i>, 2025. DOI: 10.1109/TEVC.2024.3525006 <a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/main/files/2025-Fitness_Landscape_Optimization_Makes_Stochastic_Symbolic_Search_By_GP_Easier.pdf">[pdf]</a></li>	
