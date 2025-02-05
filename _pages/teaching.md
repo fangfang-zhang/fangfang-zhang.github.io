@@ -27,8 +27,8 @@ author_profile: true
 **Taught Courses**
 <ol>
 <li> AIML333: Acting, Planning, and Scheduling</li>	
-<li> AIML426: Evolutionary Computation and Learning)</li>
-<li> COMP307/AIML420: Introduction to Artificial Intelligence)</li>
+<li> AIML426: Evolutionary Computation and Learning</li>
+<li> COMP307/AIML420: Introduction to Artificial Intelligence</li>
 </ol>
  
 
