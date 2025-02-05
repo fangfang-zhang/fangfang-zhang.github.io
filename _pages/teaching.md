@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+<!-- 
 **Teaching and Work Experience**
 <ol>
 <li> <b>Lecturer</b> for AIML426 (Evolutionary Computation and Learning), Jul.-Oct. 2024, School of Engineering and Computer Science, VUW </li>
@@ -20,6 +21,16 @@ author_profile: true
 <li> <b>Course Coordinator</b> for “Theory and Method of Social Survey”, Sep. 2016-Jan. 2017, Adult Education of Shenzhen University, China </li>
 <li> <b>Course Coordinator</b> for “Modern Marketing”, Sep. 2015-Jan. 2016, Adult Education of Shenzhen University, China </li>
 </ol>
+ -->
+
+
+**Taught Courses**
+<ol>
+<li> AIML333: Acting, Planning, and Scheduling</li>	
+<li> AIML426: Evolutionary Computation and Learning)</li>
+<li> COMP307/AIML420: Introduction to Artificial Intelligence)</li>
+</ol>
+ 
 
 **PhD Students**
 <ol>	
