@@ -52,6 +52,7 @@ author_profile: true
 
 **Master Students**
 <ol>
+<li> Shanshi Mao, "Genetic Programming and Machine Learning for Job Shop Scheduling", Victoria University of Wellington, Nov. 2024 – Jun. 2025, supervised by Dr Fangfang Zhang and Dr Yi Mei</li> 
 <li> Zek Brown, "Feeding Efficiency for King Salmon", Victoria University of Wellington, Nov. 2024 – Jun. 2025, supervised by Dr Fangfang Zhang, Prof Bing Xue and Prof Mengjie Zhang</li> 
 <li> Hue Luong, “Machine Learning for King Salmon Health Prediction”, Victoria University of Wellington, Nov. 2023 - Jun. 2024, Master of Artifical Intelligence, supervised by Dr Fangfang Zhang and Prof Bing Xue</li>
 <li> Luyao Zhu, “Genetic programming for Job Shop Scheduling”, Zhengzhou University, Dec. 2021 – Jun. 2024, Master of Electric Engineering, supervised by Dr Fangfang Zhang and Dr Ke Chen</li> 	
