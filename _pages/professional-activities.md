@@ -21,7 +21,7 @@ ul li { padding: 5px 0px; }
 <li>Associate Editor, Expert Systems with Applications, Sep. 2022-present</li>
 </ol>
 
-**Internatioanl Conference Organising Committees:**
+**International Conference Organising Committees:**
 <ol>
 <li>Local Chair of Australasian Joint Conference on Artificial Intelligence (AJCAI 2026)</li>
 <li>Local Chair of Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)</li>
