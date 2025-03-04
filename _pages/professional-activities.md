@@ -15,6 +15,7 @@ ul li { padding: 5px 0px; }
 
 **Associate Editor/Editorial Board Member:**
 <ol>
+<li>Editorial Board Member, Genetic Programming and Evolvable Machines, Jan. 2025-present</li>	
 <li>Associate Editor, IEEE Transactions on Evolutionary Computation, Jan. 2025-present</li>	
 <li>Editorial Board Member, Intelligent Marine Technology and Systems, Sep. 2024-present</li>	
 <li>Associate Editor, Swarm and Evolutionary Computation, Jan. 2024-present</li>	
