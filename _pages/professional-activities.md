@@ -15,17 +15,17 @@ ul li { padding: 5px 0px; }
 
 **Associate Editor/Editorial Board Member:**
 <ol>
-<li>Editorial Board Member, Genetic Programming and Evolvable Machines, Jan. 2025-present</li>	
-<li>Associate Editor, IEEE Transactions on Evolutionary Computation, Jan. 2025-present</li>	
-<li>Editorial Board Member, Intelligent Marine Technology and Systems, Sep. 2024-present</li>	
-<li>Associate Editor, Swarm and Evolutionary Computation, Jan. 2024-present</li>	
-<li>Associate Editor, Expert Systems with Applications, Sep. 2022-present</li>
+<li><b>Editorial Board Member</b>, Genetic Programming and Evolvable Machines, Jan. 2025-present</li>	
+<li><b>Associate Editor</b>, IEEE Transactions on Evolutionary Computation, Jan. 2025-present</li>	
+<li><b>Editorial Board Member</b>, Intelligent Marine Technology and Systems, Sep. 2024-present</li>	
+<li><b>Associate Editor</b>, Swarm and Evolutionary Computation, Jan. 2024-present</li>	
+<li><b>Associate Editor</b>, Expert Systems with Applications, Sep. 2022-present</li>
 </ol>
 
 **International Conference Organising Committees:**
 <ol>
-<li>Local Chair of Australasian Joint Conference on Artificial Intelligence (AJCAI 2026)</li>
-<li>Local Chair of Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)</li>
+<li><b>Local Chair</b> of Australasian Joint Conference on Artificial Intelligence (AJCAI 2026)</li>
+<li><b>Local Chair</b> of Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)</li>
 </ol>
 
 
