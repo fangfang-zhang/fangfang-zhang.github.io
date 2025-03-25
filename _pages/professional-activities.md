@@ -76,6 +76,7 @@ ul li { padding: 5px 0px; }
 <li> Journal of Manufacturing Systems (Top Q1) </li>
 <li> Information Sciences (Top Q1) </li>
 <li> Robotics and Computer Integrated Manufacturing (Q1, ARC/ERA Tier A) </li>
+<li> IEEE Transactions on Automation Science and Engineering (Q1) </li>
 <li> International Journal of Intelligent Systems (Q1) </li>
 <li> International Journal of Production Research (Q1) </li>
 <li> Journal of Industrial Information Integration (Q1) </li>
