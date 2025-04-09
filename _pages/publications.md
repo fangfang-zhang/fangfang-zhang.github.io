@@ -11,6 +11,7 @@ author_profile: true
 
 **Refereed Journal Articles**
 <ol>
+<li>Luyao Zhu, <b>Fangfang Zhang</b>, Xiaodong Zhu, Ke Chen, and Mengjie Zhang. "<a target="_blank" href="">Phenotype and Genotype Based Sample Aware Surrogate-Assisted Genetic Programming in Dynamic Flexible Job Shop Scheduling</a>". <i>IEEE Transactions on Evolutionary Computation</i>, 2025. DOI: <a target="_blank" href="">[pdf]</a></li>		
 <li>Ke Chen, Wenjie Wang, <b>Fangfang Zhang</b>, Jing Liang, and Kunjie Yu. "<a target="_blank" href="https://www.ieee-jas.net/article/doi/10.1109/JAS.2025.125306?pageType=en">Correlation-Guided Particle Swarm Optimization Approach for Feature Selection in Fault Diagnosis</a>". <i>IEEE/CAA Journal of Automatica Sinica</i>, 2025. DOI: 10.1109/JAS.2025.125306 <a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/main/files/2025-CGPSO%20Approach%20for%20FS%20in%20Fault%20Diagnosis.pdf">[pdf]</a></li>		
 <li><b>Fangfang Zhang</b>, Mazhar Ansari Ardeh, Yi Mei, and Mengjie Zhang. "<a target="_blank" href="">Genetic Programming with Tabu List for Dynamic Flexible Job Shop Scheduling</a>". <i>Evolutionary Computation</i>, 2025. DOI: XXX <a target="_blank" href="">[pdf]</a></li>	
 <li>Zhixing Huang, Yi Mei, <b>Fangfang Zhang*</b>, Mengjie Zhang, and Wolfgang Banzhaf. "<a target="_blank" href="">Multi-Representation Genetic Programming: A Case Study on Tree-based and Linear Representations</a>". <i>Evolutionary Computation</i>, 2025. DOI: XXX <a target="_blank" href="">[pdf]</a></li>
