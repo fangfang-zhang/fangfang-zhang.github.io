@@ -18,6 +18,7 @@ Victoria University of Wellington
 News
 ======
 <ol>
+<li><span style="color: #FF0000">2025 SIGEVO Dissertation Award</span>, our PhD student, Meng Xu won the 2025 SIGEVO Dissertation Award, Honorable Mention: “Advancing Genetic Programming for Learning Scheduling Heuristics” ($1,000 USD)</li>
 <li><span style="color: #FF0000">Presentation Award</span>, our PhD student, Yuye Zhang won the <a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/main/files/Yuye_2024_Symposium.pdf">Best Presentation Runner-up Award</a> at IEEE Postgradute Symposium 2024 ($200 NZD)</li> 
 <li><span style="color: #FF0000">IEEE CIS Outstanding PhD Dissertation Award, 2025</span>, “<a target="_blank" href="">Genetic Programming Hyper-heuristics for Dynamic Flexible Job Shop Scheduling</a>” ($1,000 USD)</li> 
 <li><span style="color: #FF0000">Best Poster Runner-up Award</span>, our poster “<a target="_blank" href="https://link.springer.com/chapter/10.1007/978-981-99-8391-9_32">A Semantic Genetic Programming Approach to Evolving Heuristics for Multi-objective Dynamic Scheduling</a>” won <a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/master/files/BestPosterRunnerupAJCAI.pdf">the Best Poster Award Runner-up</a> of <i> Australasian Joint Conference on Artificial Intelligence (AJCAI) </i> 2023.</li>
