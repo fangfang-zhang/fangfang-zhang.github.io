@@ -9,18 +9,16 @@ redirect_from:
 ---
 
 Lecturer in Artificial Intelligence (<span style="color: #0000a0">fangfang.zhang@vuw.ac.nz</span>)\\
-<a target="_blank" href="https://www.wgtn.ac.nz/cdsai">Centre for Data Science and Artificial Intelligence (CDSAI)</a> 
-<a target="_blank" href="https://www.wgtn.ac.nz/engineering/school-of-engineering-and-computer-science">School of Engineering and Computer Science (SECS)</a> 
+<a target="_blank" href="https://www.wgtn.ac.nz/cdsai">Centre for Data Science and Artificial Intelligence (CDSAI)</a>\\
+<a target="_blank" href="https://www.wgtn.ac.nz/engineering/school-of-engineering-and-computer-science">School of Engineering and Computer Science (SECS)</a>\\ 
 <a target="_blank" href="https://www.wgtn.ac.nz/">Victoria University of Wellington (VUW)</a> 
 
-For doing research, "Think big, start small, move fast"
+For doing research, "Think big, start small, move fast"!
 
-<span style="color: #FF0000">PhD Vacancy</span>: 
-
-PhD Sholarships: 
+<span style="color: #FF0000">PhD Sholarships</span>: 
 <ul class="square-bullets">
-  <li>Students (GPA of A- or above) with publications can apply for the following scholarships: PhD Admission and Scholarships Applications; Victoria PhD scholarship (for PhD candidates already enrolled at, or with an offer of study from VUW). (Closing dates each year: 1 March, 1 November, 1 July, for both domestic and international students)</li>
-  <li>VUW and China Scholarship Council PhD Scholarships: (For Chinese Students Only). Successful students will get 48 months of stipend from China Scholarship Council and VUW will cover the tuition fees up to 48 months. An overview and process can be seen from Program Overview. (Closing date: 1 Feb, 1 November Every year)</li>
+  <li><span style="color: #0000a0">VUW PhD Scholarships</span>: Students (GPA of A- or above) with publications can apply (Closing dates each year: 1 March, 1 November, 1 July, for both domestic and international students)</li>
+  <li><span style="color: #0000a0">VUW and China Scholarship Council PhD Scholarships</span>: (For Chinese Students Only). Successful students will get 48 months of stipend from China Scholarship Council and VUW will cover the tuition fees up to 48 months. (Closing date: 1 Feb, 1 November Every year)</li>
 </ul>
 
 News
