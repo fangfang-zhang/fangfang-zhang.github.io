@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Lecturer in Artificial Intelligence (<span style="color: #0000a0">fangfang.zhang@ecs.vuw.ac.nz</span>)\\
-Evolutionary Computation Research Group ([ECRG](https://ecs.wgtn.ac.nz/Groups/ECRG/WebHome))\\
-School of Engineering and Computer Science ([SECS](https://www.wgtn.ac.nz/engineering/school-of-engineering-and-computer-science))\\
-Victoria University of Wellington
+Lecturer in Artificial Intelligence (<span style="color: #0000a0">fangfang.zhang@vuw.ac.nz</span>)\\
+([Centre for Data Science and Artificial Intelligence (CDSAI)] (https://www.wgtn.ac.nz/cdsai))\\
+([School of Engineering and Computer Science (SECS)] (https://www.wgtn.ac.nz/engineering/school-of-engineering-and-computer-science))\\
+([Victoria University of Wellington (VUW)] (https://www.wgtn.ac.nz/))
+
+For doing research, "Think big, start small, move fast"
 
 <span style="color: #FF0000">PhD Vacancy</span>: I am looking for PhD/MSc/Honours/Summer Research students. If you are interested, please do not hesitate to contact me.
 
