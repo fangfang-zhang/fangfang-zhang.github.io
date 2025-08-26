@@ -19,7 +19,7 @@ PhD Sholarships
 ====== 
 <ul class="square-bullets">
   <li><span style="color: #0000a0"><a href="https://www.wgtn.ac.nz/fgr/apply/funding" target="_blank">VUW PhD Scholarships</a></span>: Students (GPA of A- or above) with publications can apply (Closing dates each year: 1 March, 1 November, 1 July, for both domestic and international students)</li>
-  <li><span style="color: #0000a0"><a href="https://www.wgtn.ac.nz/fgr/apply/funding" target="_blank">CSC-VUW Joint PhD Scholarships</a></span>: (For Chinese Students Only). Successful students will get 48 months of stipend from China Scholarship Council and VUW will cover the tuition fees up to 48 months. (Closing date: 1 Feb, 1 November Every year)</li>
+  <li><span style="color: #0000a0"><a href="https://www.wgtn.ac.nz/ci/scholarships-and-competitions/nz-china-scholarships" target="_blank">CSC-VUW Joint PhD Scholarships</a></span>: (For Chinese Students Only). Successful students will get 48 months of stipend from China Scholarship Council and VUW will cover the tuition fees up to 48 months. (Closing date: 1 Feb, 1 November Every year)</li>
 </ul>
 
 News
