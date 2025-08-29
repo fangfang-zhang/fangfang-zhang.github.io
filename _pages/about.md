@@ -13,9 +13,9 @@ Lecturer in Artificial Intelligence (<span style="color: #0000a0">fangfang.zhang
 <a target="_blank" href="https://www.wgtn.ac.nz/engineering/school-of-engineering-and-computer-science">School of Engineering and Computer Science (SECS)</a>\\
 <a target="_blank" href="https://www.wgtn.ac.nz/">Victoria University of Wellington (VUW)</a> 
 
-For doing research, "Think big, start small, move fast"!
+For doing research, "Think Big, Start Small, Move Fast"!
 
-PhD Sholarships
+PhD Scholarships
 ====== 
 <ul class="square-bullets">
   <li><span style="color: #0000a0"><a href="https://www.wgtn.ac.nz/fgr/apply/funding" target="_blank">VUW PhD Scholarships</a></span>: Students (GPA of A- or above) with publications can apply (Closing dates each year: 1 March, 1 November, 1 July, for both domestic and international students)</li>
