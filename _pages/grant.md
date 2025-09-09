@@ -5,7 +5,7 @@ permalink: /grant/
 author_profile: true
 ---
 <ol>
-<li>2025-2026: Hyper-heuristic Learning for 3D Bin Packing. SECS School Strategic Research Grants, Victoria University of Wellington, $3,991.68 NZD (Sole PI)</li>	
+<li>2025-2026: Hyper-heuristic Learning for 3D Bin Packing. SECS School Strategic Research Grant, Victoria University of Wellington, $3,991.68 NZD (Sole PI)</li>	
 <li>2025-2026: Evolutionary Machine Learning for Fish Sex Classification. Faculty Research Establishment Grant, Victoria University of Wellington, $10,000.00 NZD (Sole PI)</li>
 <li>2025-2026: Genetic Programming for Port Scheduling. Overseas Collaboration Funding in Ningbo Digital Port Technologies Key Lab at University of Nottingham Ningbo China. Grant: $50,000 RMB (Sole PI)</li>
 <li>2024-2026: Machine Learning for Emergency Medical Dispatch: A Data Driven Approach. Smart Ideas, MBIE, $1,000,000 NZD (Key Researcher, with Yi Mei as the PI)</li>
