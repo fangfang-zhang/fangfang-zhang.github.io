@@ -6,6 +6,7 @@ author_profile: true
 ul li { padding: 5px 0px; }
 ---
 <ol>
+<li> Outstanding Member Recruitment Performance 2025 in the New Zealand Central Section, recognised by IEEE Member recruitment Recovery Committee</li>	
 <li> IEEE CIS Outstanding PhD Dissertation Award, 2025 (Prize: $1000 USD)</li>	
 <li> Fangfang Zhang was invited to join an interview of “Meet a CIS Member” by IEEE Computational Intelligence Society. <a target="_blank" href="https://cis.ieee.org/search?007d98cdc1f403cc32d25de2d21541bf=1&q=meet+a+CIS+Fangfang+Zhang">here</a></li>	
 <li> The work from Fangfang Zhang, et.al of “Health Prediction for King Salmon via Evolutionary Machine Learning with Genetic Programming” were accepted by Journal of the Royal Society of New Zealand. This work has been recognised and posted by Australian Society for Fish Biology, i.e., a professional organisation of fish and fisheries researchers, via linkedin <a target="_blank" href="https://www.linkedin.com/feed/update/urn:li:activity:7179001800547602434/">here</a></li>	
