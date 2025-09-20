@@ -10,6 +10,7 @@ ul li { padding: 5px 0px; }
 <ol>
 <li> <b> Vice Chair</b>, <a href="https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/"> IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation</a>, Dec 2022-present </li>
 <li> <b> Board member</b>, The Artificial Intelligence Researchers Association (AIRA), 2021-present </li>
+<li> <b> Reviewer Community Board member</b>, as Trusted Reviewer, Springer Nature</li>
 </ol>
 
 
