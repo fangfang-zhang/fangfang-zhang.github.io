@@ -6,6 +6,7 @@ author_profile: true
 ul li { padding: 5px 0px; }
 ---
 <ol>
+<li>Top 2% Scientists 2025, recognised by ELSEVIER and Stanford University's Top 2% Scientists list</li>	
 <li> Outstanding Member Recruitment Performance 2025 in the New Zealand Central Section, recognised by IEEE Member recruitment Recovery Committee</li>	
 <li> IEEE CIS Outstanding PhD Dissertation Award, 2025 (Prize: $1000 USD)</li>	
 <li> Fangfang Zhang was invited to join an interview of “Meet a CIS Member” by IEEE Computational Intelligence Society. <a target="_blank" href="https://cis.ieee.org/search?007d98cdc1f403cc32d25de2d21541bf=1&q=meet+a+CIS+Fangfang+Zhang">here</a></li>	
