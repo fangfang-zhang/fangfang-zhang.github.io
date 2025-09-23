@@ -28,7 +28,8 @@ author_profile: true
 <ol>
 <li> AIML333: Acting, Planning, and Scheduling</li>	
 <li> AIML426: Evolutionary Computation and Learning</li>
-<li> COMP307/AIML420: Introduction to Artificial Intelligence</li>
+<li> AIML320/AIML420: Artificial Intelligence</li>
+<li> COMP307: Introduction to Artificial Intelligence</li>
 </ol>
  
 
