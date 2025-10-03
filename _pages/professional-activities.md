@@ -25,6 +25,7 @@ ul li { padding: 5px 0px; }
 
 **International Conference Organising Committees:**
 <ol>
+<li><b>Conference committee member</b> of Artificial Intelligence Researchers Association (AIRA) Annual Conference</li>
 <li><b>Local Chair</b> of Australasian Joint Conference on Artificial Intelligence (AJCAI 2026)</li>
 <li><b>Local Chair</b> of Image and Vision Computing New Zealand (IVCNZ 2025)</li>
 <li><b>Local Chair</b> of Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)</li>
