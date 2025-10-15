@@ -35,8 +35,8 @@ author_profile: true
 
 **PhD Students**
 <ol>	
-<li> Luyao Zhu, “Scheduling Heuristics Learning for Dynamic Job Shop Scheduling”, Victoria University of Wellington, Sep. 2024 – present (PhD student, supervised by Dr Fangfang Zhang, Prof Yi Mei, and Prof Mengjie Zhang) </li>		
-<li> Zhuoyin Qiao, “Machine Learning for Job Shop Scheduling”, Victoria University of Wellington, Sep. 2024 – present (PhD student, supervised by Dr Fangfang Zhang, Prof Yi Mei, and Prof Mengjie Zhang) </li>	
+<li> Luyao Zhu, “Improved Genetic Programming for Dynamic Flexible Job Shop Scheduling under Batch Arrivals”, Victoria University of Wellington, Sep. 2024 – present (PhD student, supervised by Dr Fangfang Zhang, Prof Yi Mei, and Prof Mengjie Zhang) </li>		
+<li> Zhuoyin Qiao, “Enhance Genetic Programming for Energy-efficient Dynamic Flexible Job Shop Scheduling”, Victoria University of Wellington, Sep. 2024 – present (PhD student, supervised by Dr Fangfang Zhang, Prof Yi Mei, and Prof Mengjie Zhang) </li>	
 <li> Yuye Zhang, “Multimodal Learning”, Victoria University of Wellington, Feb. 2024 – present (PhD student, supervised by Dr Fangfang Zhang, Prof Bing Xue, and Prof Mengjie Zhang) </li>	
 <li> Shaojin Geng, “Dynamic Optimisation Problem”, Tongji University, Oct. 2023 – Present (Visiting PhD student, supervised with Dr Yi Mei, Dr Fangfang Zhang, and Prof Mengjie Zhang) </li>	
 <li> Ruiqi Chen, “Job Shop Scheduling, Victoria University of Wellington, Sep. 2023 – Present (PhD student, supervised by Dr Yi Mei, Dr Fangfang Zhang, and Prof Mengjie Zhang) </li>	
@@ -53,6 +53,7 @@ author_profile: true
 
 **Master Students**
 <ol>
+<li> Maria DaRocha, "Artificial Intelligence for Job Shop Scheduling", Victoria University of Wellington, Nov. 2025 – now, Master of Artifical Intelligence, supervised by Dr Fangfang Zhang</li> 
 <li> Shanshi Mao, "Genetic Programming and Machine Learning for Job Shop Scheduling", Victoria University of Wellington, Nov. 2024 – now, Master of Artifical Intelligence, supervised by Dr Fangfang Zhang and Dr Yi Mei</li> 
 <li> Zek Brown, "Feeding Efficiency for King Salmon", Victoria University of Wellington, Nov. 2024 – Jun. 2025, Master of Artifical Intelligence, supervised by Dr Fangfang Zhang, Prof Bing Xue and Prof Mengjie Zhang</li> 
 <li> Hue Luong, “Machine Learning for King Salmon Health Prediction”, Victoria University of Wellington, Nov. 2023 - Jun. 2024, Master of Artifical Intelligence, supervised by Dr Fangfang Zhang and Prof Bing Xue</li>
