@@ -6,7 +6,8 @@ author_profile: true
 ul li { padding: 5px 0px; }
 ---
 <ol>
-<li> Victoria University of Wellington "Early Career Research Excellence Award", 2025</li>	
+<li> Academic New Zealand & Overseas Conference Leave, 2026, $4,632 NZD</li>		
+<li> "Early Career Research Excellence Award", Victoria University of Wellington, 2025</li>	
 <li> Top 2% Scientists 2025, Stanford/Elsevier's Top 2% Scientists list</li>	
 <li> Outstanding Member Recruitment Performance 2025 in the New Zealand Central Section, recognised by IEEE Member recruitment Recovery Committee</li>	
 <li> IEEE CIS Outstanding PhD Dissertation Award, 2025 (Prize: $1000 USD)</li>	
