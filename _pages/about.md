@@ -25,6 +25,7 @@ PhD Scholarships
 News
 ======
 <ol>
+<li>Our PhD student, Meng Xu, was awarded <span style="color: #FF0000">Excellent Young Scientists Fund Project (Overseas)</span>, </li>
 <li><span style="color: #FF0000">2025 SIGEVO Dissertation Award</span>, our PhD student, Meng Xu won the 2025 SIGEVO Dissertation Award, Honorable Mention: “Advancing Genetic Programming for Learning Scheduling Heuristics” ($1,000 USD)</li>
 <li><span style="color: #FF0000">Presentation Award</span>, our PhD student, Yuye Zhang won the <a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/main/files/Yuye_2024_Symposium.pdf">Best Presentation Runner-up Award</a> at IEEE Postgradute Symposium 2024 ($200 NZD)</li> 
 <li><span style="color: #FF0000">IEEE CIS Outstanding PhD Dissertation Award, 2025</span>, “<a target="_blank" href="">Genetic Programming Hyper-heuristics for Dynamic Flexible Job Shop Scheduling</a>” ($1,000 USD)</li> 
