@@ -35,7 +35,7 @@ ul li { padding: 5px 0px; }
 
 **Organised Tutorials:**
 <ol>
-<li> Organsier/Speaker, Genetic Programming and Machine Learning for Scheduling, IEEE Congress on Evolutionary Computation (CEC2023, CEC2024) </li>	
+<li> Organsier/Speaker, Genetic Programming and Machine Learning for Scheduling, IEEE Congress on Evolutionary Computation (CEC2023, CEC2024, CEC2025, <a href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/main/_pages/CEC2026tutorial.md">SSCI2026) </li>	
 <li> Organsier/Speaker, Genetic Programming and Machine Learning for Job Shop Scheduling, IEEE Symposium Series on Computational Intelligence (<a href="https://ieeessci2022.org/">SSCI2022)</a> </li>	
 <li> Organsier/Speaker, <a href="https://fangfang-zhang.github.io/CEC2022Tutorial/"> Evolutionary Machine Learning for Combinatorial Optimisation</a>, IEEE World Congress on Computational Intelligence (WCCI 2022)/IEEE Congress on Evolutionary Computation (CEC2022) </li>
 <li> Organsier/Speaker, <a href="https://attend.ieee.org/ssci-2021/tutorial-genetic-programming-for-job-shop-scheduling/"> Genetic Programming for Job Shop Scheduling</a>, IEEE Symposium Series on Computational Intelligence (SSCI2021) </li> 
