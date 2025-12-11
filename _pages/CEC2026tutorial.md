@@ -29,66 +29,55 @@ This tutorial contains seven parts:
 
    1) Scheduling and its applications\\
    2) General introduction of job shop scheduling\\
-   3) Static vs dynamic job shop scheduling
-   4) Flexible vs non-flexible job shop scheduling
+   3) Static vs dynamic job shop scheduling\\
+   4) Flexible vs non-flexible job shop scheduling\\
    5) The similarities and differences between different types of job shop scheduling
 
 2. Evolutionary machine learning and genetic programming
 
-   1) Hyper-heuristic learning
-   2) Representation of genetic programming
-   3) Evaluation of genetic programming
-   4) Parent selection in genetic programming
+   1) Hyper-heuristic learning\\
+   2) Representation of genetic programming\\
+   3) Evaluation of genetic programming\\
+   4) Parent selection in genetic programming\\
    5) Genetic operators (i.e., crossover, mutation, and reproduction) of genetic programming
 
 3. Genetic programming for job shop scheduling
 
-   1) Scheduling heuristics for different types of job shop scheduling
-   2) Genetic programming to learn scheduling heuristics
+   1) Scheduling heuristics for different types of job shop scheduling\\
+   2) Genetic programming to learn scheduling heuristics\\
    3) Set up genetic programming as a hyper-heuristic approach for job shop scheduling
 
 4. Surrogate-Assisted genetic programming for job shop scheduling
 
-   1) Surrogate basic concepts
-   2) Phenotype VS Genotype of genetic programming individuals
-   3) K-nearest neighbour based surrogate for genetic programming
-   4) Instance rotation based surrogate in genetic programming 
-   5) Simplified model based surrogate for genetic programming
+   1) Surrogate basic concepts\\
+   2) Phenotype VS Genotype of genetic programming individuals\\
+   3) K-nearest neighbour based surrogate for genetic programming\\
+   4) Instance rotation based surrogate in genetic programming\\ 
+   5) Simplified model based surrogate for genetic programming\\
    6) Collaborative multi-fidelity based surrogates for genetic programming
 
 5. Genetic programming with feature selection for job shop scheduling
 
-   1) Feature selection basic concepts 
-   2) Feature frequency-based feature selection
+   1) Feature selection basic concepts\\ 
+   2) Feature frequency-based feature selection\\
    3) Contribution-based feature selection
 
 6. Multitask genetic programming for job shop scheduling
 
-   1) Multitask basic concepts 
-   2) Multitask genetic programming based generative hyper-heuristics
-   3) Surrogate-Assisted evolutionary multitask genetic programming
-• Task related based multitask genetic programming
-• Multitask multi-objective genetic programming
-
-   3) Multitask learning
-
-      (1) Multitask basic concepts
-
-      (2) Multitask genetic programming based generative hyper-heuristics
-
-      (3) Surrogate-Assisted evolutionary multitask genetic programming
-
-      (4) Adaptive multitask genetic programming
+   1) Multitask basic concepts\\ 
+   2) Multitask genetic programming based generative hyper-heuristics\\
+   3) Surrogate-Assisted evolutionary multitask genetic programming\\
+   4) Task related based multitask genetic programming\\
+   5) Multitask multi-objective genetic programming
 
 5. Future directions
 
-   1) Limitations of existing studies in this field
-
+   1) Limitations of existing studies in this field\\
    2) Potential solutions to handle the limitations
 
 **Organisers**
 
 Dr. [Fangfang Zhang](https://fangfang-zhang.github.io/), Victoria Univeristy of Wellington\\
 Prof. [Mengjie Zhang](https://scholar.google.co.nz/citations?user=hLvGrrkAAAAJ&hl=en), Victoria Univeristy of Wellington\\
-Dr. [Yi Mei](https://scholar.google.co.nz/citations?user=vTC_7_wAAAAJ&hl=en), Victoria Universty of Wellington\\
+Prof. [Yi Mei](https://scholar.google.co.nz/citations?user=vTC_7_wAAAAJ&hl=en), Victoria Universty of Wellington\\
 Dr. [Su Nguyen](https://scholar.google.co.nz/citations?user=PQYVtl4AAAAJ&hl=en), La Trobe University
