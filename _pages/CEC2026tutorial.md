@@ -28,13 +28,9 @@ This tutorial contains seven parts:
 1. Different types of scheduling and their applications 
 
    1) Scheduling and its applications
-
    2) General introduction of job shop scheduling
-
    3) Static vs dynamic job shop scheduling
-
    4) Flexible vs non-flexible job shop scheduling
-
    5) The similarities and differences between different types of job shop scheduling
 
 2. Combinatorial optimisation problems
