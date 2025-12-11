@@ -52,19 +52,19 @@ This tutorial contains seven parts:
    1) Surrogate basic concepts\\
    2) Phenotype VS Genotype of genetic programming individuals\\
    3) K-nearest neighbour based surrogate for genetic programming\\
-   4) Instance rotation based surrogate in genetic programming\\ 
+   4) Instance rotation based surrogate in genetic programming\\
    5) Simplified model based surrogate for genetic programming\\
    6) Collaborative multi-fidelity based surrogates for genetic programming
 
 5. Genetic programming with feature selection for job shop scheduling
 
-   1) Feature selection basic concepts\\ 
+   1) Feature selection basic concepts\\
    2) Feature frequency-based feature selection\\
    3) Contribution-based feature selection
 
 6. Multitask genetic programming for job shop scheduling
 
-   1) Multitask basic concepts\\ 
+   1) Multitask basic concepts\\
    2) Multitask genetic programming based generative hyper-heuristics\\
    3) Surrogate-Assisted evolutionary multitask genetic programming\\
    4) Task related based multitask genetic programming\\
