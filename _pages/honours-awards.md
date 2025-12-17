@@ -6,7 +6,7 @@ author_profile: true
 ul li { padding: 5px 0px; }
 ---
 <ol>
-<li>Based on top 500 NZ researchers provided by <a target="_blank" href="https://www.scival.com/overview/authors/topAuthorsByScholarlyOutput?uri=Country/554">Scholarly Output in New Zealand</a> over the period 2022 to 2026 (RSNZ provided), Fangfang Zhang is ranked in the 23th.</li>	
+<li>Based on top 500 NZ researchers provided by <a target="_blank" href="https://www.scival.com/overview/authors/topAuthorsByScholarlyOutput?uri=Country/554">Scholarly Output in New Zealand</a> over the period 2022 to 2026 (RSNZ provided), Fangfang Zhang is ranked in the 200th.</li>	
 <li> Academic New Zealand & Overseas Conference Leave Award, 2026</li>		
 <li> Early Career Research Excellence Award, Victoria University of Wellington, 2025</li>	
 <li> Top 2% Scientists 2025, Stanford/Elsevier's Top 2% Scientists list</li>	
