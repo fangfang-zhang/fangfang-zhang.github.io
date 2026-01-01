@@ -24,7 +24,10 @@ PhD Scholarships
 
 News
 ======
-<ol>
+<ul style="list-style-type: square;">
+<li>Based on top 500 NZ researchers provided by <a target="_blank" href="https://www.scival.com/overview/authors/topAuthorsByScholarlyOutput?uri=Country/554">Scholarly Output in New Zealand</a> over the period 2022 to 2026 (RSNZ provided), I am honoured to be ranked in the 200th</li> 
+<li><span style="color: #FF0000">Early Career Research Excellence Award</span>, I am honoured to receive a VUW Early Career Research Excellence Award 2025</li>
+<li><span style="color: #FF0000">Top 2% Scientists 2025</span>, I am honoured to be included in Stanford/Elsevier's Top 2% Scientists list</li>  
 <li>Our PhD student, Zhixing Huang, was awarded <span style="color: #FF0000">Excellent Young Scientists Fund Project (Overseas)</span>, China, 2025</li> 
 <li>Our PhD student, Meng Xu, was awarded <span style="color: #FF0000">Excellent Young Scientists Fund Project (Overseas)</span>, China, 2025</li>
 <li><span style="color: #FF0000">2025 SIGEVO Dissertation Award</span>, our PhD student, Meng Xu won the 2025 SIGEVO Dissertation Award, Honorable Mention: “Advancing Genetic Programming for Learning Scheduling Heuristics” ($1,000 USD)</li>
@@ -38,7 +41,7 @@ News
 <li>Our <span style="color: #FF0000">new book </span> published: “<a target="_blank" href="https://link.springer.com/book/10.1007/978-981-16-4859-5">Genetic Programming for Production Scheduling: An Evolutionary Learning Approach</a>”, Springer (XXXIII+338 pages, <span style="color: #0000a0">the first book on hyper-heuristic for production scheduling</span>)</li>
 <li><span style="color: #FF0000">Best Paper Award</span>, our paper “<a target="_blank" href="https://link.springer.com/chapter/10.1007/978-3-031-02056-8_11">An Investigation of Multitask Linear Genetic Programming for Dynamic Job Shop Scheduling</a>” won the Best Paper Award of <i> European Conference on Genetic Programming (EuroGP) </i> 2022.</li>
 <li><span style="color: #FF0000">Best Paper Runner-Up Award</span>, our paper “<a target="_blank" href="https://link.springer.com/chapter/10.1007/978-3-030-03991-2_43">Genetic Programming with Multi-tree Representation for Dynamic Flexible Job Shop Scheduling</a>” won the Best Paper Runner-Up Award of <i> Australasian Joint Conference on Artificial Intelligence (AJCAI) </i> 2018.</li>
-</ol>
+</ul>
 
 
 Research Interests
