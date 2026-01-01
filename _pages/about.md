@@ -25,9 +25,6 @@ PhD Scholarships
 News
 ======
 <ol>
-<li>Based on top 500 NZ researchers provided by <a target="_blank" href="https://www.scival.com/overview/authors/topAuthorsByScholarlyOutput?uri=Country/554">Scholarly Output in New Zealand</a> over the period 2022 to 2026 (RSNZ provided), I am honoured to be ranked in the 200th</li> 
-<li><span style="color: #FF0000">Early Career Research Excellence Award</span>, I am honoured to receive a VUW Early Career Research Excellence Award 2025</li>
-<li><span style="color: #FF0000">Top 2% Scientists 2025</span>, I am honoured to be included in Stanford/Elsevier's Top 2% Scientists list</li> 
 <li>Our PhD student, Zhixing Huang, was awarded <span style="color: #FF0000">Excellent Young Scientists Fund Project (Overseas)</span>, China, 2025</li> 
 <li>Our PhD student, Meng Xu, was awarded <span style="color: #FF0000">Excellent Young Scientists Fund Project (Overseas)</span>, China, 2025</li>
 <li><span style="color: #FF0000">2025 SIGEVO Dissertation Award</span>, our PhD student, Meng Xu won the 2025 SIGEVO Dissertation Award, Honorable Mention: “Advancing Genetic Programming for Learning Scheduling Heuristics” ($1,000 USD)</li>
