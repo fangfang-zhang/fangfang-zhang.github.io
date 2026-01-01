@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Lecturer in Artificial Intelligence (<span style="color: #0000a0">fangfang.zhang@vuw.ac.nz</span>)\\
+Senior Lecturer in Artificial Intelligence (<span style="color: #0000a0">fangfang.zhang@vuw.ac.nz</span>)\\
 <a target="_blank" href="https://www.wgtn.ac.nz/cdsai">Centre for Data Science and Artificial Intelligence (CDSAI)</a>\\
 <a target="_blank" href="https://www.wgtn.ac.nz/engineering/school-of-engineering-and-computer-science">School of Engineering and Computer Science (SECS)</a>\\
 <a target="_blank" href="https://www.wgtn.ac.nz/">Victoria University of Wellington (VUW)</a> 
