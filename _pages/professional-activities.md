@@ -102,6 +102,7 @@ ul li { padding: 5px 0px; }
 <li> Journal of Artificial Intelligence Research (ARC/ERA Tier A) </li>
 <li> Complex & Intelligent Systems (Q2) </li>
 <li> International Journal of Bio-inspired Computation (Q2) </li>
+<li> Journal of Symbolic Computation</li>
 <li> Operational Research </li>
 <li> Journal of Heuristics </li>
 <li> Mathematics </li>
