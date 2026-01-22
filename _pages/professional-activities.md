@@ -10,6 +10,7 @@ ul li { padding: 5px 0px; }
 <ol>
 <li> <b> Vice Chair</b>, <a href="https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/"> IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation</a>, Dec 2022-present </li>
 <li> <b> Board member</b>, The Artificial Intelligence Researchers Association (AIRA), 2021-present </li>
+<li> <b> Subcommittee member</b>, IEEE CIS Women in Computational Intelligence & Collaborative Expansion and Engagement (WCI&CEE)</li>
 <li> <b> Reviewer Community Board member</b>, as Trusted Reviewer, Springer Nature</li>
 </ol>
 
@@ -44,6 +45,7 @@ ul li { padding: 5px 0px; }
 
 **Organised Special Sessions/Speicail Issues/Workshops:**
 <ol>
+<li>Chair, Evolutionary Computation for Scheduling and Combinatorial Optimization, IEEE Congress on Evolutionary Computation (CEC2026) </li>		
 <li>Guest Editor: Special Issue on Evolutionary Machine Learning in Business Optimisation, in Memetic Computing, 2025-</li>	
 <li> Local Organising Chair: Centre for Data Science and AI (CDSAI) Workshop on Evolutionary Machine Learning and Optimisation, Wellington, New Zealand, 11-12 July 2024 </li>
 <li> Chair, <a href=""> Evolutionary Computation and Computational Intelligence for Scheduling and Combinatorial Optimisation</a>, IEEE Congress on Evolutionary Computation (CEC2024) </li>	
@@ -112,14 +114,14 @@ ul li { padding: 5px 0px; }
 
 **Program Committee Member for International Conferences:**
 <ol>
-<li> The Genetic and Evolutionary Computation Conference (GECCO), 2021, 2022, 2023 </li>
-<li> IEEE Congress on Evolutionary Computation (CEC), 2020, 2021, 2022, 2023 </li>
-<li> The International Joint Conference on Neural Networks (IJCNN), 2022 </li>
-<li> The Leading European Event on Bio‑Inspired Computation (Evo*), 2022, 2023 </li>
-<li> The Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2024 </li>
+<li> The Genetic and Evolutionary Computation Conference (GECCO), 2021-now </li>
+<li> IEEE Congress on Evolutionary Computation (CEC), 2020-now </li>
+<li> The International Joint Conference on Neural Networks (IJCNN), 2022-now </li>
+<li> The Leading European Event on Bio‑Inspired Computation (Evo*), 2022-now </li>
+<li> The Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2024-now </li>
 <li> IEEE Conference on Artificial Intelligence (CAI), 2024 </li>
 <li> IEEE Symposium Series on Computational Intelligence (SSCI), 2019, 2020, 2021, 2022 </li>
-<li> The Australasian Joint Conference on Artificial Intelligence (AJCAI), 2018, 2021, 2022, 2023 </li>
+<li> The Australasian Joint Conference on Artificial Intelligence (AJCAI), 2018, 2021-now </li>
 <li> The International Conference on Swarm Intelligence (ICSI), 2022 </li>
 <li> Heterodox Methods for Interpretable and Efficient Artificial Intelligence (HMIEAI2022), 2022 </li>
 <li> The International Conference on Machine Learning and Intelligent Systems (MLIS), 2021 </li>
