@@ -7,8 +7,8 @@ ul li { padding: 5px 0px; }
 ---
 <ol>
 <li>Based on top 500 NZ researchers provided by <a target="_blank" href="https://www.scival.com/overview/authors/topAuthorsByScholarlyOutput?uri=Country/554">Scholarly Output in New Zealand</a> over the period 2022 to 2026 (RSNZ provided), Fangfang Zhang is ranked in the 200th.</li>	
-<li> Academic New Zealand & Overseas Conference Leave Award, 2026</li>		
-<li> Early Career Research Excellence Award, Victoria University of Wellington, 2025</li>	
+<li> Academic New Zealand & Overseas Conference Leave Award, 2026 ($4,632 NZD)</li>		
+<li> Early Career Research Excellence Award, Victoria University of Wellington, 2025 ($10,000 NZD)</li>	
 <li> Top 2% Scientists 2025, Stanford/Elsevier's Top 2% Scientists list</li>	
 <li> Outstanding Member Recruitment Performance 2025 in the New Zealand Central Section, recognised by IEEE Member recruitment Recovery Committee</li>	
 <li> IEEE CIS Outstanding PhD Dissertation Award, 2025 (Prize: $1000 USD)</li>	
