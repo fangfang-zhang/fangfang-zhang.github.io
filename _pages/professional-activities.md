@@ -114,6 +114,7 @@ ul li { padding: 5px 0px; }
 
 **Program Committee Member for International Conferences:**
 <ol>
+<li> The International Conference on Parallel Problem Solving From Nature (PPSN), 2026-now </li>
 <li> The Genetic and Evolutionary Computation Conference (GECCO), 2021-now </li>
 <li> IEEE Congress on Evolutionary Computation (CEC), 2020-now </li>
 <li> The International Joint Conference on Neural Networks (IJCNN), 2022-now </li>
