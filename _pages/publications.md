@@ -102,6 +102,13 @@ author_profile: true
 <li> <b>Fangfang Zhang</b>, Li Li, Jing Liu, Chen Yang. “An Analysis of Factors Affecting the Willingness to Use Credit Card”. in <i>Proceedings of the Chinese Annual Conference of Management</i>, 2015, pp. 7 (In Chinese) <a target="_blank" href="https://cpfd.cnki.com.cn/Article/CPFDTOTAL-ZGUH201511001045.htm">[DOI]</a><a target="_blank" href="https://cpfd.cnki.com.cn/Article/CPFDTOTAL-ZGUH201511001045.htm)[[pdf]](https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/master/files/%5B2015%5D%20%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BD%BF%E7%94%A8%E6%84%8F%E6%84%BF%E5%BD%B1%E5%93%8D%E5%9B%A0%E7%B4%A0%E5%88%86%E6%9E%90_%E5%BC%A0%E8%8A%B3%E8%8A%B3.pdf">[pdf]</a></li>     
 </ol>
 
+
+**Other papers**
+<ol>
+<li>Luyao Zhu, <b>Fangfang Zhang*</b>, Yi Mei, and Mengjie Zhang. "<a target="_blank" href="https://arxiv.org/pdf/2601.15717">Scheduling Heuristic Learning via Genetic Programming for Dynamic Flexible Job Shop Scheduling with Heterogeneous Batch Arrivals</a>". <i>arXiv</i>, 2026. <a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/main/files/XXX.pdf">[pdf]</a></li>
+</ol>
+
+
 **Theses**
 <ol>
 <li> PhD thesis, <b>Fangfang Zhang</b>. "Genetic Programming Hyper-heuristics for Dynamic Flexible Job Shop Scheduling". 2021, 300 pages, DOI: https://doi.org/10.26686/wgtn.16528677 <a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/main/files/2021-thesis_access.pdf">[pdf]</a> 
