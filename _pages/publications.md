@@ -105,7 +105,7 @@ author_profile: true
 
 **Other papers**
 <ol>
-<li>Luyao Zhu, <b>Fangfang Zhang*</b>, Yi Mei, and Mengjie Zhang. "<a target="_blank" href="https://arxiv.org/pdf/2601.15717">Scheduling Heuristic Learning via Genetic Programming for Dynamic Flexible Job Shop Scheduling with Heterogeneous Batch Arrivals</a>". <i>arXiv</i>, 2026. <a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/main/files/XXX.pdf">[pdf]</a></li>
+<li>Luyao Zhu, <b>Fangfang Zhang*</b>, Yi Mei, and Mengjie Zhang. "<a target="_blank" href="https://arxiv.org/pdf/2601.15717">Investigation of the Generalisation Ability of Genetic Programming-evolved Scheduling Rules in Dynamic Flexible Job Shop Scheduling</a>". <i>arXiv</i>, 2026. <a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/main/files/XXX.pdf">[pdf]</a></li>
 </ol>
 
 
