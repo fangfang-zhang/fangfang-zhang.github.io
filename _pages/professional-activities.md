@@ -9,6 +9,7 @@ ul li { padding: 5px 0px; }
 **Professional (Vice-)Chairs:**
 <ol>
 <li> <b> Co-Chair</b>, Intelligent System Application Technical Committee (ISATC) at IEEE CIS, 2026-present </li>
+<li> <b> Official Nominator</b> for the <a href="https://vinfutureprize.org/">VinFuture Prize</a>. The VinFuture Prize, a global science and technology prize originating from Vietnam, is set up to honor breakthrough scientific research and technological innovations that create meaningful change in the everyday lives of millions of people. The VinFuture Prize is globally recognized and evaluated by a Prize Council featuring world-renowned scientists, including Nobel Laureates.</li>
 <li> <b> Vice Chair</b>, <a href="https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/"> IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation</a>, Dec 2022-present </li>
 <li> <b> Board member</b>, The Artificial Intelligence Researchers Association (AIRA), 2021-present </li>
 <li> <b> Subcommittee member</b>, IEEE CIS Women in Computational Intelligence & Collaborative Expansion and Engagement (WCI&CEE), 2026-present</li>
