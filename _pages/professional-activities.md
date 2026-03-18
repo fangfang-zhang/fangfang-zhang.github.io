@@ -8,6 +8,7 @@ ul li { padding: 5px 0px; }
 
 **Professional (Vice-)Chairs:**
 <ol>
+<li> <b> Co-Chair</b>, Intelligent System Application Technical Committee (ISATC) at IEEE CIS, 2026-present </li>
 <li> <b> Vice Chair</b>, <a href="https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/"> IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation</a>, Dec 2022-present </li>
 <li> <b> Board member</b>, The Artificial Intelligence Researchers Association (AIRA), 2021-present </li>
 <li> <b> Subcommittee member</b>, IEEE CIS Women in Computational Intelligence & Collaborative Expansion and Engagement (WCI&CEE), 2026-present</li>
