@@ -108,6 +108,7 @@ author_profile: true
 
 **Other papers**
 <ol>
+<li>Luyao Zhu, <b>Fangfang Zhang*</b>, Yi Mei, and Mengjie Zhang. "<a target="_blank" href="">Surrogate-assisted Lifelong Learning of Scheduling Rules with Genetic Programming for Dynamic Flexible Job Shop Scheduling</a>". <i>Late-Breaking Abstract at Evostar2026</i>, 2026. <a target="_blank" href="">[pdf]</a></li>
 <li>Luyao Zhu, <b>Fangfang Zhang*</b>, Yi Mei, and Mengjie Zhang. "<a target="_blank" href="https://arxiv.org/pdf/2601.15717">Investigation of the Generalisation Ability of Genetic Programming-evolved Scheduling Rules in Dynamic Flexible Job Shop Scheduling</a>". <i>arXiv</i>, 2026. <a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/main/files/2026ArXIV.pdf">[pdf]</a></li>
 </ol>
 
