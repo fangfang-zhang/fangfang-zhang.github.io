@@ -10,7 +10,7 @@ author_profile: true
 978-981-16-4859-5 (XXXIII+338 pages, <span style="color: #FF0000">the first book on hyper-heuristic for production scheduling</span>) <a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/master/files/2021-Zhang2021_Book_GeneticProgrammingForProduction.pdf">[pdf]</a>
 
 **Refereed Journal Articles**
-<ol>
+<ol>	
 <li>Meng Xu, Yi Mei, <b>Fangfang Zhang</b>, Ong Yew Soon, and Mengjie Zhang. "<a target="_blank" href="">Genetic Programming with Advanced Diverse Partner Selection for Dynamic Scheduling". Expert Systems With Applications</a>". <i>Expert Systems With Applications</i>, 2026. DOI:XXX	<a target="_blank" href="">[pdf]</a></li>	
 <li>Ke Chen, Feilong Zhou, <b>Fangfang Zhang</b>, Kunjie Yu, and Duo Yang. "<a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S0957417425043623?casa_token=sYfy-uEx-g0AAAAA:-Gs5hbWykITJpJMPvQjVlZVBpqtii-zWPWQq7EXENo0l44lSEpEAUQbrMpchaO6igFjbk9dsW0zZ">A Multi-Channel Signal Fault Diagnosis Method Based on Dynamic Weighted Data Fusion and Multi-Scale Feature Enhancement</a>". <i>Expert Systems With Applications</i>, 2025. DOI: 10.1016/j.eswa.2025.130747 <a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/main/files/2025-ESWA.pdf">[pdf]</a></li>	
 <li>Zaixing Sun, <b>Fangfang Zhang</b>, Yi Mei, Hejiao Huang, Chonglin Gu, Bin Wang, and Mengjie Zhang. "<a target="_blank" href="">Cooperative Coevolution Genetic Programming for Dynamic Joint Workflow Scheduling and Container Scaling in Cloud-Fog Computing</a>". <i>IEEE Transactions on Services Computing</i>, 2025. DOI: 10.1109/TSC.2025.3636121 <a target="_blank" href="">[pdf]</a></li>		
