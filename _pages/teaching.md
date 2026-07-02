@@ -40,11 +40,11 @@ author_profile: true
 <li> Zhuoyin Qiao, “Enhance Genetic Programming for Energy-efficient Dynamic Flexible Job Shop Scheduling”, Victoria University of Wellington, Sep. 2024 – present (PhD student, supervised by Dr Fangfang Zhang, Prof Yi Mei, and Prof Mengjie Zhang) </li>	
 <li> Yuye Zhang, “Multimodal Learning”, Victoria University of Wellington, Feb. 2024 – present (PhD student, supervised by Dr Fangfang Zhang, Prof Bing Xue, and Prof Mengjie Zhang) </li>	
 <li> Ruiqi Chen, “Job Shop Scheduling, Victoria University of Wellington, Sep. 2023 – Present (PhD student, supervised by Dr Yi Mei, Dr Fangfang Zhang, and Prof Mengjie Zhang) </li>	
-<li> Jordan MacLachlan, “Evolutionary Computation for Emergency Dispatch”, Victoria University of Wellington, Oct. 2021 – Present (PhD student, supervised by Dr Yi Mei, Dr Fangfang Zhang, and Prof Mengjie Zhang) </li>
 </ol>
 
 **Past PhD Students**
 <ol>
+<li> Jordan MacLachlan, “Genetic Programming Hyper Heuristics for Emergency Medical Dispatch”, Victoria University of Wellington, Oct. 2021 – Feb 2026 (PhD student, supervised by Dr Yi Mei, Dr Fangfang Zhang, and Prof Mengjie Zhang) </li>	
 <li> Shaojin Geng, “Dynamic Optimisation Problem”, Tongji University, Oct. 2023 – Oct 2025 (Visiting PhD student, supervised with Dr Yi Mei, Dr Fangfang Zhang, and Prof Mengjie Zhang) </li>		
 <li> Xinxin Xu, “Large-scale Dynamic Multi-objective Optimization based on Hyper-heuristics Algorithm”, Ocean University of China, Oct. 2023 – Sep. 2025 (Visiting PhD student, supervised with Dr Fangfang Zhang, Dr Yi Mei and Prof Mengjie Zhang) </li>	
 <li> Zaixing Sun, “Workflow Scheduling”, Harbin Institute of Technology, Apr. 2023 – Apr. 2024 (Visiting PhD student, supervised with Dr Yi Mei, Dr Fangfang Zhang, and Prof Mengjie Zhang) </li>
