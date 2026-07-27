@@ -84,6 +84,8 @@ author_profile: true
 
 **Research Assistant**
 <ol>
+<li> Shanshi Mao, “3D Packing”, Victoria University of Wellington, Apr. 2026 – Oct. 2025, supervised by Dr Fangfang Zhang</li>	
+<li> Qinyu Wang, “A New Genetic Programming Approach to Fine-Grained Fish Classification”, Victoria University of Wellington, Sep. 2025 – August. 2026, supervised by Dr Dr Fangfang Zhang, Prof Bing Xue and Prof Mengjie Zhang</li>	
 <li> William Huang,	“Genetic Programming Method for the Dynamic Electric Dial-a-ride Problem (DARP) ”, Victoria University of Wellington, Nov. 2024 – Feb. 2025, supervised by Dr Yi Mei and Dr Fangfang Zhang</li>
 </ol>
 
