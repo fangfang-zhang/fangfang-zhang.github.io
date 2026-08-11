@@ -81,6 +81,7 @@ ul li { padding: 5px 0px; }
 <li> Evolutionary Computation (ARC/ERA Tier A) </li>
 <li> IEEE Transactions on Systems, Man and Cybernetics: Systems (Top Q1, ARC/ERA Tier A) </li>
 <li> IEEE Transactions on Emerging Topics in Computational Intelligence (Q1) </li>
+<li> IEEE Computational Intelligence Magazine </li>
 <li> IEEE Transactions on Industrial Informatics (Q1) </li>
 <li> Journal of Manufacturing Systems (Top Q1) </li>
 <li> Information Sciences (Top Q1) </li>
