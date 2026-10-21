@@ -35,7 +35,6 @@ author_profile: true
 
 **PhD Students**
 <ol>
-<li></li>	
 <li> James McGaughran, “Data-Driven Analysis of Large Legislative Datasets”, Victoria University of Wellington, Nov. 2026 – present (PhD student, supervised by Dr Denny Kudrna and Dr Fangfang Zhang) </li>		
 <li> Luyao Zhu, “Improved Genetic Programming for Dynamic Flexible Job Shop Scheduling under Batch Arrivals”, Victoria University of Wellington, Sep. 2024 – present (PhD student, supervised by Dr Fangfang Zhang, Prof Yi Mei, and Prof Mengjie Zhang) </li>		
 <li> Zhuoyin Qiao, “Enhance Genetic Programming for Energy-efficient Dynamic Flexible Job Shop Scheduling”, Victoria University of Wellington, Sep. 2024 – present (PhD student, supervised by Dr Fangfang Zhang, Prof Yi Mei, and Prof Mengjie Zhang) </li>	
